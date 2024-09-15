@@ -1,0 +1,297 @@
+{
+  "QueryResult": {
+    "RecordsSearched": 0,
+    "RecordsFound": 1,
+    "RecordsAvailable": 1,
+    "Warnings": []
+  },
+  "Data": {
+    "Records": [
+      {
+        "author_name": "Garg, Urvashi",
+        "publication_summary": {
+          "nonIndexedPublications": 4,
+          "totalPublications": 12,
+          "pprnPublications": 0,
+          "wosccPublications": 8,
+          "pqdtPublications": 0,
+          "indexedPublications": 8
+        },
+        "fullJournalsList": [
+          {
+            "count": "2",
+            "value": "2018 FIRST INTERNATIONAL CONFERENCE ON SECURE CYBER COMPUTING AND COMMUNICATIONS (ICSCCC 2018)"
+          },
+          {
+            "count": "1",
+            "value": "COMPUTERS & SECURITY"
+          },
+          {
+            "count": "1",
+            "value": "INFORMATION SECURITY JOURNAL"
+          },
+          {
+            "count": "1",
+            "value": "INTERNET OF THINGS"
+          },
+          {
+            "count": "1",
+            "value": "MULTIMEDIA TOOLS AND APPLICATIONS"
+          },
+          {
+            "count": "1",
+            "value": "ADVANCES IN INTELLIGENT SYSTEMS AND COMPUTING"
+          },
+          {
+            "count": "1",
+            "value": "PROCEEDINGS OF INTERNATIONAL CONFERENCE ON ADVANCES IN COMPUTING"
+          },
+          {
+            "count": "1",
+            "value": "COMPUTER COMMUNICATIONS"
+          }
+        ],
+        "authorAliasName": "Garg, Urvashi",
+        "affiliations": [
+          {
+            "value": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+            "count": 7,
+            "maxYear": 2024,
+            "minYear": 2018
+          },
+          {
+            "value": "National Institute of Technology (NIT System)",
+            "count": 1,
+            "maxYear": 2013,
+            "minYear": 2013
+          }
+        ],
+        "primaryAffiliationLocation": "JALANDHAR, PUNJAB, INDIA",
+        "rid": "AAD-4732-2019",
+        "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+        "photoUrlLarge": "https://publons.com/media/thumbs/academic/photos/9565810c-e532-4a1a-ba11-7cea3a430a22.jpg.200x200_q95_crop_detail_upscale.jpg",
+        "publonsBasicMetricsData": {
+          "publonsProfileData": {
+            "institutions": [
+              {
+                "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+                "department": "Computer Science and Engineering",
+                "role": "Assistant Professor",
+                "startDate": "2019",
+                "endDate": "present",
+                "url": "/wos-op/institution/352999/"
+              },
+              {
+                "institution": "Thapar University, Patiala.",
+                "department": "Computer Science and Engineering",
+                "role": "Lecturer",
+                "startDate": "2019",
+                "endDate": "2019",
+                "url": "/wos-op/institution/10909/"
+              }
+            ],
+            "researchFields": [
+              {
+                "url": "/wos-op/researcher/?research_field=23306",
+                "name": "Biometric Authentication"
+              },
+              {
+                "url": "/wos-op/researcher/?research_field=59073",
+                "name": "Cyber Warfare"
+              },
+              {
+                "url": "/wos-op/researcher/?research_field=8743",
+                "name": "information security"
+              },
+              {
+                "url": "/wos-op/researcher/?research_field=2441",
+                "name": "Machine Learning"
+              },
+              {
+                "url": "/wos-op/researcher/?research_field=1321828",
+                "name": "ransomware"
+              },
+              {
+                "url": "/wos-op/researcher/?research_field=24790",
+                "name": "vulnerability assessment"
+              }
+            ],
+            "awards": [],
+            "institutionsUrl": "/wos-op/dashboard/settings/affiliations/",
+            "researchFieldsUrl": "/wos-op/dashboard/settings/profile/"
+          },
+          "publonsIndividualStatsData": {
+            "ready": true,
+            "citationsPerYear": {
+              "1950": "0",
+              "1951": "0",
+              "1952": "0",
+              "1953": "0",
+              "1954": "0",
+              "1955": "0",
+              "1956": "0",
+              "1957": "0",
+              "1958": "0",
+              "1959": "0",
+              "1960": "0",
+              "1961": "0",
+              "1962": "0",
+              "1963": "0",
+              "1964": "0",
+              "1965": "0",
+              "1966": "0",
+              "1967": "0",
+              "1968": "0",
+              "1969": "0",
+              "1970": "0",
+              "1971": "0",
+              "1972": "0",
+              "1973": "0",
+              "1974": "0",
+              "1975": "0",
+              "1976": "0",
+              "1977": "0",
+              "1978": "0",
+              "1979": "0",
+              "1980": "0",
+              "1981": "0",
+              "1982": "0",
+              "1983": "0",
+              "1984": "0",
+              "1985": "0",
+              "1986": "0",
+              "1987": "0",
+              "1988": "0",
+              "1989": "0",
+              "1990": "0",
+              "1991": "0",
+              "1992": "0",
+              "1993": "0",
+              "1994": "0",
+              "1995": "0",
+              "1996": "0",
+              "1997": "0",
+              "1998": "0",
+              "1999": "0",
+              "2000": "0",
+              "2001": "0",
+              "2002": "0",
+              "2003": "0",
+              "2004": "0",
+              "2005": "0",
+              "2006": "0",
+              "2007": "0",
+              "2008": "0",
+              "2009": "0",
+              "2010": "0",
+              "2011": "0",
+              "2012": "0",
+              "2013": "0",
+              "2014": "1",
+              "2015": "2",
+              "2016": "0",
+              "2017": "1",
+              "2018": "0",
+              "2019": "2",
+              "2020": "1",
+              "2021": "3",
+              "2022": "16",
+              "2023": "20",
+              "2024": "16"
+            },
+            "averagePerItem": 5.64,
+            "averagePerYear": 5.64,
+            "hIndex": 4.0,
+            "timesCited": 62,
+            "dedupedTimesCited": 62,
+            "numPublicationsInWosCc": 11,
+            "timesCitedInDiidw": 0,
+            "dedupedTimesCitedInDiidw": 0,
+            "numPqdtPublications": 0
+          },
+          "publonsStatData": {
+            "ready": true,
+            "total": {
+              "verifiedReviews": 2.0,
+              "verifiedReviews12Mo": 0.0,
+              "reviewRatio": 0.13333333333333333,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "median": {
+              "verifiedReviews": 4.0,
+              "verifiedReviews12Mo": 0.0,
+              "reviewRatio": 0.3076923076923077,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "percentile": {
+              "verifiedReviews": 0.41,
+              "verifiedReviews12Mo": 0.57,
+              "reviewRatio": 0.31,
+              "verifiedEditorRecords": 0.98,
+              "verifiedEditorRecords12Mo": 0.99
+            }
+          }
+        },
+        "showPublishedNames": true,
+        "categories": [
+          "Computer Science",
+          "Engineering",
+          "Telecommunications"
+        ],
+        "alternativeName": [
+          {
+            "value": "Garg, Urvashi",
+            "count": 7
+          },
+          {
+            "value": "Urvashi",
+            "count": 1
+          }
+        ],
+        "academy": {
+          "isAcademyGraduate": null,
+          "isAcademySupervisor": null
+        },
+        "diidw_stats": {
+          "total_times_cited": 0,
+          "total_citing_articles_without_self_citations": 0,
+          "h_index": 0,
+          "total_citing_articles": 0,
+          "total_articles": 8,
+          "total_times_cited_without_self_citations": 0
+        },
+        "claim_status": true,
+        "showOrganizationNames": true,
+        "orcid": "0000-0002-3395-9942",
+        "publishingName": "Urvashi Garg",
+        "authorId": "2032190",
+        "primaryAffiliation": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+        "primaryInstitutionAffiliation": {
+          "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+          "department": "Computer Science and Engineering",
+          "role": "Assistant Professor",
+          "startDate": "2019",
+          "endDate": "present",
+          "url": "/wos-op/institution/352999/"
+        },
+        "primaryAffiliationDepartment": [
+          "Comp Sci & Engn"
+        ],
+        "excellentReviews": {
+          "excellentReviewsCount": 0,
+          "isExcellentReviewer": false
+        },
+        "wos_stats": {
+          "total_times_cited": 17,
+          "total_citing_articles_without_self_citations": 16,
+          "h_index": 2,
+          "total_citing_articles": 17,
+          "total_articles": 8,
+          "total_times_cited_without_self_citations": 16
+        }
+      }
+    ]
+  }
+}

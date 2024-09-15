@@ -1,0 +1,244 @@
+{
+  "QueryResult": {
+    "RecordsSearched": 0,
+    "RecordsFound": 1,
+    "RecordsAvailable": 1,
+    "Warnings": []
+  },
+  "Data": {
+    "Records": [
+      {
+        "author_name": "Arora, Shefali",
+        "publication_summary": {
+          "nonIndexedPublications": 0,
+          "totalPublications": 8,
+          "pprnPublications": 0,
+          "wosccPublications": 8,
+          "pqdtPublications": 0,
+          "indexedPublications": 8
+        },
+        "fullJournalsList": [
+          {
+            "count": "1",
+            "value": "VISUAL COMPUTER"
+          },
+          {
+            "count": "1",
+            "value": "2018 9TH INTERNATIONAL CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT)"
+          },
+          {
+            "count": "1",
+            "value": "2018 FIRST INTERNATIONAL CONFERENCE ON SECURE CYBER COMPUTING AND COMMUNICATIONS (ICSCCC 2018)"
+          },
+          {
+            "count": "1",
+            "value": "ARCHIVES OF COMPUTATIONAL METHODS IN ENGINEERING"
+          },
+          {
+            "count": "1",
+            "value": "INFORMATION SECURITY JOURNAL"
+          },
+          {
+            "count": "1",
+            "value": "IEEE INTERNATIONAL ADVANCE COMPUTING CONFERENCE"
+          },
+          {
+            "count": "1",
+            "value": "MULTIMEDIA TOOLS AND APPLICATIONS"
+          },
+          {
+            "count": "1",
+            "value": "INTERNET TECHNOLOGY LETTERS"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL CONFERENCE ON COMPUTING COMMUNICATION AND NETWORK TECHNOLOGIES"
+          },
+          {
+            "count": "1",
+            "value": "PROCEEDINGS OF THE 2018 IEEE 8TH INTERNATIONAL ADVANCE COMPUTING CONFERENCE (IACC 2018)"
+          }
+        ],
+        "authorAliasName": "Arora, Shefali",
+        "affiliations": [
+          {
+            "value": "Netaji Subhas University of Technology",
+            "count": 8,
+            "maxYear": 2023,
+            "minYear": 2018
+          }
+        ],
+        "primaryAffiliationLocation": "NEW DELHI, INDIA",
+        "rid": "HMD-8033-2023",
+        "institution": "Netaji Subhas University of Technology",
+        "photoUrlLarge": "https://publons.com/media/initialcon/SA200.png",
+        "publonsBasicMetricsData": {
+          "publonsProfileData": {
+            "institutions": [],
+            "researchFields": [],
+            "awards": [],
+            "institutionsUrl": "/wos-op/dashboard/settings/affiliations/",
+            "researchFieldsUrl": "/wos-op/dashboard/settings/profile/"
+          },
+          "publonsIndividualStatsData": {
+            "ready": true,
+            "citationsPerYear": {
+              "1950": "0",
+              "1951": "0",
+              "1952": "0",
+              "1953": "0",
+              "1954": "0",
+              "1955": "0",
+              "1956": "0",
+              "1957": "0",
+              "1958": "0",
+              "1959": "0",
+              "1960": "0",
+              "1961": "0",
+              "1962": "0",
+              "1963": "0",
+              "1964": "0",
+              "1965": "0",
+              "1966": "0",
+              "1967": "0",
+              "1968": "0",
+              "1969": "0",
+              "1970": "0",
+              "1971": "0",
+              "1972": "0",
+              "1973": "0",
+              "1974": "0",
+              "1975": "0",
+              "1976": "0",
+              "1977": "0",
+              "1978": "0",
+              "1979": "0",
+              "1980": "0",
+              "1981": "0",
+              "1982": "0",
+              "1983": "0",
+              "1984": "0",
+              "1985": "0",
+              "1986": "0",
+              "1987": "0",
+              "1988": "0",
+              "1989": "0",
+              "1990": "0",
+              "1991": "0",
+              "1992": "0",
+              "1993": "0",
+              "1994": "0",
+              "1995": "0",
+              "1996": "0",
+              "1997": "0",
+              "1998": "0",
+              "1999": "0",
+              "2000": "0",
+              "2001": "0",
+              "2002": "0",
+              "2003": "0",
+              "2004": "0",
+              "2005": "0",
+              "2006": "0",
+              "2007": "0",
+              "2008": "0",
+              "2009": "0",
+              "2010": "0",
+              "2011": "0",
+              "2012": "0",
+              "2013": "0",
+              "2014": "0",
+              "2015": "0",
+              "2016": "0",
+              "2017": "0",
+              "2018": "0",
+              "2019": "1",
+              "2020": "1",
+              "2021": "6",
+              "2022": "13",
+              "2023": "12",
+              "2024": "6"
+            },
+            "averagePerItem": 4.88,
+            "averagePerYear": 6.5,
+            "hIndex": 4.0,
+            "timesCited": 39,
+            "dedupedTimesCited": 39,
+            "numPublicationsInWosCc": 8,
+            "timesCitedInDiidw": 0,
+            "dedupedTimesCitedInDiidw": 0,
+            "numPqdtPublications": 0
+          },
+          "publonsStatData": {
+            "ready": true,
+            "total": {
+              "verifiedReviews": 0.0,
+              "verifiedReviews12Mo": 0.0,
+              "reviewRatio": 0.0,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "median": {
+              "verifiedReviews": 4.0,
+              "verifiedReviews12Mo": 0.0,
+              "reviewRatio": 0.3076923076923077,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "percentile": {
+              "verifiedReviews": 0.02,
+              "verifiedReviews12Mo": 0.57,
+              "reviewRatio": 0.0,
+              "verifiedEditorRecords": 0.98,
+              "verifiedEditorRecords12Mo": 0.99
+            }
+          }
+        },
+        "showPublishedNames": true,
+        "categories": [
+          "Computer Science",
+          "Engineering",
+          "Telecommunications",
+          "Mathematics"
+        ],
+        "alternativeName": [
+          {
+            "value": "Arora, Shefali",
+            "count": 8
+          }
+        ],
+        "academy": {
+          "isAcademyGraduate": null,
+          "isAcademySupervisor": null
+        },
+        "diidw_stats": {
+          "total_times_cited": 0,
+          "total_citing_articles_without_self_citations": 0,
+          "h_index": 0,
+          "total_citing_articles": 0,
+          "total_articles": 8,
+          "total_times_cited_without_self_citations": 0
+        },
+        "claim_status": true,
+        "showOrganizationNames": true,
+        "orcid": null,
+        "publishingName": "Shefali Arora",
+        "authorId": "38188247",
+        "primaryAffiliation": "Netaji Subhas University of Technology",
+        "primaryInstitutionAffiliation": null,
+        "excellentReviews": {
+          "excellentReviewsCount": 0,
+          "isExcellentReviewer": false
+        },
+        "wos_stats": {
+          "total_times_cited": 39,
+          "total_citing_articles_without_self_citations": 39,
+          "h_index": 4,
+          "total_citing_articles": 39,
+          "total_articles": 8,
+          "total_times_cited_without_self_citations": 39
+        }
+      }
+    ]
+  }
+}

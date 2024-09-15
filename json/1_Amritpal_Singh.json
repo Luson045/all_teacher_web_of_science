@@ -1,0 +1,309 @@
+{
+  "QueryResult": {
+    "RecordsSearched": 0,
+    "RecordsFound": 1,
+    "RecordsAvailable": 1,
+    "Warnings": []
+  },
+  "Data": {
+    "Records": [
+      {
+        "author_name": "Singh, Amritpal",
+        "publication_summary": {
+          "nonIndexedPublications": 0,
+          "totalPublications": 22,
+          "pprnPublications": 0,
+          "wosccPublications": 22,
+          "pqdtPublications": 0,
+          "indexedPublications": 22
+        },
+        "fullJournalsList": [
+          {
+            "count": "3",
+            "value": "FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE"
+          },
+          {
+            "count": "2",
+            "value": "IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS"
+          },
+          {
+            "count": "2",
+            "value": "IEEE GLOBAL COMMUNICATIONS CONFERENCE"
+          },
+          {
+            "count": "2",
+            "value": "COMPUTING AND INFORMATICS"
+          },
+          {
+            "count": "2",
+            "value": "GLOBECOM 2017 - 2017 IEEE GLOBAL COMMUNICATIONS CONFERENCE"
+          },
+          {
+            "count": "2",
+            "value": "NEW GENERATION COMPUTING"
+          },
+          {
+            "count": "2",
+            "value": "IEEE NETWORK"
+          },
+          {
+            "count": "1",
+            "value": "PROCEDIA COMPUTER SCIENCE"
+          },
+          {
+            "count": "1",
+            "value": "2018 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)"
+          },
+          {
+            "count": "1",
+            "value": "JOURNAL OF AMBIENT INTELLIGENCE AND SMART ENVIRONMENTS"
+          },
+          {
+            "count": "1",
+            "value": "ADVANCED NETWORK TECHNOLOGIES AND INTELLIGENT COMPUTING, ANTIC 2021"
+          },
+          {
+            "count": "1",
+            "value": "COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE"
+          },
+          {
+            "count": "1",
+            "value": "IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS"
+          },
+          {
+            "count": "1",
+            "value": "IEEE INTERNET OF THINGS JOURNAL"
+          },
+          {
+            "count": "1",
+            "value": "IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS"
+          },
+          {
+            "count": "1",
+            "value": "PROCEEDINGS OF THE 4TH INTERNATIONAL CONFERENCE ON ECO-FRIENDLY COMPUTING AND COMMUNICATION SYSTEMS"
+          },
+          {
+            "count": "1",
+            "value": "KNOWLEDGE-BASED SYSTEMS"
+          },
+          {
+            "count": "1",
+            "value": "IEEE TRANSACTIONS ON SUSTAINABLE COMPUTING"
+          },
+          {
+            "count": "1",
+            "value": "PROCEEDINGS OF THE 2019 INTERNATIONAL CONFERENCE ON INTELLIGENT COMPUTING AND CONTROL SYSTEMS (ICCS)"
+          }
+        ],
+        "authorAliasName": "Singh, Amritpal",
+        "affiliations": [
+          {
+            "value": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+            "count": 5,
+            "maxYear": 2022,
+            "minYear": 2022
+          },
+          {
+            "value": "National Institute of Technology (NIT System)",
+            "count": 2,
+            "maxYear": 2021,
+            "minYear": 2020
+          },
+          {
+            "value": "Thapar Institute of Engineering & Technology",
+            "count": 15,
+            "maxYear": 2020,
+            "minYear": 2015
+          }
+        ],
+        "primaryAffiliationLocation": "JALANDHAR, PUNJAB, INDIA",
+        "rid": "AAS-9168-2020",
+        "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+        "photoUrlLarge": "https://publons.com/media/initialcon/AS200.png",
+        "publonsBasicMetricsData": {
+          "publonsProfileData": {
+            "institutions": [
+              {
+                "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+                "department": "Computer Science & Engineering",
+                "role": "Assistant Professor",
+                "startDate": "2019",
+                "endDate": "present",
+                "url": "/wos-op/institution/352999/"
+              }
+            ],
+            "researchFields": [],
+            "awards": [],
+            "institutionsUrl": "/wos-op/dashboard/settings/affiliations/",
+            "researchFieldsUrl": "/wos-op/dashboard/settings/profile/"
+          },
+          "publonsIndividualStatsData": {
+            "ready": true,
+            "citationsPerYear": {
+              "1950": "0",
+              "1951": "0",
+              "1952": "0",
+              "1953": "0",
+              "1954": "0",
+              "1955": "0",
+              "1956": "0",
+              "1957": "0",
+              "1958": "0",
+              "1959": "0",
+              "1960": "0",
+              "1961": "0",
+              "1962": "0",
+              "1963": "0",
+              "1964": "0",
+              "1965": "0",
+              "1966": "0",
+              "1967": "0",
+              "1968": "0",
+              "1969": "0",
+              "1970": "0",
+              "1971": "0",
+              "1972": "0",
+              "1973": "0",
+              "1974": "0",
+              "1975": "0",
+              "1976": "0",
+              "1977": "0",
+              "1978": "0",
+              "1979": "0",
+              "1980": "0",
+              "1981": "0",
+              "1982": "0",
+              "1983": "0",
+              "1984": "0",
+              "1985": "0",
+              "1986": "0",
+              "1987": "0",
+              "1988": "0",
+              "1989": "0",
+              "1990": "0",
+              "1991": "0",
+              "1992": "0",
+              "1993": "0",
+              "1994": "0",
+              "1995": "0",
+              "1996": "0",
+              "1997": "0",
+              "1998": "0",
+              "1999": "0",
+              "2000": "0",
+              "2001": "0",
+              "2002": "0",
+              "2003": "0",
+              "2004": "0",
+              "2005": "0",
+              "2006": "0",
+              "2007": "0",
+              "2008": "0",
+              "2009": "0",
+              "2010": "0",
+              "2011": "0",
+              "2012": "0",
+              "2013": "0",
+              "2014": "0",
+              "2015": "0",
+              "2016": "0",
+              "2017": "0",
+              "2018": "5",
+              "2019": "48",
+              "2020": "105",
+              "2021": "109",
+              "2022": "127",
+              "2023": "102",
+              "2024": "54"
+            },
+            "averagePerItem": 25.0,
+            "averagePerYear": 78.57,
+            "hIndex": 12.0,
+            "timesCited": 550,
+            "dedupedTimesCited": 505,
+            "numPublicationsInWosCc": 22,
+            "timesCitedInDiidw": 1,
+            "dedupedTimesCitedInDiidw": 1,
+            "numPqdtPublications": 0
+          },
+          "publonsStatData": {
+            "ready": true,
+            "total": {
+              "verifiedReviews": 0.0,
+              "verifiedReviews12Mo": 0.0,
+              "reviewRatio": 0.0,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "median": {
+              "verifiedReviews": 4.0,
+              "verifiedReviews12Mo": 0.0,
+              "reviewRatio": 0.3076923076923077,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "percentile": {
+              "verifiedReviews": 0.02,
+              "verifiedReviews12Mo": 0.57,
+              "reviewRatio": 0.0,
+              "verifiedEditorRecords": 0.98,
+              "verifiedEditorRecords12Mo": 0.99
+            }
+          }
+        },
+        "showPublishedNames": true,
+        "categories": [
+          "Computer Science",
+          "Engineering",
+          "Telecommunications",
+          "Automation & Control Systems",
+          "Transportation"
+        ],
+        "alternativeName": [
+          {
+            "value": "Singh, Amritpal",
+            "count": 22
+          }
+        ],
+        "academy": {
+          "isAcademyGraduate": null,
+          "isAcademySupervisor": null
+        },
+        "diidw_stats": {
+          "total_times_cited": 1,
+          "total_citing_articles_without_self_citations": 1,
+          "h_index": 0,
+          "total_citing_articles": 1,
+          "total_articles": 22,
+          "total_times_cited_without_self_citations": 1
+        },
+        "claim_status": true,
+        "showOrganizationNames": true,
+        "orcid": "0000-0002-2080-7392",
+        "publishingName": "Amritpal Singh",
+        "authorId": "2033654",
+        "primaryAffiliation": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+        "primaryInstitutionAffiliation": {
+          "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+          "department": "Computer Science & Engineering",
+          "role": "Assistant Professor",
+          "startDate": "2019",
+          "endDate": "present",
+          "url": "/wos-op/institution/352999/"
+        },
+        "excellentReviews": {
+          "excellentReviewsCount": 0,
+          "isExcellentReviewer": false
+        },
+        "wos_stats": {
+          "total_times_cited": 550,
+          "total_citing_articles_without_self_citations": 498,
+          "h_index": 12,
+          "total_citing_articles": 505,
+          "total_articles": 22,
+          "total_times_cited_without_self_citations": 538
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "QueryResult": {
+    "RecordsSearched": 0,
+    "RecordsFound": 1,
+    "RecordsAvailable": 1,
+    "Warnings": []
+  },
+  "Data": {
+    "Records": [
+      {
+        "author_name": "Singh, Samayveer",
+        "publication_summary": {
+          "nonIndexedPublications": 0,
+          "totalPublications": 74,
+          "pprnPublications": 0,
+          "wosccPublications": 74,
+          "pqdtPublications": 0,
+          "indexedPublications": 74
+        },
+        "fullJournalsList": [
+          {
+            "count": "12",
+            "value": "MULTIMEDIA TOOLS AND APPLICATIONS"
+          },
+          {
+            "count": "5",
+            "value": "WIRELESS PERSONAL COMMUNICATIONS"
+          },
+          {
+            "count": "3",
+            "value": "JOURNAL OF INFORMATION & OPTIMIZATION SCIENCES"
+          },
+          {
+            "count": "3",
+            "value": "INTERNATIONAL JOURNAL OF COMMUNICATION SYSTEMS"
+          },
+          {
+            "count": "3",
+            "value": "IEEE INTERNET OF THINGS JOURNAL"
+          },
+          {
+            "count": "2",
+            "value": "SECURITY AND PRIVACY"
+          },
+          {
+            "count": "2",
+            "value": "COMPUTERS & ELECTRICAL ENGINEERING"
+          },
+          {
+            "count": "2",
+            "value": "SOFT COMPUTING"
+          },
+          {
+            "count": "2",
+            "value": "2014 5TH INTERNATIONAL CONFERENCE CONFLUENCE THE NEXT GENERATION INFORMATION TECHNOLOGY SUMMIT (CONFLUENCE)"
+          },
+          {
+            "count": "2",
+            "value": "CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE"
+          },
+          {
+            "count": "2",
+            "value": "WIRELESS NETWORKS"
+          },
+          {
+            "count": "2",
+            "value": "IEEE INTERNATIONAL ADVANCE COMPUTING CONFERENCE"
+          },
+          {
+            "count": "2",
+            "value": "IEEE SENSORS JOURNAL"
+          },
+          {
+            "count": "2",
+            "value": "2016 IEEE INTERNATIONAL CONFERENCE ON COMPUTING, COMMUNICATION AND AUTOMATION (ICCCA)"
+          },
+          {
+            "count": "2",
+            "value": "ENGINEERING SCIENCE AND TECHNOLOGY-AN INTERNATIONAL JOURNAL-JESTECH"
+          },
+          {
+            "count": "2",
+            "value": "PEER-TO-PEER NETWORKING AND APPLICATIONS"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF FUTURE GENERATION COMMUNICATION AND NETWORKING"
+          },
+          {
+            "count": "1",
+            "value": "2016 3RD INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING AND INTEGRATED NETWORKS (SPIN)"
+          },
+          {
+            "count": "1",
+            "value": "APPLIED SOFT COMPUTING"
+          },
+          {
+            "count": "1",
+            "value": "MULTIDIMENSIONAL SYSTEMS AND SIGNAL PROCESSING"
+          },
+          {
+            "count": "1",
+            "value": "MICROPROCESSORS AND MICROSYSTEMS"
+          },
+          {
+            "count": "1",
+            "value": "2014 INTERNATIONAL CONFERENCE ON ADVANCES IN COMPUTING, COMMUNICATIONS AND INFORMATICS (ICACCI)"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF HEALTHCARE INFORMATION SYSTEMS AND INFORMATICS"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL ARAB JOURNAL OF INFORMATION TECHNOLOGY"
+          },
+          {
+            "count": "1",
+            "value": "SUSTAINABLE COMPUTING-INFORMATICS & SYSTEMS"
+          },
+          {
+            "count": "1",
+            "value": "IEEE ACCESS"
+          },
+          {
+            "count": "1",
+            "value": "PROCEEDINGS OF THE 2014 INTERNATIONAL CONFERENCE ON INFORMATION SYSTEMS AND COMPUTER NETWORKS (ISCON)"
+          },
+          {
+            "count": "1",
+            "value": "JOURNAL OF INSTRUMENTATION"
+          },
+          {
+            "count": "1",
+            "value": "ARCHIVES OF COMPUTATIONAL METHODS IN ENGINEERING"
+          },
+          {
+            "count": "1",
+            "value": "TELECOMMUNICATION SYSTEMS"
+          },
+          {
+            "count": "1",
+            "value": "IEEE TRANSACTIONS ON CONSUMER ELECTRONICS"
+          },
+          {
+            "count": "1",
+            "value": "JOURNAL OF INFORMATION SECURITY AND APPLICATIONS"
+          },
+          {
+            "count": "1",
+            "value": "COMPUTER STANDARDS & INTERFACES"
+          },
+          {
+            "count": "1",
+            "value": "COMPUTER SCIENCE REVIEW"
+          },
+          {
+            "count": "1",
+            "value": "IET IMAGE PROCESSING"
+          },
+          {
+            "count": "1",
+            "value": "JOURNAL OF GRID COMPUTING"
+          },
+          {
+            "count": "1",
+            "value": "TRANSACTIONS ON EMERGING TELECOMMUNICATIONS TECHNOLOGIES"
+          },
+          {
+            "count": "1",
+            "value": "PROCEEDINGS OF THE 2013 3RD IEEE INTERNATIONAL ADVANCE COMPUTING CONFERENCE (IACC)"
+          },
+          {
+            "count": "1",
+            "value": "2019 6TH INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING AND INTEGRATED NETWORKS (SPIN)"
+          },
+          {
+            "count": "1",
+            "value": "IET WIRELESS SENSOR SYSTEMS"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL CONFERENCE ON ADVANCES IN INFORMATION COMMUNICATION TECHNOLOGY & COMPUTING, 2016"
+          },
+          {
+            "count": "1",
+            "value": "IRANIAN JOURNAL OF SCIENCE AND TECHNOLOGY-TRANSACTIONS OF ELECTRICAL ENGINEERING"
+          },
+          {
+            "count": "1",
+            "value": "JOURNAL OF SUPERCOMPUTING"
+          },
+          {
+            "count": "1",
+            "value": "PROCEEDINGS OF THE 2018 IEEE 8TH INTERNATIONAL ADVANCE COMPUTING CONFERENCE (IACC 2018)"
+          }
+        ],
+        "authorAliasName": "Singh, Samayveer",
+        "affiliations": [
+          {
+            "value": "National Institute of Technology (NIT System)",
+            "count": 8,
+            "maxYear": 2024,
+            "minYear": 2019
+          },
+          {
+            "value": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+            "count": 41,
+            "maxYear": 2024,
+            "minYear": 2015
+          },
+          {
+            "value": "Dept Comp Sci & Engn",
+            "count": 1,
+            "maxYear": 2022,
+            "minYear": 2022
+          },
+          {
+            "value": "Natl Inst Technol",
+            "count": 1,
+            "maxYear": 2021,
+            "minYear": 2021
+          },
+          {
+            "value": "Bennett Univ",
+            "count": 9,
+            "maxYear": 2019,
+            "minYear": 2016
+          },
+          {
+            "value": "Netaji Subhas University of Technology",
+            "count": 15,
+            "maxYear": 2018,
+            "minYear": 2013
+          }
+        ],
+        "primaryAffiliationLocation": "JALANDHAR, INDIA",
+        "rid": "X-8119-2019",
+        "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+        "photoUrlLarge": "https://publons.com/media/initialcon/SS200.png",
+        "publonsBasicMetricsData": {
+          "publonsProfileData": {
+            "institutions": [
+              {
+                "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+                "department": "Computer Science & Engineering",
+                "role": "Teaching & Research",
+                "startDate": "2018",
+                "endDate": "present",
+                "url": "/wos-op/institution/352999/"
+              }
+            ],
+            "researchFields": [],
+            "awards": [],
+            "institutionsUrl": "/wos-op/dashboard/settings/affiliations/",
+            "researchFieldsUrl": "/wos-op/dashboard/settings/profile/"
+          },
+          "publonsIndividualStatsData": {
+            "ready": true,
+            "citationsPerYear": {
+              "1950": "0",
+              "1951": "0",
+              "1952": "0",
+              "1953": "0",
+              "1954": "0",
+              "1955": "0",
+              "1956": "0",
+              "1957": "0",
+              "1958": "0",
+              "1959": "0",
+              "1960": "0",
+              "1961": "0",
+              "1962": "0",
+              "1963": "0",
+              "1964": "0",
+              "1965": "0",
+              "1966": "0",
+              "1967": "0",
+              "1968": "0",
+              "1969": "0",
+              "1970": "0",
+              "1971": "0",
+              "1972": "0",
+              "1973": "0",
+              "1974": "0",
+              "1975": "0",
+              "1976": "0",
+              "1977": "0",
+              "1978": "0",
+              "1979": "0",
+              "1980": "0",
+              "1981": "0",
+              "1982": "0",
+              "1983": "0",
+              "1984": "0",
+              "1985": "0",
+              "1986": "0",
+              "1987": "0",
+              "1988": "0",
+              "1989": "0",
+              "1990": "0",
+              "1991": "0",
+              "1992": "0",
+              "1993": "0",
+              "1994": "0",
+              "1995": "0",
+              "1996": "0",
+              "1997": "0",
+              "1998": "0",
+              "1999": "0",
+              "2000": "0",
+              "2001": "0",
+              "2002": "0",
+              "2003": "0",
+              "2004": "0",
+              "2005": "0",
+              "2006": "0",
+              "2007": "0",
+              "2008": "0",
+              "2009": "0",
+              "2010": "0",
+              "2011": "0",
+              "2012": "0",
+              "2013": "0",
+              "2014": "2",
+              "2015": "2",
+              "2016": "12",
+              "2017": "24",
+              "2018": "30",
+              "2019": "61",
+              "2020": "89",
+              "2021": "111",
+              "2022": "214",
+              "2023": "184",
+              "2024": "153"
+            },
+            "averagePerItem": 11.92,
+            "averagePerYear": 80.18,
+            "hIndex": 17.0,
+            "timesCited": 882,
+            "dedupedTimesCited": 624,
+            "numPublicationsInWosCc": 74,
+            "timesCitedInDiidw": 0,
+            "dedupedTimesCitedInDiidw": 0,
+            "numPqdtPublications": 0
+          },
+          "publonsStatData": {
+            "ready": true,
+            "total": {
+              "verifiedReviews": 72.0,
+              "verifiedReviews12Mo": 17.0,
+              "reviewRatio": 0.972972972972973,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "median": {
+              "verifiedReviews": 4.0,
+              "verifiedReviews12Mo": 0.0,
+              "reviewRatio": 0.3076923076923077,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "percentile": {
+              "verifiedReviews": 0.96,
+              "verifiedReviews12Mo": 0.98,
+              "reviewRatio": 0.78,
+              "verifiedEditorRecords": 0.98,
+              "verifiedEditorRecords12Mo": 0.99
+            }
+          }
+        },
+        "showPublishedNames": true,
+        "categories": [
+          "Computer Science",
+          "Engineering",
+          "Telecommunications",
+          "Instruments & Instrumentation",
+          "Information Science & Library Science",
+          "Physics",
+          "Automation & Control Systems",
+          "Imaging Science & Photographic Technology",
+          "Medical Informatics",
+          "Mathematics"
+        ],
+        "alternativeName": [
+          {
+            "value": "Singh, Samayveer",
+            "count": 73
+          },
+          {
+            "value": "Singh, S.",
+            "count": 1
+          }
+        ],
+        "academy": {
+          "isAcademyGraduate": null,
+          "isAcademySupervisor": null
+        },
+        "diidw_stats": {
+          "total_times_cited": 0,
+          "total_citing_articles_without_self_citations": 0,
+          "h_index": 0,
+          "total_citing_articles": 0,
+          "total_articles": 74,
+          "total_times_cited_without_self_citations": 0
+        },
+        "claim_status": true,
+        "showOrganizationNames": true,
+        "orcid": "0000-0002-4199-721X",
+        "publishingName": "Samayveer Singh",
+        "authorId": "1858218",
+        "primaryAffiliation": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+        "primaryInstitutionAffiliation": {
+          "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+          "department": "Computer Science & Engineering",
+          "role": "Teaching & Research",
+          "startDate": "2018",
+          "endDate": "present",
+          "url": "/wos-op/institution/352999/"
+        },
+        "primaryAffiliationDepartment": [
+          "Dept Comp Sci & Engn"
+        ],
+        "excellentReviews": {
+          "excellentReviewsCount": 0,
+          "isExcellentReviewer": false
+        },
+        "wos_stats": {
+          "total_times_cited": 882,
+          "total_citing_articles_without_self_citations": 577,
+          "h_index": 17,
+          "total_citing_articles": 624,
+          "total_articles": 74,
+          "total_times_cited_without_self_citations": 755
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "QueryResult": {
+    "RecordsSearched": 0,
+    "RecordsFound": 1,
+    "RecordsAvailable": 1,
+    "Warnings": []
+  },
+  "Data": {
+    "Records": [
+      {
+        "author_name": "Gupta, Deepak Kumar",
+        "publication_summary": {
+          "nonIndexedPublications": 2,
+          "totalPublications": 39,
+          "pprnPublications": 0,
+          "wosccPublications": 33,
+          "pqdtPublications": 0,
+          "indexedPublications": 37
+        },
+        "fullJournalsList": [
+          {
+            "count": "5",
+            "value": "CIRCULATION"
+          },
+          {
+            "count": "3",
+            "value": "SCIENTOMETRICS"
+          },
+          {
+            "count": "3",
+            "value": "2018 FIRST INTERNATIONAL CONFERENCE ON SECURE CYBER COMPUTING AND COMMUNICATIONS (ICSCCC 2018)"
+          },
+          {
+            "count": "2",
+            "value": "JACC-HEART FAILURE"
+          },
+          {
+            "count": "2",
+            "value": "JOURNAL OF CARDIAC FAILURE"
+          },
+          {
+            "count": "2",
+            "value": "JOURNAL OF THE AMERICAN COLLEGE OF CARDIOLOGY"
+          },
+          {
+            "count": "2",
+            "value": "EUROPEAN JOURNAL OF HEART FAILURE"
+          },
+          {
+            "count": "1",
+            "value": "MALAYSIAN JOURNAL OF MEDICAL SCIENCES"
+          },
+          {
+            "count": "1",
+            "value": "DIABETES CARE"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL CONFERENCE ON ADVANCED COMPUTING & COMMUNICATION TECHNOLOGIES"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL MECHANICAL ENGINEERING CONGRESS AND EXPOSITION - 2012, VOL 12"
+          },
+          {
+            "count": "1",
+            "value": "2015 5TH INTERNATIONAL CONFERENCE ON ADVANCED COMPUTING & COMMUNICATION TECHNOLOGIES ACCT 2015"
+          },
+          {
+            "count": "1",
+            "value": "PROCEEDINGS OF THE ASME INTERNATIONAL DESIGN ENGINEERING TECHNICAL CONFERENCES AND COMPUTERS AND INFORMATION IN ENGINEERING CONFERENCE 2012, VOL 2, PTS A AND B"
+          },
+          {
+            "count": "1",
+            "value": "PROCEEDINGS OF THE ASME INTERNATIONAL DESIGN ENGINEERING TECHNICAL CONFERENCES AND COMPUTERS AND INFORMATION IN ENGINEERING CONFERENCE, 2013, VOL 2A"
+          },
+          {
+            "count": "1",
+            "value": "COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE"
+          },
+          {
+            "count": "1",
+            "value": "JAMA-JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION"
+          },
+          {
+            "count": "1",
+            "value": "JOURNAL OF EVOLUTION OF MEDICAL AND DENTAL SCIENCES-JEMDS"
+          },
+          {
+            "count": "1",
+            "value": "JOURNAL OF VIBRATION AND ACOUSTICS-TRANSACTIONS OF THE ASME"
+          },
+          {
+            "count": "1",
+            "value": "MULTIMEDIA TOOLS AND APPLICATIONS"
+          },
+          {
+            "count": "1",
+            "value": "COMPUTER NETWORKS AND INFORMATION TECHNOLOGIES"
+          },
+          {
+            "count": "1",
+            "value": "2016 INTERNATIONAL CONFERENCE ON ADVANCES IN COMPUTING, COMMUNICATIONS AND INFORMATICS (ICACCI)"
+          },
+          {
+            "count": "1",
+            "value": "2015 SECOND INTERNATIONAL CONFERENCE ON ADVANCES IN COMPUTING AND COMMUNICATION ENGINEERING ICACCE 2015"
+          },
+          {
+            "count": "1",
+            "value": "MECHANICAL SYSTEMS AND SIGNAL PROCESSING"
+          }
+        ],
+        "authorAliasName": "Gupta, Deepak",
+        "affiliations": [
+          {
+            "value": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+            "count": 7,
+            "maxYear": 2024,
+            "minYear": 2015
+          },
+          {
+            "value": "Subharti Med Coll",
+            "count": 1,
+            "maxYear": 2017,
+            "minYear": 2017
+          },
+          {
+            "value": "Vanderbilt University",
+            "count": 1,
+            "maxYear": 2016,
+            "minYear": 2016
+          },
+          {
+            "value": "Brigham & Women's Hospital",
+            "count": 13,
+            "maxYear": 2016,
+            "minYear": 2012
+          },
+          {
+            "value": "Vardhman Mahavir Medical College & Safdarjung Hospital",
+            "count": 1,
+            "maxYear": 2014,
+            "minYear": 2014
+          },
+          {
+            "value": "University of Wisconsin Milwaukee",
+            "count": 5,
+            "maxYear": 2014,
+            "minYear": 2012
+          },
+          {
+            "value": "Birla Institute of Technology & Science Pilani (BITS Pilani)",
+            "count": 1,
+            "maxYear": 2011,
+            "minYear": 2011
+          },
+          {
+            "value": "Addis Ababa University",
+            "count": 1,
+            "maxYear": 1993,
+            "minYear": 1993
+          }
+        ],
+        "primaryAffiliationLocation": "JALANDHAR, PUNJAB, INDIA",
+        "rid": "Y-4942-2019",
+        "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+        "photoUrlLarge": "https://publons.com/media/thumbs/academic/photos/d2db1356-6632-4f97-9cf8-b0629868d7e0.png.200x200_q95_crop_detail_upscale.png",
+        "publonsBasicMetricsData": {
+          "publonsProfileData": {
+            "institutions": [
+              {
+                "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+                "department": "unknown",
+                "role": "unknown",
+                "startDate": "1111",
+                "endDate": "1111",
+                "url": "/wos-op/institution/352999/"
+              }
+            ],
+            "researchFields": [],
+            "awards": [],
+            "institutionsUrl": "/wos-op/dashboard/settings/affiliations/",
+            "researchFieldsUrl": "/wos-op/dashboard/settings/profile/"
+          },
+          "publonsIndividualStatsData": {
+            "ready": true,
+            "citationsPerYear": {
+              "1950": "0",
+              "1951": "0",
+              "1952": "0",
+              "1953": "0",
+              "1954": "0",
+              "1955": "0",
+              "1956": "0",
+              "1957": "0",
+              "1958": "0",
+              "1959": "0",
+              "1960": "0",
+              "1961": "0",
+              "1962": "0",
+              "1963": "0",
+              "1964": "0",
+              "1965": "0",
+              "1966": "0",
+              "1967": "0",
+              "1968": "0",
+              "1969": "0",
+              "1970": "0",
+              "1971": "0",
+              "1972": "0",
+              "1973": "0",
+              "1974": "0",
+              "1975": "0",
+              "1976": "0",
+              "1977": "0",
+              "1978": "0",
+              "1979": "0",
+              "1980": "0",
+              "1981": "0",
+              "1982": "0",
+              "1983": "0",
+              "1984": "0",
+              "1985": "0",
+              "1986": "0",
+              "1987": "0",
+              "1988": "0",
+              "1989": "1",
+              "1990": "1",
+              "1991": "0",
+              "1992": "4",
+              "1993": "0",
+              "1994": "1",
+              "1995": "0",
+              "1996": "3",
+              "1997": "0",
+              "1998": "3",
+              "1999": "0",
+              "2000": "0",
+              "2001": "0",
+              "2002": "0",
+              "2003": "0",
+              "2004": "0",
+              "2005": "3",
+              "2006": "2",
+              "2007": "2",
+              "2008": "0",
+              "2009": "0",
+              "2010": "0",
+              "2011": "1",
+              "2012": "2",
+              "2013": "4",
+              "2014": "12",
+              "2015": "22",
+              "2016": "24",
+              "2017": "30",
+              "2018": "49",
+              "2019": "39",
+              "2020": "46",
+              "2021": "65",
+              "2022": "70",
+              "2023": "44",
+              "2024": "35"
+            },
+            "averagePerItem": 14.03,
+            "averagePerYear": 12.86,
+            "hIndex": 8.0,
+            "timesCited": 463,
+            "dedupedTimesCited": 451,
+            "numPublicationsInWosCc": 33,
+            "timesCitedInDiidw": 1,
+            "dedupedTimesCitedInDiidw": 1,
+            "numPqdtPublications": 0
+          },
+          "publonsStatData": {
+            "ready": true,
+            "total": {
+              "verifiedReviews": 0.0,
+              "verifiedReviews12Mo": 0.0,
+              "reviewRatio": 0.0,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "median": {
+              "verifiedReviews": 4.0,
+              "verifiedReviews12Mo": 0.0,
+              "reviewRatio": 0.3076923076923077,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "percentile": {
+              "verifiedReviews": 0.02,
+              "verifiedReviews12Mo": 0.57,
+              "reviewRatio": 0.0,
+              "verifiedEditorRecords": 0.98,
+              "verifiedEditorRecords12Mo": 0.99
+            }
+          }
+        },
+        "showPublishedNames": true,
+        "categories": [
+          "Cardiovascular System & Cardiology",
+          "Computer Science",
+          "Engineering",
+          "Information Science & Library Science",
+          "General & Internal Medicine",
+          "Acoustics",
+          "Mechanics",
+          "Telecommunications",
+          "Endocrinology & Metabolism",
+          "Research & Experimental Medicine"
+        ],
+        "alternativeName": [
+          {
+            "value": "Gupta, Deepak K.",
+            "count": 20
+          },
+          {
+            "value": "Gupta, Deepak Kumar",
+            "count": 7
+          },
+          {
+            "value": "GUPTA, DK",
+            "count": 3
+          },
+          {
+            "value": "Gupta, D. K.",
+            "count": 3
+          }
+        ],
+        "academy": {
+          "isAcademyGraduate": null,
+          "isAcademySupervisor": null
+        },
+        "diidw_stats": {
+          "total_times_cited": 1,
+          "total_citing_articles_without_self_citations": 1,
+          "h_index": 0,
+          "total_citing_articles": 1,
+          "total_articles": 33,
+          "total_times_cited_without_self_citations": 1
+        },
+        "claim_status": true,
+        "showOrganizationNames": true,
+        "orcid": "0000-0001-9396-6100",
+        "publishingName": "Deepak Gupta",
+        "authorId": "2127303",
+        "primaryAffiliation": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+        "primaryInstitutionAffiliation": {
+          "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+          "department": "unknown",
+          "role": "unknown",
+          "startDate": "1111",
+          "endDate": "1111",
+          "url": "/wos-op/institution/352999/"
+        },
+        "primaryAffiliationDepartment": [
+          "Dept Comp Sci & Engn"
+        ],
+        "excellentReviews": {
+          "excellentReviewsCount": 0,
+          "isExcellentReviewer": false
+        },
+        "wos_stats": {
+          "total_times_cited": 463,
+          "total_citing_articles_without_self_citations": 449,
+          "h_index": 8,
+          "total_citing_articles": 451,
+          "total_articles": 33,
+          "total_times_cited_without_self_citations": 461
+        }
+      }
+    ]
+  }
+}

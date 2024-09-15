@@ -1,0 +1,373 @@
+{
+  "QueryResult": {
+    "RecordsSearched": 0,
+    "RecordsFound": 1,
+    "RecordsAvailable": 1,
+    "Warnings": []
+  },
+  "Data": {
+    "Records": [
+      {
+        "author_name": "Rani, Rajneesh",
+        "publication_summary": {
+          "nonIndexedPublications": 1,
+          "totalPublications": 40,
+          "pprnPublications": 1,
+          "wosccPublications": 38,
+          "pqdtPublications": 0,
+          "indexedPublications": 39
+        },
+        "fullJournalsList": [
+          {
+            "count": "3",
+            "value": "2018 FIRST INTERNATIONAL CONFERENCE ON SECURE CYBER COMPUTING AND COMMUNICATIONS (ICSCCC 2018)"
+          },
+          {
+            "count": "2",
+            "value": "INTERNATIONAL JOURNAL OF AGRICULTURAL AND ENVIRONMENTAL INFORMATION SYSTEMS"
+          },
+          {
+            "count": "2",
+            "value": "ACM TRANSACTIONS ON ASIAN AND LOW-RESOURCE LANGUAGE INFORMATION PROCESSING"
+          },
+          {
+            "count": "2",
+            "value": "MULTIMEDIA TOOLS AND APPLICATIONS"
+          },
+          {
+            "count": "2",
+            "value": "2016 INTERNATIONAL CONFERENCE ON ADVANCES IN COMPUTING, COMMUNICATIONS AND INFORMATICS (ICACCI)"
+          },
+          {
+            "count": "2",
+            "value": "INTERNATIONAL JOURNAL OF IMAGE AND GRAPHICS"
+          },
+          {
+            "count": "1",
+            "value": "SADHANA-ACADEMY PROCEEDINGS IN ENGINEERING SCIENCES"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF MULTIMEDIA INFORMATION RETRIEVAL"
+          },
+          {
+            "count": "1",
+            "value": "MULTIDIMENSIONAL SYSTEMS AND SIGNAL PROCESSING"
+          },
+          {
+            "count": "1",
+            "value": "SECURITY AND PRIVACY"
+          },
+          {
+            "count": "1",
+            "value": "VISUAL COMPUTER"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF INTELLIGENT COMPUTING AND CYBERNETICS"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL ON DOCUMENT ANALYSIS AND RECOGNITION"
+          },
+          {
+            "count": "1",
+            "value": "ARABIAN JOURNAL FOR SCIENCE AND ENGINEERING"
+          },
+          {
+            "count": "1",
+            "value": "PERTANIKA JOURNAL OF SCIENCE AND TECHNOLOGY"
+          },
+          {
+            "count": "1",
+            "value": "2015 INTERNATIONAL CONFERENCE ON COMPUTING, COMMUNICATION & AUTOMATION (ICCCA)"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF INTELLIGENT INFORMATION TECHNOLOGIES"
+          },
+          {
+            "count": "1",
+            "value": "ARTIFICIAL INTELLIGENCE REVIEW"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF SYSTEM ASSURANCE ENGINEERING AND MANAGEMENT"
+          },
+          {
+            "count": "1",
+            "value": "ARCHIVES OF COMPUTATIONAL METHODS IN ENGINEERING"
+          },
+          {
+            "count": "1",
+            "value": "CYBERNETICS AND INFORMATION TECHNOLOGIES"
+          },
+          {
+            "count": "1",
+            "value": "COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE"
+          },
+          {
+            "count": "1",
+            "value": "2013 12TH INTERNATIONAL CONFERENCE ON DOCUMENT ANALYSIS AND RECOGNITION (ICDAR)"
+          },
+          {
+            "count": "1",
+            "value": "PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON DOCUMENT ANALYSIS AND RECOGNITION"
+          },
+          {
+            "count": "1",
+            "value": "PATTERN ANALYSIS AND APPLICATIONS"
+          },
+          {
+            "count": "1",
+            "value": "LECTURE NOTES IN ENGINEERING AND COMPUTER SCIENCE"
+          },
+          {
+            "count": "1",
+            "value": "IET IMAGE PROCESSING"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF SOFTWARE INNOVATION"
+          },
+          {
+            "count": "1",
+            "value": "INFORMATION SYSTEMS FOR INDIAN LANGUAGES"
+          },
+          {
+            "count": "1",
+            "value": "WORLD CONGRESS ON ENGINEERING AND COMPUTER SCIENCE, WCECS 2012, VOL I"
+          },
+          {
+            "count": "1",
+            "value": "2016 IEEE INTERNATIONAL CONFERENCE ON COMPUTING, COMMUNICATION AND AUTOMATION (ICCCA)"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF COMPUTER APPLICATIONS IN TECHNOLOGY"
+          },
+          {
+            "count": "1",
+            "value": "ARXIV"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF IMAGING SYSTEMS AND TECHNOLOGY"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF BIOMEDICAL ENGINEERING AND TECHNOLOGY"
+          }
+        ],
+        "authorAliasName": "Rani, Rajneesh",
+        "affiliations": [
+          {
+            "value": "National Institute of Technology (NIT System)",
+            "count": 13,
+            "maxYear": 2024,
+            "minYear": 2013
+          },
+          {
+            "value": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+            "count": 25,
+            "maxYear": 2023,
+            "minYear": 2011
+          }
+        ],
+        "primaryAffiliationLocation": "JALANDHAR, PUNJAB, INDIA",
+        "rid": "Y-2242-2019",
+        "institution": "National Institute of Technology (NIT System)",
+        "photoUrlLarge": "https://publons.com/media/initialcon/RR200.png",
+        "publonsBasicMetricsData": {
+          "publonsProfileData": {
+            "institutions": [
+              {
+                "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+                "department": "Computer Science and Engineering",
+                "role": "Assistant Professor",
+                "startDate": "2007",
+                "endDate": "present",
+                "url": "/wos-op/institution/352999/"
+              }
+            ],
+            "researchFields": [],
+            "awards": [],
+            "institutionsUrl": "/wos-op/dashboard/settings/affiliations/",
+            "researchFieldsUrl": "/wos-op/dashboard/settings/profile/"
+          },
+          "publonsIndividualStatsData": {
+            "ready": true,
+            "citationsPerYear": {
+              "1950": "0",
+              "1951": "0",
+              "1952": "0",
+              "1953": "0",
+              "1954": "0",
+              "1955": "0",
+              "1956": "0",
+              "1957": "0",
+              "1958": "0",
+              "1959": "0",
+              "1960": "0",
+              "1961": "0",
+              "1962": "0",
+              "1963": "0",
+              "1964": "0",
+              "1965": "0",
+              "1966": "0",
+              "1967": "0",
+              "1968": "0",
+              "1969": "0",
+              "1970": "0",
+              "1971": "0",
+              "1972": "0",
+              "1973": "0",
+              "1974": "0",
+              "1975": "0",
+              "1976": "0",
+              "1977": "0",
+              "1978": "0",
+              "1979": "0",
+              "1980": "0",
+              "1981": "0",
+              "1982": "0",
+              "1983": "0",
+              "1984": "0",
+              "1985": "0",
+              "1986": "0",
+              "1987": "0",
+              "1988": "0",
+              "1989": "0",
+              "1990": "0",
+              "1991": "0",
+              "1992": "0",
+              "1993": "0",
+              "1994": "0",
+              "1995": "0",
+              "1996": "0",
+              "1997": "0",
+              "1998": "0",
+              "1999": "0",
+              "2000": "0",
+              "2001": "0",
+              "2002": "0",
+              "2003": "0",
+              "2004": "0",
+              "2005": "0",
+              "2006": "0",
+              "2007": "0",
+              "2008": "0",
+              "2009": "0",
+              "2010": "0",
+              "2011": "0",
+              "2012": "0",
+              "2013": "0",
+              "2014": "1",
+              "2015": "2",
+              "2016": "0",
+              "2017": "5",
+              "2018": "7",
+              "2019": "2",
+              "2020": "7",
+              "2021": "34",
+              "2022": "48",
+              "2023": "65",
+              "2024": "41"
+            },
+            "averagePerItem": 5.58,
+            "averagePerYear": 19.27,
+            "hIndex": 8.0,
+            "timesCited": 212,
+            "dedupedTimesCited": 184,
+            "numPublicationsInWosCc": 38,
+            "timesCitedInDiidw": 1,
+            "dedupedTimesCitedInDiidw": 1,
+            "numPqdtPublications": 0
+          },
+          "publonsStatData": {
+            "ready": true,
+            "total": {
+              "verifiedReviews": 18.0,
+              "verifiedReviews12Mo": 1.0,
+              "reviewRatio": 0.45,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "median": {
+              "verifiedReviews": 4.0,
+              "verifiedReviews12Mo": 0.0,
+              "reviewRatio": 0.3076923076923077,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "percentile": {
+              "verifiedReviews": 0.82,
+              "verifiedReviews12Mo": 0.72,
+              "reviewRatio": 0.61,
+              "verifiedEditorRecords": 0.98,
+              "verifiedEditorRecords12Mo": 0.99
+            }
+          }
+        },
+        "showPublishedNames": true,
+        "categories": [
+          "Computer Science",
+          "Engineering",
+          "Telecommunications",
+          "Imaging Science & Photographic Technology",
+          "Science & Technology - Other Topics",
+          "Optics",
+          "Mathematics",
+          "Automation & Control Systems"
+        ],
+        "alternativeName": [
+          {
+            "value": "Rani, Rajneesh",
+            "count": 38
+          }
+        ],
+        "academy": {
+          "isAcademyGraduate": null,
+          "isAcademySupervisor": null
+        },
+        "diidw_stats": {
+          "total_times_cited": 1,
+          "total_citing_articles_without_self_citations": 1,
+          "h_index": 0,
+          "total_citing_articles": 1,
+          "total_articles": 38,
+          "total_times_cited_without_self_citations": 1
+        },
+        "claim_status": true,
+        "showOrganizationNames": true,
+        "orcid": "0000-0003-2104-227X",
+        "publishingName": "Rajneesh Rani",
+        "authorId": "1856047",
+        "primaryAffiliation": "National Institute of Technology (NIT System)",
+        "primaryInstitutionAffiliation": {
+          "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+          "department": "Computer Science and Engineering",
+          "role": "Assistant Professor",
+          "startDate": "2007",
+          "endDate": "present",
+          "url": "/wos-op/institution/352999/"
+        },
+        "primaryAffiliationDepartment": [
+          "Dept Comp Sci & Engn"
+        ],
+        "excellentReviews": {
+          "excellentReviewsCount": 0,
+          "isExcellentReviewer": false
+        },
+        "wos_stats": {
+          "total_times_cited": 212,
+          "total_citing_articles_without_self_citations": 173,
+          "h_index": 8,
+          "total_citing_articles": 184,
+          "total_articles": 38,
+          "total_times_cited_without_self_citations": 195
+        }
+      }
+    ]
+  }
+}
