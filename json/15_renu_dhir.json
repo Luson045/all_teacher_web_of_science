@@ -1,0 +1,454 @@
+{
+  "QueryResult": {
+    "RecordsSearched": 0,
+    "RecordsFound": 1,
+    "RecordsAvailable": 1,
+    "Warnings": []
+  },
+  "Data": {
+    "Records": [
+      {
+        "author_name": "Dhir, Renu",
+        "publication_summary": {
+          "nonIndexedPublications": 0,
+          "totalPublications": 50,
+          "pprnPublications": 2,
+          "wosccPublications": 48,
+          "pqdtPublications": 0,
+          "indexedPublications": 50
+        },
+        "fullJournalsList": [
+          {
+            "count": "3",
+            "value": "ARABIAN JOURNAL FOR SCIENCE AND ENGINEERING"
+          },
+          {
+            "count": "3",
+            "value": "INTERNATIONAL JOURNAL OF IMAGE AND GRAPHICS"
+          },
+          {
+            "count": "2",
+            "value": "2016 SYMPOSIUM ON COLOSSAL DATA ANALYSIS AND NETWORKING (CDAN)"
+          },
+          {
+            "count": "2",
+            "value": "2018 FIRST INTERNATIONAL CONFERENCE ON SECURE CYBER COMPUTING AND COMMUNICATIONS (ICSCCC 2018)"
+          },
+          {
+            "count": "2",
+            "value": "MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING"
+          },
+          {
+            "count": "1",
+            "value": "ADCOM: 2008 16TH INTERNATIONAL CONFERENCE ON ADVANCED COMPUTING AND COMMUNICATIONS"
+          },
+          {
+            "count": "1",
+            "value": "2017 FOURTH INTERNATIONAL CONFERENCE ON IMAGE INFORMATION PROCESSING (ICIIP)"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF DATA MINING MODELLING AND MANAGEMENT"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF MULTIMEDIA INFORMATION RETRIEVAL"
+          },
+          {
+            "count": "1",
+            "value": "JOURNAL OF INFORMATION & OPTIMIZATION SCIENCES"
+          },
+          {
+            "count": "1",
+            "value": "APPLIED INTELLIGENCE"
+          },
+          {
+            "count": "1",
+            "value": "SUSTAINABLE COMPUTING-INFORMATICS & SYSTEMS"
+          },
+          {
+            "count": "1",
+            "value": "MATHEMATICAL PROBLEMS IN ENGINEERING"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF INFORMATION SYSTEM MODELING AND DESIGN"
+          },
+          {
+            "count": "1",
+            "value": "WIRELESS PERSONAL COMMUNICATIONS"
+          },
+          {
+            "count": "1",
+            "value": "ARTIFICIAL INTELLIGENCE REVIEW"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF SYSTEM ASSURANCE ENGINEERING AND MANAGEMENT"
+          },
+          {
+            "count": "1",
+            "value": "JOURNAL OF SOL-GEL SCIENCE AND TECHNOLOGY"
+          },
+          {
+            "count": "1",
+            "value": "KNOWLEDGE AND INFORMATION SYSTEMS"
+          },
+          {
+            "count": "1",
+            "value": "BIORXIV"
+          },
+          {
+            "count": "1",
+            "value": "COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF INTELLIGENT ENGINEERING INFORMATICS"
+          },
+          {
+            "count": "1",
+            "value": "BENI-SUEF UNIVERSITY JOURNAL OF BASIC AND APPLIED SCIENCES"
+          },
+          {
+            "count": "1",
+            "value": "2010 IEEE 2ND INTERNATIONAL ADVANCE COMPUTING CONFERENCE"
+          },
+          {
+            "count": "1",
+            "value": "COMPUTER SCIENCE REVIEW"
+          },
+          {
+            "count": "1",
+            "value": "PROCEEDINGS OF THE 2016 IEEE INTERNATIONAL CONFERENCE ON WIRELESS COMMUNICATIONS, SIGNAL PROCESSING AND NETWORKING (WISPNET)"
+          },
+          {
+            "count": "1",
+            "value": "2013 12TH INTERNATIONAL CONFERENCE ON DOCUMENT ANALYSIS AND RECOGNITION (ICDAR)"
+          },
+          {
+            "count": "1",
+            "value": "2013 IEEE INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING, COMPUTING AND CONTROL (ISPCC)"
+          },
+          {
+            "count": "1",
+            "value": "MULTIMEDIA TOOLS AND APPLICATIONS"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS"
+          },
+          {
+            "count": "1",
+            "value": "PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON DOCUMENT ANALYSIS AND RECOGNITION"
+          },
+          {
+            "count": "1",
+            "value": "ADVANCES IN INTELLIGENT SYSTEMS AND COMPUTING"
+          },
+          {
+            "count": "1",
+            "value": "LECTURE NOTES IN ENGINEERING AND COMPUTER SCIENCE"
+          },
+          {
+            "count": "1",
+            "value": "MULTIMEDIA SYSTEMS"
+          },
+          {
+            "count": "1",
+            "value": "SN APPLIED SCIENCES"
+          },
+          {
+            "count": "1",
+            "value": "BIOMEDICAL SIGNAL PROCESSING AND CONTROL"
+          },
+          {
+            "count": "1",
+            "value": "PROCEEDINGS OF THE 5TH INTERNATIONAL CONFERENCE ON FRONTIERS IN INTELLIGENT COMPUTING: THEORY AND APPLICATIONS, FICTA 2016, VOL 1"
+          },
+          {
+            "count": "1",
+            "value": "INFORMATION SYSTEMS FOR INDIAN LANGUAGES"
+          },
+          {
+            "count": "1",
+            "value": "ENVIRONMENTAL MONITORING AND ASSESSMENT"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF APPLIED METAHEURISTIC COMPUTING"
+          },
+          {
+            "count": "1",
+            "value": "WORLD CONGRESS ON ENGINEERING AND COMPUTER SCIENCE, WCECS 2012, VOL I"
+          },
+          {
+            "count": "1",
+            "value": "CAAI TRANSACTIONS ON INTELLIGENCE TECHNOLOGY"
+          },
+          {
+            "count": "1",
+            "value": "JOURNAL OF AMBIENT INTELLIGENCE AND HUMANIZED COMPUTING"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL CONFERENCE ON ADVANCES IN INFORMATION COMMUNICATION TECHNOLOGY & COMPUTING, 2016"
+          },
+          {
+            "count": "1",
+            "value": "JOURNAL OF DISCRETE MATHEMATICAL SCIENCES & CRYPTOGRAPHY"
+          },
+          {
+            "count": "1",
+            "value": "DESIGNING, ENGINEERING, AND ANALYZING RELIABLE AND EFFICIENT SOFTWARE"
+          },
+          {
+            "count": "1",
+            "value": "ARXIV"
+          }
+        ],
+        "authorAliasName": "Dhir, Renu",
+        "affiliations": [
+          {
+            "value": "Dr B R Ambedkar Natl Inst Engn & Technol",
+            "count": 1,
+            "maxYear": 2024,
+            "minYear": 2024
+          },
+          {
+            "value": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+            "count": 31,
+            "maxYear": 2024,
+            "minYear": 2011
+          },
+          {
+            "value": "National Institute of Technology (NIT System)",
+            "count": 15,
+            "maxYear": 2024,
+            "minYear": 2010
+          },
+          {
+            "value": "Dept Comp Sci & Engn",
+            "count": 1,
+            "maxYear": 2008,
+            "minYear": 2008
+          }
+        ],
+        "primaryAffiliationLocation": "JALANDHAR, PUNJAB, INDIA",
+        "rid": "Y-4453-2019",
+        "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+        "photoUrlLarge": "https://publons.com/media/initialcon/DD200.png",
+        "publonsBasicMetricsData": {
+          "publonsProfileData": {
+            "institutions": [
+              {
+                "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+                "department": "Computer Science and Engineering",
+                "role": "",
+                "startDate": "2019",
+                "endDate": "present",
+                "url": "/wos-op/institution/352999/"
+              }
+            ],
+            "researchFields": [
+              {
+                "url": "/wos-op/researcher/?research_field=614",
+                "name": "Image Processing"
+              },
+              {
+                "url": "/wos-op/researcher/?research_field=8743",
+                "name": "information security"
+              },
+              {
+                "url": "/wos-op/researcher/?research_field=340827",
+                "name": "ocr, handwritten character recognition, farsi ocr, persian ocr"
+              },
+              {
+                "url": "/wos-op/researcher/?research_field=1117",
+                "name": "Software Engineering"
+              }
+            ],
+            "awards": [],
+            "institutionsUrl": "/wos-op/dashboard/settings/affiliations/",
+            "researchFieldsUrl": "/wos-op/dashboard/settings/profile/"
+          },
+          "publonsIndividualStatsData": {
+            "ready": true,
+            "citationsPerYear": {
+              "1950": "0",
+              "1951": "0",
+              "1952": "0",
+              "1953": "0",
+              "1954": "0",
+              "1955": "0",
+              "1956": "0",
+              "1957": "0",
+              "1958": "0",
+              "1959": "0",
+              "1960": "0",
+              "1961": "0",
+              "1962": "0",
+              "1963": "0",
+              "1964": "0",
+              "1965": "0",
+              "1966": "0",
+              "1967": "0",
+              "1968": "0",
+              "1969": "0",
+              "1970": "0",
+              "1971": "0",
+              "1972": "0",
+              "1973": "0",
+              "1974": "0",
+              "1975": "0",
+              "1976": "0",
+              "1977": "0",
+              "1978": "0",
+              "1979": "0",
+              "1980": "0",
+              "1981": "0",
+              "1982": "0",
+              "1983": "0",
+              "1984": "0",
+              "1985": "0",
+              "1986": "0",
+              "1987": "0",
+              "1988": "0",
+              "1989": "0",
+              "1990": "0",
+              "1991": "0",
+              "1992": "0",
+              "1993": "0",
+              "1994": "0",
+              "1995": "0",
+              "1996": "0",
+              "1997": "0",
+              "1998": "0",
+              "1999": "0",
+              "2000": "0",
+              "2001": "0",
+              "2002": "0",
+              "2003": "0",
+              "2004": "0",
+              "2005": "0",
+              "2006": "0",
+              "2007": "0",
+              "2008": "0",
+              "2009": "0",
+              "2010": "0",
+              "2011": "0",
+              "2012": "0",
+              "2013": "0",
+              "2014": "3",
+              "2015": "4",
+              "2016": "3",
+              "2017": "8",
+              "2018": "9",
+              "2019": "13",
+              "2020": "19",
+              "2021": "40",
+              "2022": "50",
+              "2023": "45",
+              "2024": "33"
+            },
+            "averagePerItem": 4.73,
+            "averagePerYear": 20.64,
+            "hIndex": 10.0,
+            "timesCited": 227,
+            "dedupedTimesCited": 203,
+            "numPublicationsInWosCc": 48,
+            "timesCitedInDiidw": 0,
+            "dedupedTimesCitedInDiidw": 0,
+            "numPqdtPublications": 0
+          },
+          "publonsStatData": {
+            "ready": true,
+            "total": {
+              "verifiedReviews": 0.0,
+              "verifiedReviews12Mo": 0.0,
+              "reviewRatio": 0.0,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "median": {
+              "verifiedReviews": 4.0,
+              "verifiedReviews12Mo": 0.0,
+              "reviewRatio": 0.3064516129032258,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "percentile": {
+              "verifiedReviews": 0.02,
+              "verifiedReviews12Mo": 0.58,
+              "reviewRatio": 0.0,
+              "verifiedEditorRecords": 0.98,
+              "verifiedEditorRecords12Mo": 0.99
+            }
+          }
+        },
+        "showPublishedNames": true,
+        "categories": [
+          "Computer Science",
+          "Engineering",
+          "Science & Technology - Other Topics",
+          "Telecommunications",
+          "Medical Informatics",
+          "Mathematics",
+          "Mathematical & Computational Biology",
+          "Imaging Science & Photographic Technology",
+          "Environmental Sciences & Ecology",
+          "Automation & Control Systems",
+          "Information Science & Library Science",
+          "Materials Science"
+        ],
+        "alternativeName": [
+          {
+            "value": "Dhir, Renu",
+            "count": 48
+          }
+        ],
+        "academy": {
+          "isAcademyGraduate": null,
+          "isAcademySupervisor": null
+        },
+        "diidw_stats": {
+          "total_times_cited": 0,
+          "total_citing_articles_without_self_citations": 0,
+          "h_index": 0,
+          "total_citing_articles": 0,
+          "total_articles": 48,
+          "total_times_cited_without_self_citations": 0
+        },
+        "claim_status": true,
+        "showOrganizationNames": true,
+        "orcid": "0000-0003-1641-2619",
+        "publishingName": "Dr Renu Dhir",
+        "authorId": "1866604",
+        "primaryAffiliation": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+        "primaryInstitutionAffiliation": {
+          "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+          "department": "Computer Science and Engineering",
+          "role": "",
+          "startDate": "2019",
+          "endDate": "present",
+          "url": "/wos-op/institution/352999/"
+        },
+        "primaryAffiliationDepartment": [
+          "Comp Sci & Engn"
+        ],
+        "excellentReviews": {
+          "excellentReviewsCount": 0,
+          "isExcellentReviewer": false
+        },
+        "wos_stats": {
+          "total_times_cited": 227,
+          "total_citing_articles_without_self_citations": 192,
+          "h_index": 10,
+          "total_citing_articles": 203,
+          "total_articles": 48,
+          "total_times_cited_without_self_citations": 214
+        }
+      }
+    ]
+  }
+}

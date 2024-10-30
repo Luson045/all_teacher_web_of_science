@@ -50,3 +50,39 @@ Below provided are some of the publicly available research profiles of the menti
 12) Dr. Rajneesh Rani
 (https://www.webofscience.com/wos/author/record/1856047)[web of science]
 (https://nitj.irins.org/profile/90281)[irins]
+
+13) Avatar Singh
+(https://www.webofscience.com/wos/author/record/Z-2915-2019)[wos]
+(https://nitj.irins.org/profile/90177)[irins]
+
+14) H K Verma
+(https://www.webofscience.com/wos/author/record/Y-4606-2019)[wos]
+(https://nitj.irins.org/profile/90371)[irins]
+
+15) Renu Dhir
+(https://www.webofscience.com/wos/author/record/Y-4453-2019)[wos]
+(https://nitj.irins.org/profile/90405)[irins]
+
+16) Lalatendu Behera
+(https://www.webofscience.com/wos/author/rid/AAS-9207-2020)[wos]
+(https://nitj.irins.org/profile/114012)[irins]
+
+17) Kunwar Pal
+(https://www.webofscience.com/wos/author/rid/A-5785-2019)[wos]
+(https://nitj.irins.org/profile/130134)[irins]
+
+18) Somesullah Manoj Kumar
+(https://webofscience.com/wos/author/record/AAK-1099-2021)[wos]
+(https://nitj.irins.org/profile/236795)[irins]
+
+19) Shweta Mahajan
+(https://www.webofscience.com/wos/author/record/E-5728-2012)[wos]
+(https://nitj.irins.org/profile/343239)[irins]
+
+20) swarnima singh gautam
+(https://www.webofscience.com/wos/author/rid/JXL-4824-2024)[wos]
+(https://nitj.irins.org/profile/479918)[irins]
+
+21) Rahul Agawral
+(https://www.webofscience.com/wos/author/rid/GNW-3046-2022)[wos]
+(https://nitj.irins.org/profile/90393)[irins]

@@ -1,0 +1,93 @@
+{
+  "QueryResult": {
+    "RecordsSearched": 0,
+    "RecordsFound": 1,
+    "RecordsAvailable": 1,
+    "Warnings": []
+  },
+  "Data": {
+    "Records": [
+      {
+        "publication_summary": {
+          "nonIndexedPublications": 1,
+          "totalPublications": 1,
+          "pprnPublications": 0,
+          "wosccPublications": 0,
+          "pqdtPublications": 0,
+          "indexedPublications": 0
+        },
+        "claim_status": true,
+        "showOrganizationNames": true,
+        "orcid": null,
+        "publishingName": "Rahul Aggarwal",
+        "rid": "GNW-3046-2022",
+        "authorId": null,
+        "primaryAffiliation": null,
+        "primaryInstitutionAffiliation": {
+          "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+          "department": "",
+          "role": "",
+          "startDate": "1998",
+          "endDate": "present",
+          "url": "/wos-op/institution/352999/"
+        },
+        "photoUrlLarge": "https://publons.com/media/initialcon/RA200.png",
+        "showPublishedNames": true,
+        "publonsBasicMetricsData": {
+          "publonsProfileData": {
+            "institutions": [
+              {
+                "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+                "department": "",
+                "role": "",
+                "startDate": "1998",
+                "endDate": "present",
+                "url": "/wos-op/institution/352999/"
+              }
+            ],
+            "researchFields": [],
+            "awards": [],
+            "institutionsUrl": "/wos-op/dashboard/settings/affiliations/",
+            "researchFieldsUrl": "/wos-op/dashboard/settings/profile/"
+          },
+          "publonsIndividualStatsData": {
+            "ready": false
+          },
+          "publonsStatData": {
+            "ready": true,
+            "total": {
+              "verifiedReviews": 0.0,
+              "verifiedReviews12Mo": 0.0,
+              "reviewRatio": 0.0,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "median": {
+              "verifiedReviews": 4.0,
+              "verifiedReviews12Mo": 0.0,
+              "reviewRatio": 0.3064516129032258,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "percentile": {
+              "verifiedReviews": 0.02,
+              "verifiedReviews12Mo": 0.58,
+              "reviewRatio": 0.0,
+              "verifiedEditorRecords": 0.98,
+              "verifiedEditorRecords12Mo": 0.99
+            }
+          }
+        },
+        "excellentReviews": {
+          "excellentReviewsCount": 0,
+          "isExcellentReviewer": false
+        },
+        "categories": [],
+        "academy": {
+          "isAcademyGraduate": null,
+          "isAcademySupervisor": null
+        }
+      }
+    ]
+  }
+}

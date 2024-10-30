@@ -1,0 +1,161 @@
+{
+  "QueryResult": {
+    "RecordsSearched": 0,
+    "RecordsFound": 1,
+    "RecordsAvailable": 1,
+    "Warnings": []
+  },
+  "Data": {
+    "Records": [
+      {
+        "author_name": "Pal, Kunwar",
+        "publication_summary": {
+          "nonIndexedPublications": 1,
+          "totalPublications": 15,
+          "pprnPublications": 0,
+          "wosccPublications": 14,
+          "pqdtPublications": 0,
+          "indexedPublications": 14
+        },
+        "fullJournalsList": [
+          {
+            "count": "4",
+            "value": "MULTIMEDIA TOOLS AND APPLICATIONS"
+          },
+          {
+            "count": "1",
+            "value": "RECENT FINDINGS IN INTELLIGENT COMPUTING TECHNIQUES, VOL 1"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF MULTIMEDIA INFORMATION RETRIEVAL"
+          },
+          {
+            "count": "1",
+            "value": "IEEE GCC CONFERENCE AND EXHIBITION GCCCE"
+          },
+          {
+            "count": "1",
+            "value": "COMPUTERS & ELECTRICAL ENGINEERING"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF COMMUNICATION SYSTEMS"
+          },
+          {
+            "count": "1",
+            "value": "KNOWLEDGE AND INFORMATION SYSTEMS"
+          },
+          {
+            "count": "1",
+            "value": "2017 9TH IEEE-GCC CONFERENCE AND EXHIBITION (GCCCE)"
+          },
+          {
+            "count": "1",
+            "value": "ADVANCES IN INTELLIGENT SYSTEMS AND COMPUTING"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL JOURNAL OF INTELLIGENT ROBOTICS AND APPLICATIONS"
+          },
+          {
+            "count": "1",
+            "value": "PHYSICAL COMMUNICATION"
+          },
+          {
+            "count": "1",
+            "value": "PEER-TO-PEER NETWORKING AND APPLICATIONS"
+          },
+          {
+            "count": "1",
+            "value": "2015 INTERNATIONAL CONFERENCE ON ADVANCES IN COMPUTING, COMMUNICATIONS AND INFORMATICS (ICACCI)"
+          }
+        ],
+        "authorAliasName": "PAL, KUNWAR",
+        "affiliations": [
+          {
+            "value": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+            "count": 7,
+            "maxYear": 2024,
+            "minYear": 2021
+          },
+          {
+            "value": "National Institute of Technology (NIT System)",
+            "count": 1,
+            "maxYear": 2023,
+            "minYear": 2023
+          },
+          {
+            "value": "Malaviya National Institute of Technology Jaipur",
+            "count": 6,
+            "maxYear": 2019,
+            "minYear": 2015
+          }
+        ],
+        "primaryAffiliationLocation": "JALANDHAR, PUNJAB, INDIA",
+        "rid": "A-5785-2019",
+        "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+        "photoUrlLarge": "https://publons.com/media/initialcon/KP200.png",
+        "publonsBasicMetricsData": {
+          "publonsProfileData": {},
+          "publonsIndividualStatsData": {},
+          "publonsStatData": {}
+        },
+        "showPublishedNames": true,
+        "categories": [
+          "Computer Science",
+          "Engineering",
+          "Telecommunications",
+          "Robotics"
+        ],
+        "alternativeName": [
+          {
+            "value": "Pal, Kunwar",
+            "count": 14
+          }
+        ],
+        "academy": {
+          "isAcademyGraduate": null,
+          "isAcademySupervisor": null
+        },
+        "diidw_stats": {
+          "total_times_cited": 0,
+          "total_citing_articles_without_self_citations": 0,
+          "h_index": 0,
+          "total_citing_articles": 0,
+          "total_articles": 14,
+          "total_times_cited_without_self_citations": 0
+        },
+        "claim_status": true,
+        "showOrganizationNames": true,
+        "orcid": "0000-0001-9482-696X",
+        "publishingName": "KUNWAR PAL",
+        "authorId": "1723467",
+        "primaryAffiliation": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+        "primaryInstitutionAffiliation": {
+          "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+          "department": "Computer Science and Engineering",
+          "role": "Assistant Professor",
+          "startDate": "2019",
+          "endDate": "present",
+          "url": "/wos-op/institution/352999/"
+        },
+        "primaryAffiliationDepartment": [
+          "Dept Comp Sci Engn"
+        ],
+        "excellentReviews": {
+          "excellentReviewsCount": 0,
+          "isExcellentReviewer": false
+        },
+        "wos_stats": {
+          "total_times_cited": 51,
+          "total_citing_articles_without_self_citations": 26,
+          "h_index": 5,
+          "total_citing_articles": 34,
+          "total_articles": 14,
+          "total_times_cited_without_self_citations": 31
+        }
+      }
+    ]
+  }
+}
