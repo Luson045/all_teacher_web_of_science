@@ -1,8 +1,10 @@
-Below provided are some of the publicly available research profiles of the mentioned teachers
+Below provided are some of the publicly available research profiles of the mentioned faculties
   ->json folder contains all that data in json format
   ->excel contains in excel format
   ->codes contain all the codes to convert the json files to excel and represent charts using json files
   
+
+<h1>There are total of 28 faculties and here we have 21 faculties data from web of scieces</h1>
 
 1) Dr. Amritpal Singh
 (https://www.webofscience.com/wos/author/record/2033654)[Web of science]
