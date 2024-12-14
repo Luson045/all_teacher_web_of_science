@@ -1,0 +1,270 @@
+{
+  "personalInfo": {
+    "name": "Dr. KUNWAR PAL",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=37CNdWQAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 221,
+      "h_index": 9,
+      "i10_index": 9
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 5.26,
+    "averagePerYear": 221.0,
+    "timesCited": 221,
+    "dedupedTimesCited": 221,
+    "activeYears": 0
+  },
+  "researchFields": [
+    {
+      "name": "Computer Network",
+      "url": "/research_field/computer_network"
+    },
+    {
+      "name": "Network Security",
+      "url": "/research_field/network_security"
+    },
+    {
+      "name": "Multimedia Transmission",
+      "url": "/research_field/multimedia_transmission"
+    },
+    {
+      "name": "Peer to Peer Network",
+      "url": "/research_field/peer_to_peer_network"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Production of biomass derived highly porous activated carbon: A solution towards in-situ burning of crop residues in India",
+      "year": "",
+      "citations": 19
+    },
+    {
+      "title": "A state-of-the-art review on the technological advancements for the sustainable management of plastic waste in consort with the generation of energy and value-added chemicals",
+      "year": "",
+      "citations": 19
+    },
+    {
+      "title": "A new hybrid approach for overlay construction in p2p live streaming",
+      "year": "",
+      "citations": 17
+    },
+    {
+      "title": "Score-based Incentive Mechanism (SIM) for live multimedia streaming in peer-to-peer network",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "Energy and exergy analysis and emission reduction from forced draft gasifier cookstove models: a comparative study",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "Priority-based scheduling scheme for live video streaming in peer-to-peer network",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "A statistical analysis of SAMPARK dataset for peer-to-peer traffic and selfish-peer identification",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "FLHyO: fuzzy logic based hybrid overlay for P2P live video streaming",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "Slack time–based scheduling scheme for live video streaming in P2P network",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "Ensemble machine learning for P2P traffic identification",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "A survey on adaptive multimedia streaming",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Development of advanced biomass cookstove and performance comparisons using the modified star rating methodology",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Tools and techniques in optimization of network resources",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Optimize OLSR with cognitive in wireless mesh network",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Rapid A*: a robust path planning scheme for UAVs",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Identification of vulnerable selfish peer in P2P network using nature-inspired optimization techniques",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "A fuzzy based hierarchical flash crowd controller for live video streaming in P2P network",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Comparative analysis of new hybrid approach for overlay construction in P2P live streaming",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "P2P traffic identification using machine learning and feature selection techniques",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Utilization-based hybrid overlay for live video streaming in P2P network",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Providing Security in VPN by using Tunneling and Firewall",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Revisiting of peer-to-peer traffic: taxonomy, applications, identification techniques, new trends and challenges",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "An efficient and optimized Markov chain-based prediction for server consolidation in cloud environment",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "An Assessment to Biomass-Based Combustion Systems",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Development of energy efficient routing protocol using genetic algorithm for IoMT",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Comparative Analysis of Utilization Based Hybrid Overlay for Live Video Streaming in P2P Network.",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "A distinctive analysis of new hybrid overlay approach with classical overlay approaches for P2P live streaming",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "State of art and emerging trends on group recommender system: a comprehensive review",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Introduction to Various Types of Wastes",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Valorization of rice straw via torrefaction and its effect on the physicochemical properties",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Correction to: Energy and exergy analysis and emission reduction from forced draft gasifier cookstove models: a comparative study",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Utilization based hybrid overlay approach for P2P live streaming: a comparative analysis",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Recent Advances in Bioenergy Research Vol. III 2014",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Comparative study of different biomass cookstove model: An experimental study",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Comparison of Secure OLSR Routing Protocol",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Conversion and Utilization of Farm Agro-Waste to Sustainable Energy Production: A Waste to Wealth Approach",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Evaluating HHV Prediction Equations Using Proximate and Ultimate Analyses",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Area-coverage path planning for unmanned aerial vehicles: A Review",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Energy and Exergy Analyses of Typical Cookstove Models Using Different Biomass Feedstocks",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Digital image processing application in Agriculture (Pest Detection)-Review paper",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "JOURNAL OF ELECTROANALYrICAL CHEMISTRY AND INTERFACIAL ELECTROCHEMISTRY, VOLUME 79 (1977)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Energy-Efficient Load-Balanced Server Consolidation in Cloud Computing Environment",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Communication Systems",
+    "Computer Science",
+    "Data Science",
+    "Engineering",
+    "Hardware",
+    "Image Processing",
+    "Information Technology",
+    "Mathematics",
+    "Networking",
+    "Optimization",
+    "Security",
+    "Software Engineering"
+  ]
+}

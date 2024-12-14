@@ -1,0 +1,1150 @@
+{
+  "personalInfo": {
+    "name": "Harsh Kumar Verma",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=h0edtgIAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 2285,
+      "h_index": 28,
+      "i10_index": 71
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 10.39,
+    "averagePerYear": 2285.0,
+    "timesCited": 2285,
+    "dedupedTimesCited": 2285,
+    "activeYears": 0
+  },
+  "researchFields": [
+    {
+      "name": "Computer Science",
+      "url": "/research_field/computer_science"
+    }
+  ],
+  "publications": [
+    {
+      "title": "A high capacity text steganography scheme based on LZW compression and color coding",
+      "year": "",
+      "citations": 97
+    },
+    {
+      "title": "Outlier detection of data in wireless sensor networks using kernel density estimation",
+      "year": "",
+      "citations": 68
+    },
+    {
+      "title": "Comprehensive survey on petya ransomware attack",
+      "year": "",
+      "citations": 65
+    },
+    {
+      "title": "Performance analysis of RC6, Twofish and Rijndael block cipher algorithms",
+      "year": "",
+      "citations": 62
+    },
+    {
+      "title": "Optimized fuzzy logic based framework for effort estimation in software development",
+      "year": "",
+      "citations": 59
+    },
+    {
+      "title": "A hybrid approach for image security by combining encryption and steganography",
+      "year": "",
+      "citations": 54
+    },
+    {
+      "title": "Simulation modeling of cloud computing for smart grid using CloudSim",
+      "year": "",
+      "citations": 52
+    },
+    {
+      "title": "Security for wireless sensor network",
+      "year": "",
+      "citations": 52
+    },
+    {
+      "title": "A reversible data hiding scheme for interpolated images based on pixel intensity range",
+      "year": "",
+      "citations": 51
+    },
+    {
+      "title": "An image interpolation based reversible data hiding scheme using pixel value adjusting feature",
+      "year": "",
+      "citations": 47
+    },
+    {
+      "title": "Image interpolation based high capacity reversible data hiding scheme",
+      "year": "",
+      "citations": 46
+    },
+    {
+      "title": "An AMBTC compression based data hiding scheme using pixel value adjusting strategy",
+      "year": "",
+      "citations": 44
+    },
+    {
+      "title": "An intelligent and energy-efficient wireless body area network to control coronavirus outbreak",
+      "year": "",
+      "citations": 39
+    },
+    {
+      "title": "Classification of diabetes using Naive Bayes and support vector machine as a technique",
+      "year": "",
+      "citations": 37
+    },
+    {
+      "title": "A static feature selection-based android malware detection using machine learning techniques",
+      "year": "",
+      "citations": 36
+    },
+    {
+      "title": "A high payload data hiding scheme based on modified AMBTC technique",
+      "year": "",
+      "citations": 36
+    },
+    {
+      "title": "A detailed study of an internet of things (Iot)",
+      "year": "",
+      "citations": 34
+    },
+    {
+      "title": "Performance evaluation of RC6, blowfish, DES, IDEA, CAST-128 block ciphers",
+      "year": "",
+      "citations": 34
+    },
+    {
+      "title": "Robustness of the digital image watermarking techniques against brightness and rotation attack",
+      "year": "",
+      "citations": 33
+    },
+    {
+      "title": "Correlates of farmers' attitude towards Buffalo management practices",
+      "year": "",
+      "citations": 33
+    },
+    {
+      "title": "Community detection in social networks based on fire propagation",
+      "year": "",
+      "citations": 31
+    },
+    {
+      "title": "Comparative analysis of reactive, proactive and hybrid routing protocols in MANET",
+      "year": "",
+      "citations": 31
+    },
+    {
+      "title": "Handling imprecision in inputs using fuzzy logic to predict effort in software development",
+      "year": "",
+      "citations": 31
+    },
+    {
+      "title": "3D (4 X 4 X 4)-Playfair Cipher",
+      "year": "",
+      "citations": 30
+    },
+    {
+      "title": "Characteristics of caternary soils developed on basalt parent rock in Nagpur District of Maharashtra State.",
+      "year": "",
+      "citations": 30
+    },
+    {
+      "title": "AHP–neutrosophic decision model for selection of relay node in wireless body area network",
+      "year": "",
+      "citations": 29
+    },
+    {
+      "title": "PSOBAN: a novel particle swarm optimization based protocol for wireless body area networks",
+      "year": "",
+      "citations": 29
+    },
+    {
+      "title": "Improved detection and mitigation of DDoS attack in vehicular ad hoc network",
+      "year": "",
+      "citations": 28
+    },
+    {
+      "title": "Influence of social media analytics on online food delivery systems",
+      "year": "",
+      "citations": 27
+    },
+    {
+      "title": "A review of breast cancer detection using ART model of neural networks",
+      "year": "",
+      "citations": 26
+    },
+    {
+      "title": "Optimization of QoS parameters in cognitive radio using adaptive genetic algorithm",
+      "year": "",
+      "citations": 26
+    },
+    {
+      "title": "Energy-efficient relay node selection scheme for sustainable wireless body area networks",
+      "year": "",
+      "citations": 25
+    },
+    {
+      "title": "Role of cognitive radio on 4G communications a review",
+      "year": "",
+      "citations": 25
+    },
+    {
+      "title": "Enhancement of RC6 block cipher algorithm and comparison with RC5 & RC6",
+      "year": "",
+      "citations": 24
+    },
+    {
+      "title": "hPSO-SA: hybrid particle swarm optimization-simulated annealing algorithm for relay node selection in wireless body area networks",
+      "year": "",
+      "citations": 23
+    },
+    {
+      "title": "A secure lightweight signature based authentication for Cloud‐IoT crowdsensing environments",
+      "year": "",
+      "citations": 22
+    },
+    {
+      "title": "General awareness on allopathic, ayurvedic and homeopathic system of medicine in Chhattisgarh, India",
+      "year": "",
+      "citations": 21
+    },
+    {
+      "title": "Effect of organic matter OH some physical properties of soil in the permanent manurial experiments.",
+      "year": "",
+      "citations": 21
+    },
+    {
+      "title": "Evolution of vanets to iov: Applications and challenges",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "Performance and evaluation of energy optimization techniques for wireless body area networks",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "Convolutional neural network based criminal detection",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "Security attacks & prerequisite for wireless sensor networks",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "Recent methods for software effort estimation by analogy",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "Impact of rock block characteristics on rockfall hazard and its implications for rockfall protection strategies along Himalayan highways: a case study",
+      "year": "",
+      "citations": 19
+    },
+    {
+      "title": "Analysis and design of protocol for enhanced threshold proxy signature scheme based on RSA for known signers",
+      "year": "",
+      "citations": 18
+    },
+    {
+      "title": "A hybrid framework for registration of carotid ultrasound images combining iconic and geometric features",
+      "year": "",
+      "citations": 18
+    },
+    {
+      "title": "Authentication protocol for wireless sensor networks",
+      "year": "",
+      "citations": 18
+    },
+    {
+      "title": "Cryptanalysis and performance evaluation of enhanced threshold proxy signature scheme based on RSA for known signers",
+      "year": "",
+      "citations": 17
+    },
+    {
+      "title": "A secure data transmission protocol for cloud‐assisted edge‐Internet of Things environment",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "A hybrid approach of image steganography",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "Hash_RC6—Variable length Hash algorithm using RC6",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "Blast induced damage to surrounding rock mass in an underground excavation",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "3D—Playfair cipher using LFSR based unique random number generator",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "Analysis of decision making operation in cognitive radio using fuzzy logic system",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "Effective parallel processing social media analytics framework",
+      "year": "",
+      "citations": 15
+    },
+    {
+      "title": "On the energy utilization for WSN based on BPSK over the Generalized-K shadowed fading channel",
+      "year": "",
+      "citations": 15
+    },
+    {
+      "title": "Comparison of various Security Protocols in RFID",
+      "year": "",
+      "citations": 15
+    },
+    {
+      "title": "An advanced secure (t, n) threshold proxy signature scheme based on RSA cryptosystem for known signers",
+      "year": "",
+      "citations": 15
+    },
+    {
+      "title": "A high capacity text steganography scheme based on huffman compression and color coding",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "Improved ANN-based algorithm for detection and classification of faults on transmission lines",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "Impact of Firewall and VPN for securing WLAN",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "Redis-based messaging queue and cache-enabled parallel processing social media analytics framework",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "A modified pixel-value differencing image steganographic scheme with least significant bit substitution method",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "Comparison of Threshold Proxy Signature Schemes.",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "Community detection metrics and algorithms in social networks",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "QoS provisioning in channel allocation strategy in cognitive radio using fuzzy logic",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Technology and research developments in carotid image registration",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "On performance evaluation of mining algorithm for multiple-level association rules based on scale-up characteristics",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Performance evaluation of qos parameters in cognitive radio using genetic algorithm",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Efficiency measurement of hydro machine by thermodynamic method",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Secure threshold proxy signature scheme based on RSA for known signers",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Code smell prioritization in object‐oriented software systems: A systematic literature review",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Image steganography: hiding secrets in random LSB pixels",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "A high capacity data hiding scheme using modified AMBTC compression technique.",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Impact of physical layer jamming on wireless sensor networks with shadowing and multicasting",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "A comparative study of bayesian and fuzzy approach to assess and predict maintainability of the software using activity-based quality model",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Random sample audio watermarking algorithm for compressed wave files",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Optimization of block size for DCT-based medical image compression",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Lengthening of average path length in social networks due to the effect of community structure",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Smart grid cloud for Indian power sector",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Performance Analysis of Virtual Private Network for Securing Voice and Video Traffic",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Neuromarketing in predicting voting behavior: A case of National elections in India",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Comparative analysis of cloudlet completion time in time and space shared allocation policies during attack on smart grid cloud",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Training needs assessment of marigold growers.",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "On Denial of Service Attacks for Wireless Sensor Networks",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "6 x 6 playfair cipher using lfsr based unique random number generator",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Performance evaluation of csma/tdma cognitive radio using genetic algorithm",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Dawn of big data with Hadoop and machine learning",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "ABNT: Adaptive beaconing and neighbor timeout for geographical routing in UAV networks",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "An energy efficient tdma based mac protocol for wireless body area networks",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "An empirical enhancement using scale invariant feature transform in text extraction from images",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Economic Viability of Smart Grid Cloud in India",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Asymptotic multicast throughput analysis and energy efficiency in WSN under double Nakagami fading channel using Extreme value theory",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Comparative analysis of ad hoc routing protocols based on user's point of view",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Investigation of delay time precision in pyrotechnic detonators",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Security analysis and performance evaluation of enhanced threshold proxy signature scheme based on RSA for known signers",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Comparative Analysis of Reactive and Proactive Routing Protocols in MANETs Using Throughput, Delay and Network Load",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Monitoring of variation in water quality of river Ganga at Sangam in Allahabad",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "AI-driven task scheduling strategy with blockchain integration for edge computing",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "A systematic study on the challenges, characteristics and security issues in vehicular networks",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "A study of relevant parameters influencing code smell prioritization in object-oriented software systems",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Evaluating the impact of beacon interval and neighbor timeout timer on the performance of geographical routing in fanets",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "IMSM: An interval migration based approach for skew mitigation in mapreduce",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Modeling of blast induced damage distance for underground tunnels",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Application of nanotechnology in oral and maxillofacial surgery",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Agrobacterium-mediated transformation of broccoli",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Linear feedback shift register based unique random number generator",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Investment opportunities for potash mining in India as an import substitute mineral",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Electronic detonators-a technological update",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Real-Time Convolutional Neural Networks for Emotion and Gender Classification",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Voting classification method with PCA and K-means for diabetic prediction",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Precursors and impact of mindful consumption",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Efficient security mechanism to counter the malicious attack in wireless sensor networks",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Analysis of security issues in cloud based smart grid",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Phytochemical determination and evaluation of antibacterial, antifungal and cytotoxic effects in selected medicinal plants",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Enhanced hash chain based scheme for security and privacy in RFID systems",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Recommender credibility-based trust model for secure v2x communication",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "An intelligent communication system for collision avoidance on roads: A smart city application",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "EMM: Extended matching market based scheduling for big data platform hadoop",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "The interoperability of fog and IoT in healthcare domain: Architecture, application, and challenges",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Quetelet’s index and body fat percentage assessment in indian undergraduate students",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Analysis and removal of vulnerabilities in masquerading attack in wireless sensor networks",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "A procedure for face detection & recognition",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Application of Hadoop in Data Science",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Novel transportation layers of NiO and ZnO for the fabrication of perovskite solar cell for e-monitoring of healthcare",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "An Energy Efficient Health Monitoring System using Relay Node in Wireless Body Area Networks",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "A Boolean-based multi-secret image sharing scheme using bit-reversal",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "CONTROLLED BLASTING TECHNIQUES FOR DEVELOPMENTOF ROAD INFRASTRUCTURES IN HILLY TERRAIN",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Analysis of cloudlet completion time during attack on smart grid cloud",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Bi-directional pixel-value differencing approach for steganography",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Yashwant. Probiotics: A Medieval To Modern Era Prospective",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Quality rating of well water for irrigation in Delhi Area",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "AI-Based Agriculture Application for Crop Recommendation and Guidance System for Farmers",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "A study of converter configurations for vehicular applications",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Smart System Using IoT to Protect the Kitchen From Fire",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Gravitational community detection by predicting diameter",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "UAV-Based Cyber-Physical Systems: Concepts, Applications, and Issues",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Various Techniques to Improve the Efficiency of Apriori Algorithm: A Review",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Hiding secret message using matrix reordering and image blocking",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Effective analysis of tweets using Hadoop ecosystem",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "A test-bed application of analog and digital sensors for wireless sensor networks",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Potential theory of normal tempered stable process",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Dual Steganography Approach Using 3D Playfair Cipher and Pixel Value Differencing Method",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "On the energy efficiency of WSN communications operating under non-coherent M-FSK and M-QAM MODULATIONS",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "On the energy utilization of WSN communications Using Space-Time Block Coding over BPSK and M-QAM modulations",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Extent of Rock mass Damage Induced by Blasting in Tunneling",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Evaluating the Gaps of Different Energy Efficient Protocols of WSN",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Wireless Sensor Networks for Indoor Environment Monitoring Using LabView",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Delay precision in permitted copper delay detonators",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Excavation of turbine pits for a hydroelectric project-a case study",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "A Microprocessor Based Under-Frequency Relay with Decay Rate Compensation",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Role of Cognitive Radio on 4G Communications",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "A Hybrid Seagull Optimization Algorithm for Effective Task Offloading in Edge Computing Systems",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A comprehensive analysis of cross-site scripting vulnerabilities",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Blind Signal Detection Using Modern Deep Learning Techniques",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Exploring the Landscape of Cloud Robotics: A Comprehensive Review",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "ETSI ITS: A Comprehensive Overview of the Architecture, Challenges and Issues",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "MF‐DLB: Multimetric forwarding and directed acyclic graph‐based load balancing for geographic routing in FANETs",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Prioritizing God Class Code Smells in Object-Oriented Software Using Fuzzy Inference System",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Hybrid Whale Optimization‐Based Energy‐Efficient Lightweight Internet of Things Framework",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Customer Segmentation with RFM Analysis using ML Models",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Microscopic characteristics of blast-induced damage zones in rock masses",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Linear Regression-Based Prediction Model For Real Estate Properties in India",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Performance Challenges and Solutions in Big Data Platform Hadoop",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of Blast Damage Zones on the Stability of a Himalayan Highway Cut-Slope₋ Continuum Modelling Approach",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "IoV-Health: an intelligent integrated emergency health monitoring and alert generation system",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A multi-sensor based emergency healthcare monitoring system integrating heart status, stress, and alcohol detections",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "System for predicting soil moisture using Arduino-UNO",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Discernment and Perusal of Software Vulnerability",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Correlating Textural Parameters with Joint Roughness for Himalayan Schist and Gneissic rocks",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Malware Signature and Behavior Performance Evaluation utilizing Packers",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Security Vulnerabilities of Cyber-physical Systems: Autonomous Vehicles Perspective",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Standards and Performance Testing for Small Hydropower Development",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "User Activity Classification and Domain-Wise Ranking Through Social Interactions",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Certificate of participation",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Application of Controlled Blasting Techniques for Development of Stable Slope-A Case Study",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Relationship Between Community Structure and Clustering Coefficient",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "DREIRAD",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Potential Theory of Some Subordinate Brownian Motions",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "COMPARATIVE EVALUATION OF THE EFFECT OF ULTRASONIC SCALING ON THESURFACE ROUGHNESS OF TWO DIFFERENT TOOTH COLOURED CLASS VRESTORATIONS. AN IN VITRO STUDY.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "An improved content splitting and merging algorithm for Hadoop clusters using component analysis and hamming distance",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Constraint and suggestion faced by the member farmers of Gram Panchayat while viewing farm television.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Association between the characteristics with perception of the member farmers of Gram Panchayat about farm television.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Overbreak in Underground Excavations–Parametric Analysis",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Automatized Friend Selection Using Enhanced Neuro-Bins Greedy Algorithm",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Deterioration in Rock Mass Properties due to Blasting Operationsin Underground Excavations",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Extent of Rock Mass Damage induced by Blasting",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Simple Correlation to Compute Extent of RockMass Damage Induced by Blasting in Tunnelling",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Investigation of excavation damage zone in Himalayan tunnel.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Hybrid Multimodal Registration of Carotid Magnetic Resonance and Ultrasound Images Using Free-Form Deformation",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A (m, m) VCS with consistent size reconstruction using full binary tree",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Constraints in adoption of marigold production technology.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Synthesis of Pyrimidines",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Research Article Cryptanalysis and Performance Evaluation of Enhanced Threshold Proxy Signature Scheme Based on RSA for Known Signers",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Motives behind marigold cultivation of marigold growers in Anand district.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Assessment and Mitigation of Blast Induced Vibration and Overbreak in Kol Dam Hydroelectric Power Project, India–A Case Study",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Investigation of cracks in domestic houses near construction project in the Himalaya, India: A case study",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Simulation Based Performance Comparison of AODV and OLSR Routing Protocols in MANET.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Nischay Bahl Ajay K. Sharma",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Comparative Investigations and Performance Evaluation for Multiple-Level Association Rules Mining Algorithm",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Evaluation of Suitability of Permitted Delay Detonators Vis-a-vis Their Delay Timing for Use in Underground Coal Mines",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Intracytoplasmic sperm injection and its use in male factor infertility.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Generation, propagation and control of airblast produced through blasting",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Phenological observations on root yield and chemical composition in different morphotypes of Withania somnifera.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Phenological studies of diara land vegetation Bhagalpur.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Vesicular-arbuscular mycorrhiza of sweet potato (Ipomoea batatas (L.) Lam.) in calcareous soil of Northern Bihar.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "ELECTRONIC TEST SCHEME WITH AUTOMATIC ERROR COMPUTATION FOR ENERGY METERS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of organic matter on some physical properties of soil in the permanent mammal experiments.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "III. CLAY MINERALS, UNDERGROUND WATER AND PHYSICAL PROPERTIES OF SOILS EFFECT OF ORGANIC MATTER ON SOME PHYSICAL PROPERTIES OF SOIL IN THE PERMANENT MANURIAL EXPERIMENTS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Farmers' Acceptability and Adoption of Rapeseed-Mustard Production Technology Under Rainfed Conditions",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Aim Methods Results",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Characteristics, Formals and Functions of the Word Class of Auxiliaries: A Cross-Linguistics Review",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "QoS Provisioning in Channel Allocation Strategy in Cognitive Radio Using Fuzzy Logic",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Hazard Analysis of Rockfalls from High Wall Slopes in Opencast Mines-A Case Study of Dadam Quartzite Mine, Haryana, India",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Excavation Techniques for Development of Road Infrastructures in Hilly Terrain",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Performance Evaluation of AQM Techniques in PIM-DM Multicast Network for SRM Protocol",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "ICNGCIS 2017",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Organizing Secretary",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "2016 Symposium on Colossal Data Analysis and Networking (CDAN)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A COLLABORATIVE STUDY OF TRAFFIC MANAGEMENT IN CLOUD COMPUTING ENVIRONMENT",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Communication Systems",
+    "Computer Science",
+    "Data Science",
+    "Electronics",
+    "Engineering",
+    "Hardware",
+    "Information Technology",
+    "IoT",
+    "Mathematics",
+    "Networking",
+    "Operating Systems",
+    "Optimization",
+    "Security",
+    "Software Engineering"
+  ]
+}

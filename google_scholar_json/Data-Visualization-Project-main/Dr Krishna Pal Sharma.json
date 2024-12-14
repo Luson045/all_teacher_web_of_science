@@ -1,0 +1,365 @@
+{
+  "personalInfo": {
+    "name": "Dr Krishna Pal Sharma",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=QM9qltUAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 395,
+      "h_index": 12,
+      "i10_index": 13
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 6.27,
+    "averagePerYear": 395.0,
+    "timesCited": 395,
+    "dedupedTimesCited": 395,
+    "activeYears": 0
+  },
+  "researchFields": [
+    {
+      "name": "Wireless Sensor Networks",
+      "url": "/research_field/wireless_sensor_networks"
+    },
+    {
+      "name": "IoT and Data Analytics",
+      "url": "/research_field/iot_and_data_analytics"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Sales forecast for amazon sales with time series modeling",
+      "year": "",
+      "citations": 53
+    },
+    {
+      "title": "rDFD: reactive distributed fault detection in wireless sensor networks",
+      "year": "",
+      "citations": 53
+    },
+    {
+      "title": "A sequential ensemble model for communicable disease forecasting",
+      "year": "",
+      "citations": 24
+    },
+    {
+      "title": "Breast cancer classification using snapshot ensemble deep learning model and t-distributed stochastic neighbor embedding",
+      "year": "",
+      "citations": 22
+    },
+    {
+      "title": "Evolution of vanets to iov: Applications and challenges",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "Ensemble model based on NNAR and SVR for predicting influenza incidences",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "Statistical analysis and forecasting models for stock market",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "A framework for data prediction and forecasting in WSN with Auto ARIMA",
+      "year": "",
+      "citations": 15
+    },
+    {
+      "title": "Decomposition and evaluation of SEMG for hand prostheses control",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "Secure QR-code based message sharing system using cryptography and steganography",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "Energy-hole avoidance and lifetime enhancement of a WSN through load factor",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "ZBFR: zone based failure recovery in WSNs by utilizing mobility and coverage overlapping",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "Distributed connectivity restoration in networks of movable sensor nodes",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Blockchain applications, opportunities, challenges and risks: a survey",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Comparative analysis of time series models for the prediction of conjunctivitis disease",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Price Prediction of Bitcoin using Social Media Activities and Past Trends",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Energy aware clustering based mobility model for FANETs",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Dynamic load tuning for energy-hole avoidance in corona model for a wireless sensor network",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "ABNT: Adaptive beaconing and neighbor timeout for geographical routing in UAV networks",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Analysis of regression techniques for stock market prediction: A performance review",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Occurrence of Echinococcus granulosus sensu lato and Other Taeniids in Bhutan",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "A comparative analysis of mobility models for network of UAVs",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "A systematic study on the challenges, characteristics and security issues in vehicular networks",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Evaluating the impact of beacon interval and neighbor timeout timer on the performance of geographical routing in fanets",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Intrusion detection system using machine learning algorithms: a comparative study",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "An ensemble approach to forecast COVID-19 incidences using linear and non-linear statistical models",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "A throughput descent and energy efficient mechanism for fault detection in WSNs",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Recommender credibility-based trust model for secure v2x communication",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "RFDCS: A reactive fault detection and classification scheme for clustered wsns",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "International Roughness Index (IRI) prediction using various machine learning techniques on Flexible Pavements",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Cyber-physical systems: a comprehensive guide",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Distributed denial-of-service attacks and mitigation in wireless sensor networks",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "CPFR: coverage preserving failure recovery in wireless sensor networks",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Challenges and applications of Li-Fi in D2D communication",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "A systematic review of deep learning techniques for semantic image segmentation: methods, future directions, and challenges",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Analytical study for Price Prediction of Bitcoin using Machine Learning and Deep Learning",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Identification and Classification of Myoelectric Signal Features Related to Hand Motions",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "UAV-Based Cyber-Physical Systems: Concepts, Applications, and Issues",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Evaluation of electromyogram signals in the control of prosthetic limb: a review",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Blockchain-based Claim Verification and Approval System for Disbursing Fertilizer Subsidy",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "A Four-Stage Dynamic Approach for Software Defect Prediction",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Characteristics of Helicobacter pylori infection in a national referral hospital in Bhutan",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Deployment Strategies for Mobile Wireless Sensor Networks (MWSNs).",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "A Decade Review of Authentication and Communication Methods in IoT Environment",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Alzheimer's Disease Detection and Classification: A Survey",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "ETSI ITS: A Comprehensive Overview of the Architecture, Challenges and Issues",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A machine learning-based ensemble model for securing the IoT network",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Forecasting the Semg Signal Using Wavelet Transform and Anfis Model",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "MF‐DLB: Multimetric forwarding and directed acyclic graph‐based load balancing for geographic routing in FANETs",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Feature Selection Technique Using Self-Organizing Maps for Software Defect Prediction",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "International Roughness Index Prediction Using Various Machine Learning Techniques on Flexible Pavements",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "EEDF: Enhanced Encryption Decryption Framework for Device Authentication in IoT.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Vitamin D Status among the Population Visiting Jigme Dorji Wangchuck National Referral Hospital, Bhutan",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Android Cab Application",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Systematic Review of Deep Learning Techniques for Semantic Image Segmentation: Methods, Future Directions, and Challenges",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Time Series Forecasting Techniques for Infectious Disease Prediction",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Security Vulnerabilities of Cyber-physical Systems: Autonomous Vehicles Perspective",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Evolution of VANETS to IoV: Applications and Challenges.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Statistical Analysis of Factors Affecting COVID-19",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Review of Recent Issues and Challenges of Fault Management Techniques in Underwater Wireless Sensor Network",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A reactive scheme for detecting soft faults in wireless sensor networks",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Studies on the biology of pulse beetle, Callosobruchus maculates (Fab.) (Coleoptera: Bruchidae).",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Comparative Study of Deployment Strategies in Wireless Sensor Networks",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Communication Systems",
+    "Computer Science",
+    "Data Science",
+    "Engineering",
+    "Information Technology",
+    "IoT",
+    "Networking",
+    "Operating Systems",
+    "Security",
+    "Software Engineering"
+  ]
+}
