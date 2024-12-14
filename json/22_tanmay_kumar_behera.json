@@ -184,6 +184,140 @@
         "grants_stats": {
           "total_articles": 0
         }
+      },{
+        "author_name": "Behera, Tanmay Kumar",
+        "fullJournalsList": [
+          {
+            "count": "1",
+            "value": "BIG DATA RESEARCH"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL CONFERENCE ON COMPUTATIONAL INTELLIGENCE AND NETWORKS"
+          },
+          {
+            "count": "1",
+            "value": "IT PROFESSIONAL"
+          },
+          {
+            "count": "1",
+            "value": "SUSTAINABLE COMPUTING-INFORMATICS & SYSTEMS"
+          },
+          {
+            "count": "1",
+            "value": "COMPUTATIONAL INTELLIGENCE IN DATA MINING, CIDM 2016"
+          },
+          {
+            "count": "1",
+            "value": "2017 3RD INTERNATIONAL CONFERENCE ON COMPUTATIONAL INTELLIGENCE AND NETWORKS (CINE)"
+          },
+          {
+            "count": "1",
+            "value": "PATTERN RECOGNITION LETTERS"
+          },
+          {
+            "count": "1",
+            "value": "JOURNAL OF SIGNAL PROCESSING SYSTEMS FOR SIGNAL IMAGE AND VIDEO TECHNOLOGY"
+          },
+          {
+            "count": "1",
+            "value": "IEEE TRANSACTIONS ON CONSUMER ELECTRONICS"
+          },
+          {
+            "count": "1",
+            "value": "IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING"
+          },
+          {
+            "count": "1",
+            "value": "ADVANCES IN INTELLIGENT SYSTEMS AND COMPUTING"
+          },
+          {
+            "count": "1",
+            "value": "IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS"
+          },
+          {
+            "count": "1",
+            "value": "2015 SECOND INTERNATIONAL CONFERENCE ON ADVANCES IN COMPUTING AND COMMUNICATION ENGINEERING ICACCE 2015"
+          },
+          {
+            "count": "1",
+            "value": "2017 2ND INTERNATIONAL CONFERENCE FOR CONVERGENCE IN TECHNOLOGY (I2CT)"
+          },
+          {
+            "count": "1",
+            "value": "COMPUTERS AND ELECTRONICS IN AGRICULTURE"
+          }
+        ],
+        "authorAliasName": "Behera, Tanmay Kumar",
+        "affiliations": [
+          {
+            "value": "National Institute of Technology Rourkela",
+            "count": 8,
+            "maxYear": 2024,
+            "minYear": 2021
+          },
+          {
+            "value": "National Institute of Technology (NIT System)",
+            "count": 1,
+            "maxYear": 2023,
+            "minYear": 2023
+          },
+          {
+            "value": "Veer Surendra Sai University of Technology",
+            "count": 4,
+            "maxYear": 2017,
+            "minYear": 2015
+          }
+        ],
+        "primaryAffiliationLocation": "ROURKELA, ODISHA, INDIA",
+        "rid": "AAK-7869-2021",
+        "institution": "National Institute of Technology Rourkela",
+        "photoUrlLarge": "https://publons.com/media/thumbs/academic/photos/a794a676-98bf-4397-b18d-cddb47ea2900.jpg.200x200_q95_crop_detail_upscale.jpg",
+        "showPublishedNames": true,
+        "categories": [
+          "Computer Science",
+          "Engineering",
+          "Telecommunications",
+          "Imaging Science & Photographic Technology",
+          "Remote Sensing",
+          "Medical Informatics",
+          "Physical Geography",
+          "Mathematical & Computational Biology",
+          "Operations Research & Management Science",
+          "Agriculture"
+        ],
+        "alternativeName": [
+          {
+            "value": "Behera, Tanmay Kumar",
+            "count": 13
+          }
+        ],
+        "academy": {
+          "isAcademyGraduate": null,
+          "isAcademySupervisor": null
+        },
+        "claim_status": true,
+        "topics": null,
+        "showOrganizationNames": true,
+        "orcid": "0000-0001-5401-5804",
+        "publishingName": "Tanmay Kumar Behera",
+        "authorId": "2252797",
+        "primaryAffiliation": "National Institute of Technology Rourkela",
+        "primaryInstitutionAffiliation": {
+          "institution": "National Institute of Technology Rourkela",
+          "department": "Computer Science and Engineering",
+          "role": "Research Scholar",
+          "startDate": "2018",
+          "endDate": "present",
+          "url": "/wos-op/institution/12484/"
+        },
+        "primaryAffiliationDepartment": [
+          "National Institute of Technology Rourkela Department of Computer Science and Engineering"
+        ],
+        "excellentReviews": {
+          "excellentReviewsCount": 0,
+          "isExcellentReviewer": false
+        }
       }
     ]
   }
