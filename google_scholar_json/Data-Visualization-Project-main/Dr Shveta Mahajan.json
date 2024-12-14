@@ -1,0 +1,130 @@
+{
+  "personalInfo": {
+    "name": "Shweta Mahajan",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=DUKzkPMAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 290,
+      "h_index": 8,
+      "i10_index": 7
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 17.06,
+    "averagePerYear": 290.0,
+    "timesCited": 290,
+    "dedupedTimesCited": 290,
+    "activeYears": 0
+  },
+  "researchFields": [
+    {
+      "name": "Machine Learning",
+      "url": "/research_field/machine_learning"
+    },
+    {
+      "name": "Computer Vision",
+      "url": "/research_field/computer_vision"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Unsupervised semantic correspondence using stable diffusion",
+      "year": "",
+      "citations": 60
+    },
+    {
+      "title": "Make-a-story: Visual memory conditioned consistent story generation",
+      "year": "",
+      "citations": 51
+    },
+    {
+      "title": "Latent Normalizing Flows for Many-to-Many Cross-Domain Mappings",
+      "year": "",
+      "citations": 48
+    },
+    {
+      "title": "Diverse Image Captioning with Context-Object Split Latent Spaces",
+      "year": "",
+      "citations": 47
+    },
+    {
+      "title": "Vivid-1-to-3: Novel view synthesis with video diffusion models",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "Normalizing Flows with Multi-scale Autoregressive Priors",
+      "year": "",
+      "citations": 18
+    },
+    {
+      "title": "Feature oriented fuzzy logic based web spam detection",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Joint wasserstein autoencoders for aligning multimodal embeddings",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Diverse image captioning with grounded style",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Unsupervised keypoints from pretrained diffusion models",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "PixelPyramids: Exact Inference Models from Lossless Image Pyramids",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Visual concept-driven image generation with text-to-image diffusion model",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Multimodal Representation Learning for Diverse Synthesis with Deep Generative Models",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Study of the effect of timing of pre-operative administration of dexamethasone and ondansetron on post-operative nausea and vomiting follow laparoscopic cholecystectomy: A …",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "DDIL: Improved Diffusion Distillation With Imitation Learning",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Multimodales Repräsentationslernen für diversifizierte Synthese",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Computer Science",
+    "Engineering",
+    "Image Processing",
+    "Information Technology",
+    "Operating Systems"
+  ]
+}

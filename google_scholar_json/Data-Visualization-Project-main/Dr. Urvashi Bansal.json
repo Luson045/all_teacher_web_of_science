@@ -1,0 +1,220 @@
+{
+  "personalInfo": {
+    "name": "Dr. Urvashi",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=1dpDSxIAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 310,
+      "h_index": 9,
+      "i10_index": 9
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 9.69,
+    "averagePerYear": 310.0,
+    "timesCited": 310,
+    "dedupedTimesCited": 310,
+    "activeYears": 0
+  },
+  "researchFields": [
+    {
+      "name": "Application Security",
+      "url": "/research_field/application_security"
+    },
+    {
+      "name": "Cyber Warfare",
+      "url": "/research_field/cyber_warfare"
+    },
+    {
+      "name": "Adversarial Machine Learning",
+      "url": "/research_field/adversarial_machine_learning"
+    },
+    {
+      "name": "Explainable AI",
+      "url": "/research_field/explainable_ai"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Diagnosis of Brain Tumor Using Light Weight Deep Learning Model with Fine‐Tuning Approach",
+      "year": "",
+      "citations": 65
+    },
+    {
+      "title": "An artificial intelligence approach toward food spoilage detection and analysis",
+      "year": "",
+      "citations": 56
+    },
+    {
+      "title": "ECLAT Algorithm for Frequent Itemsets Generation",
+      "year": "",
+      "citations": 41
+    },
+    {
+      "title": "Empirical analysis of attack graphs for mitigating critical paths and vulnerabilities",
+      "year": "",
+      "citations": 21
+    },
+    {
+      "title": "Advanced Eclat Algorithm for Frequent Itemsets Generation",
+      "year": "",
+      "citations": 21
+    },
+    {
+      "title": "A review on ransomware attack",
+      "year": "",
+      "citations": 15
+    },
+    {
+      "title": "Explainable AI: to reveal the logic of black-box models",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "Advanced Petya ransomware and mitigation strategies",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "Vulnerability Analysis in Attack Graphs Using Conditional Probability",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "Gender and age estimation from gait: A review",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "User authentication using keystroke recognition",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "A systematic review of attack graph generation and analysis techniques",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Defense against adversarial attacks using chained dual-GAN approach",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "A systematic literature review of Internet of Video Things: Trends, techniques, datasets, and framework",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "An Artificial Intelligence Approach for Expurgating Edible and Non-Edible Items",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Gait based age estimation using lenet-50 inspired gait-net",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Empirical risk assessment of attack graphs using time to compromise framework",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Behavior-based approach for fog data analytics: an approach toward security and privacy",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Inter-Dependent Effect Of Vulnerabilities For Generation Of Effective Attack Path Score",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Chained Dual-Generative Adversarial Network: A Generalized Defense Against Adversarial Attacks.",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Emotion Sentiment Analysis of Indian Twitter-Data of COVID-19 After Lockdown",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "An adaptive randomized and secured approach against adversarial attacks",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Modified SIMON Approach towards Lightweight Cryptography Scheme for Multi Data Key Pair Combination.",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "An ensemble approach for optimization of penetration layout in wide area networks",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Breaking through the mist: an in-depth analysis of task scheduling techniques in fog computing",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Unveiling vulnerabilities: evading YOLOv5 object detection through adversarial perturbations and steganography",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Quantitative evaluation of extensive vulnerability set using cost benefit analysis",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Diagnosis of Brain Tumor Using Light Weight Deep Learning Model with Fine-Tuning Approach",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Analyzing Complex Non-Trivial Network using Attack Set Generation by Genetic Algorithm",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Fingerprint Matching Algorith musing Advanced Pre-Processing Technique",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "User Authentication By using Advanced Key Stroke Recognition",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Review on Digital Image Forgery Detection",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Communication Systems",
+    "Computer Science",
+    "Data Science",
+    "Engineering",
+    "Hardware",
+    "Information Technology",
+    "Mathematics",
+    "Networking",
+    "Operating Systems",
+    "Optimization",
+    "Security",
+    "Software Engineering"
+  ]
+}

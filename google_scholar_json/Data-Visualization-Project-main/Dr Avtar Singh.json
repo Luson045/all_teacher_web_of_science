@@ -1,0 +1,3401 @@
+{
+  "personalInfo": {
+    "name": "Dr Avtar Singh",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=UN4_VkEAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 602,
+      "h_index": 12,
+      "i10_index": 18
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 0.9,
+    "averagePerYear": 602.0,
+    "timesCited": 602,
+    "dedupedTimesCited": 602,
+    "activeYears": 0
+  },
+  "researchFields": [
+    {
+      "name": "Cloud Computing",
+      "url": "/research_field/cloud_computing"
+    },
+    {
+      "name": "Machine Learning",
+      "url": "/research_field/machine_learning"
+    },
+    {
+      "name": "AHP",
+      "url": "/research_field/ahp"
+    },
+    {
+      "name": "MCDM",
+      "url": "/research_field/mcdm"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Prevalence of dental caries in 5-6 years and 12-13 years age group of school children of Kathmandu valley.",
+      "year": "",
+      "citations": 45
+    },
+    {
+      "title": "P wave detection of ambulatory ECG",
+      "year": "",
+      "citations": 37
+    },
+    {
+      "title": "Mitigation of imminent climate change and enhancement of agricultural system productivity through efficient carbon sequestration and improved production technologies",
+      "year": "",
+      "citations": 35
+    },
+    {
+      "title": "Synthesis and characterization of a chelating resin containing ONO donor tridentate Schiff base and its coordination compounds with copper (II), nickel (II), cobalt (II), iron …",
+      "year": "",
+      "citations": 34
+    },
+    {
+      "title": "Synthesis and characterization of manganese (II), cobalt (II), nickel (II), copper (II), zinc (II), cadmium (II), iron (III), zirconium (IV), dioxomolybdenum (VI) and …",
+      "year": "",
+      "citations": 29
+    },
+    {
+      "title": "Cloud services selection: A systematic review and future research directions",
+      "year": "",
+      "citations": 25
+    },
+    {
+      "title": "Task scheduling algorithms in cloud computing: A survey",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "Ultrasonic assessment of injuries to the lateral complex of the ankle.",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "Prediction-based scheduling techniques for cloud data center’s workload: a systematic review",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "Irrigation scheduling in zero-till and bed-planted wheat (Triticum aestivum)",
+      "year": "",
+      "citations": 14
+    },
+    {
+      "title": "Performance of Lentil under Rice-Lentil under different tillage in drought-prone rainfed Ecosystem of Bihar",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "Recent advances in different omics mechanism for drought stress tolerance in rice",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "Deblossoming in summer season flowering in guava",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "Apply AHP for resource allocation problem in cloud",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "Discrimination and mapping of phase distributions by automated crystal orientation measurement",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "Resource allocation in cloud computing environment using AHP technique",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Evaluation of farmers field school on All India Radio about organic farming",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Minimum variance unbiased estimation in multi-parameter exponential family of distributions",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Predictive analysis of medical data using a hybrid machine learning technique",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Impact of demographical factors on the purchasing behaviour of the customers’ with special reference to FMCG: An empirical study",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Study of the key market segmentation and targeting strategies followed by the leading FMCG companies in India",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Auction based scheme for resource allotment in cloud computing",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Biomethane from animal waste and grass for clean vehicular biofuel in Ireland",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Prevalence of tuberculosis in Kishtwar Tehsil of Jammu region in Jammu and Kashmir State.",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "TLC, HPTLC Studies and qualitative Phytochemical investigations of seeds of Celastrus paniculata Willd",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "A study on the problems faced by the FMCG distribution channels in rural area of Bhopal & Hoshangabad Districts of MP",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Evaluation of usability using soft computing technique",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "A genetic algorithm based task scheduling for cloud computing with fuzzy logic",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Inhalable nanostructures for lung cancer treatment: progress and challenges",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Evaluation of IPM module against major insect pest of rice in St. Kabir Nagar District of Uttar Pradesh",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "NeuroAIDS in Indian Scenario",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Combinatorial chemistry and its application-a review",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Introduction and cultivation of Bulgarian Rose as a commercial crop in India",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "On non-contemporaneity of the Saraswati River and the Harappan Civilization in NW India: constraints from subsurface chrono-stratigraphy",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Development of cold rolling texture in the binary Ti-0.4 Mn alloy",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Heavy metals in synthetic detergents.",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Concept of hybrid drugs and recent advancements in anticancer hybrids., 2022, 15, 1071",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Role of the renin angiotensin system in diabetic nephropathy. World J diabetes. 2010; 1 (5): 141-5",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Improving Multi‐Label Classification in Prototype Selection Scenario",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Estimation of duct-lifetimes for storm-time low latitude whistlers observed at Srinagar, India",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Off‐atomic site charges in some anions, metal cations, and complexes: Significance for electrostatic properties and binding",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Recrystallization-Texture-Effect of cold rolling on the transition texture of commercially pure titanium",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Spectrophotometric studies in kinetics and mechanism of oxidation of lactose and maltose by Cu (Bip) 2 2+ in alkaline medium",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Effect of synthetic detergent on certain enzymes in liver and kidney in male rats",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Impact of COVID-19 pandemic on anti-microbial resistance and secondary microbial infections",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Data integrity authentication techniques in cloud computing: a survey",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "A survey on load balancing algorithms for cloud computing",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Expression analysis of C4 photosynthetic pathway related genes in seven rice genotypes during grain filling stage.",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Thermal oxidation kinetics of the solid residues of alcohol distillery effluents",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Survey of gut colonisation with Stenotrophomonas maltophilia among neonates.",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Basic of Engineering Chemistry (For RGPV, Bhopal)",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Interpolation for ambulatory ECG measurements",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Task Scheduling in Cloud Computing Using Hybrid Meta-Heuristic: A Review",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Privacy preserving on searchable encrypted data in cloud",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "A study on factors affecting purchase decision based on 4 A's (ie awareness, affordability, adoptability and availability) in reference to FMCG companies in rural India.(A case …",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Impact of Foliar Spray of GA sub (3) and NAA on Flowering, Fruiting and Yield of Okra Abelmoschus esculentus(L.) Moench",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Biofuels and their impact on food prices and food security",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Development of instrumentation to capture unsteady & flutter phenomena in the fan rotors of Gas Turbine Engines",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Gene cloning and transgenic development in Indian mustard (Brassica juncea L. Czern) for improved tolerance to abiotic stresses",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Xenotime placers as resources of REE in Deo river, Kolebira, Simdega district, Jharkhand",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Rotation invariant magnetotelluric tensors: A case study from West Singhbhum (Bihar, India)",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Pigment concentration and activity of antioxidant enzymes in zinc tolerant and susceptible chickpea genotypes subjected to zinc stress.",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Heterosis for yield and yield attributes in 'WA' type rice hybrids (Oryza sativa L.) on multilocation performance.",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "The Exponential Distribution—Theory, Methods and Applications",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Size and shape of plots and blocks for field experiments with rice in Chhattisgarh plains.",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Pattern of Antimicrobial Agents used in Medicine Intensive Care Unit of a Teaching Hospital in Pokhara, Nepal",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Runoff estimation in steep slope forested Dzumah watershed of Upper Dhansiri, Nagaland using standard and modified Curve Number method",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Effect of Different Crop Establishment Methods and Weed Management Practices on Growth Indices and Yield of Rice (Oryza sativa L.)",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Comparative Study of Truth Inferences Algorithms In Crowdsourcing",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Effect of irrigation scheduling and hydrogel level on growth and yield of wheat (Triticum aestivum L.)",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Performance Evaluation of Classic McEliece Post Quantum Cryptography",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Plant growth regulators in aonla",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Quality seed production and seed cane economy for better resource use efficiency",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Insights into HIV-1 Reverse Transcriptase (RT) Inhibition and Drug Resistance from Thirty Years of Structural Studies. Viruses 2022, 14, 1027",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "An Ensemble-Based Method for Predicting Facebook Check-ins",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "The Development of Village level Geospatial Framework for\" Digital India\": Methodology Article-DOI: 10.23953 cloud. ijarsg. 486",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Multi-ratooning in sugarcane â€” Future prospects and strategies",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Studies on genetic variability, heritability and genetic advance for yield and quality traits in Tomato (Solanum lycopersicum L.)",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Prediction of area and production along with production function for area, production and productivity of linseed crop in undivided bastar region of Chhattisgarh",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Predictive model and production function for area, production and productivity of Niger crop in Bastar plateau agro-climatic zone of Chhattisgarh",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "‘IFRS’: A Snapshot Of The New Accounting Standard In India",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Passive Optical Networks Beneficial to Cloud Computing",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Anti-diabetic drug, metformin protects oligodendrocytes under CNS pathological conditions: implication for multiple sclerosis (P5205)",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Grass Biomethane: A sustainable alternative industry for grassland",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Energy use pattern in production agriculture of arid western Rajasthan",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Capacity spectrum for structures asymmetric in plan",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Weed management in rice (Oryza sativa)-lentil (Lens culinaris) sequence under dryland conditions of Varanasi.",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Characteristics of Drift Eliminators of an Evaporative Condenser",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Mössbauer hyperfine interactions in natural wolframites",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Molinate formulations for weed control in transplanted rice.",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Caste as a discrimination of modernity in rural society",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Natural convection in",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "COMPARATIVE STUDIES OF FLOWERING BEHAVIOUR AND SEX RATIO IN DIFFERENT HYBRIDS AND SELECTIONS OF MANGO (MANGIFERA INDICA L.) UNDER TARAI REGION OF UTTARAKHAND",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Pattern of nutrient dynamics through litterfall in Melia composita plantation with different 82espacements under agroforestry",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Machine learning-centric prediction and decision based resource management in cloud computing environments",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "EP. 14B. 06 A Retrospective Multicenter Study Evaluating Experience of Perioperative Treatment for Thymic Squamous Cell Carcinoma",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "P2. 14A. 14 A Real-World Multicenter Retrospective Study of Treatment Outcomes with Ipilimumab and Nivolumab in Mesothelioma",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "EP. 07C. 16 Real-World Outcomes of Patients with Resectable Early-Stage Non-Small Cell Lung Cancer Treated with Neoadjuvant Chemoimmunotherapy",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Optical modes enhance solar water splitting in one-dimensional plasmonic particle grating",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Morpho-physiological characterization of second generation colchiploids in sweet orange (Citrus sinensis (L.) Osbeck) cv. Mosambi",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "OP0109 SERUM PROTEOMIC PROFILING IN ANTI-NEUTROPHIL CYTOPLASMIC ANTIBODY ASSOCIATED VASCULITIS (AAV)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Development and validation of a structured questionnaire to assess the Knowledge, Attitude and Practice (KAP) regarding the effect of yoga on periodontal health among Indian …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Management of rice blast disease caused by Pyricularia oryzae through application of biocontrol agents and fungicides alone and in possible combinations",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Chitin, Chitosan, and their Derivatives from Seafood Waste and Processing Byproducts",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Green Nanomaterials for a Sustainable Future Environment",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Chitooligosaccharide and its conjugates with different polyphenols: Antihypertensive activity and blood pressure lowering effects in spontaneously hypertensive rats",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Multilabel classification using crowdsourcing under budget constraints",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Social Media Use and Its Association With Academic Performance Among School Students of Kirtipur Municipality, Kathmandu, Nepal",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Micronutrient Diversity in Foxtail Millet Genotypes under Foothills of Nagaland",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Damage of Melanagromyza obtusa (Malloch) and Management Potential of Newer Insecticides in Pigeon Pea",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "An overview of the anticancer activity of some mononuclear and polynuclear platinum (II) complexes",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Improvement of Surimi Gel Quality Using Protein Cross-Linker, Hydrocolloids and Protease Inhibitor",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "IMPACT OF MOTHER'S HYPOTHYROIDISM ON FETAL DEVELOPMENT AND OUTCOMES: A SYSTEMATIC REVIEW.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Reply: Portal vein thrombosis in cirrhosis: exploring the uncharted waters.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Assessment of Subsidence and Its Impact for Design of Non-effective Width of Excavation Below Forest Land",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Manash Chanda",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Knowledge, Attitude and Practice regarding the effect of yoga on periodontal health among Indian adults: A questionnaire study.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Influence of tempering conditions on the microstructure and mechanical properties of nodular cast iron",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "PHYSIOLOGICAL IMPACT OF HEAT STRESS ON WHEAT VARITIES AT DIFFERENT GROWTH STAGES.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of Crop Establishment Methods and Fertility Management on Growth, Yield and Economics of Rice (Oryza sativa L.)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Impact of Underlap/Overlap on Source Engineered Tunnel FET",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "OPEN ACCESS EDITED BY",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "16 Role of DRDO in Covid-19 Containment",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Priyanka Dwivedi1, Naleeni Ramawat2, Dhandapani Raju3, 4, Gaurav Dhawan1, S. Gopala Krishnan1*, Viswanathan Chinnusamy3, 4, Prolay Kumar Bhowmick1, KK Vinod1, Madan Pal4 …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A deep learning algorithm for noise reduction in a novel respiratory-triggered single-shot phase sensitive inversion recovery myocardial delayed enhancement cardiac MRI pulse …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "SelTCS: a framework for selecting trustworthy cloud services",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of nitrogen level on growth, yield attributes and yield of hybrid varieties of rice (Oryza sativa L.).",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Machine Learning-Based Prediction Model for Fetal Health Assessment",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "KPH and Dey S (2022) Circulatory Level of Inflammatory Cytoskeleton Signaling Regime Proteins in Cancer Invasion and Metastasis. Front",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Study on flow of institutional credit and its diversion by dairy farmers in Kerala",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Correction to: Differential expression of genes during recovery of Nicotiana tabacum from tomato leaf curl Gujarat virus infection",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of Moisture Regimes and Weed Management Practices on Growth Indices under Drum Seeded Rice (Oryza sativa L.)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Influence of detopping practices on green fodder availability, seed yield and economics of fodder maize (Zea mays L.) in central and southern plateau regions of India",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Soil Nutrient Dynamics under Silviculture, Silvipasture and Hortipasture as Alternate Land-Use Systems in Semi-Arid Environment. Forests 2023, 14, 125",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Correction: Morphology of ammonium perchlorate in the presence of ethylene glycol as an additive: a first principle study",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Epigenetic silencing of P16INK4a hasten disease stage in Carcinoma of Breast: A hospital-based study of North India",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "PRODUCTIVITY AND PROFITABILITY OF WHEAT (TRITICUM AESTIVUM L.) BASED CROPPING SYSTEM WITH INTEGRATED NUTRIENT MANAGEMENT IN CENTRAL PLATEAU OF UTTAR PRADESH",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Momordica charantia L.: A Medicinal Plant",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "HIV/AIDS-Related Stigma and Prevalent Attitude among Healthcare Trainees in Delhi",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Dielectric Engineered Cylindrical Junctionless FET for Low Power Applications",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Load Frequency Control for Power System of Interconnected Two Area System Using Salp Swarm Algorithm Technique Based 3 DOF-PID Controller for Optimization",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Sustainable Technologies for Value Added Product Recovery from Wastewater",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Dosimetric Comparison of Photon Beams Using CIRS Thorax Phantom to Evaluate Monaco Radiotherapy Treatment Planning System",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Investigation of bifurcations in cyclic combustion dynamics of a CNG-diesel RCCI engine",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "RARE LONG-TERM SEQUELAE OF USE OF CARDIAC SEPTAL OCCLUDER DEVICE FOR TRACHEO-OESOPHAGEAL FISTULA CLOSURE IN COVID TIMES",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A novel technique to widen the 1st web space by using'spare parts' of thumb polydactyly",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Review on Challenges, Opportunities and Genetic Improvement of Indigenous Breed of Cow and its Productivity",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "3.41 Management of Rice Blast Disease Caused by Pyricularia oryzae through Application of Biocontrol Agents and Fungicides Alone and in Possible Combination",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Modified Marx Generator Circuit with Enhanced Tradeoff between Voltage and Pulse Width for Electroporation Applications. Electronics 2022, 11, 2013",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Soil Nutrient Status and Morphometric Responses of Guava under Drip Irrigation and High-Tech Horticultural Techniques for Sustainable Farming. Hydrology 2022, 9, 151",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Splitting dose influence the nutrient acquisition of Saccharum officinarum L. under calcareous soil conditions",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Antibiotic resistance in Escherichia coli from clinical and drinking water sources of northern India.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Association of Human Leucocyte Antigen Polymorphism with Coronavirus Disease 19 in Renal Transplant Recipients. Vaccines 2022, 10, 1840",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Registration of CIM-Vrinda: A citral (Neral and Geranial) rich high essential oil yielding variety of Ocimum basilicum L.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Potential scaling strategies for Farmer FIRST Project",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Enhancing the Date Rate by the Management of Bandwidth and Power Using Interference Temperature Constraint in Cognitive Radio Networks",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Performance Evaluation of Classic McEliece Post Quantum Cryptography",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Rice Plant Disease Classification and Comparative Analysis of SVM Hyperparameters",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Impact Analysis of Adversarial Attacks on Convolutional Neural Networks for Healthcare: A Review",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Machine Learning based Prediction Model for Fetal Health Assessment",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of Drain Splitting on Silicon Nano-Tube Tunnel Field Effect Transistor",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Initial Beam Characteristics calculations of 6 MV FF Beam from Elekta Versa-H Dusing TOPAS MC simulation code",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Accessing the predictabilities in cyclic combustion and emission variations in SI engines for their modelling and control: a literature review",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "LB740 SARS-CoV-2-associated ‘covid toes:’multiplex immunofluorescent characterization of pathophysiology",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Triple “L”(Leukocytosis, Lactate, and LDH): Predictors of Mesenteric Ischemia",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "WITHDRAWN: Evaluation of magnetic and intrinsic magnetodielectric coupling in Ni substituted Ba2Mg2Fe12O22 hexaferrite",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Automated brain hemorrhage segmentation using a deep neural network",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Role of Ayurveda on PCOS (Polycystic Ovary Syndrome): A Critical Review",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of flaxseed supplementation on metabolic profile and reproductive performance of prepubertal gilts",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "POS-723 TELEMEDICINE FOR KIDNEY TRANSPLANT PATIENTS IN COVID19 PANDEMIC: BREAKING THE ACCESS BARRIER",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Number of Passes and Lymph Node Size Predict Adequate Yield of Tissue in Absence of on-Site Evaluation During EUS Guided Sampling",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Root Trait Variation in Lentil (Lens culinaris Medikus) Germplasm under Drought Stress. Plants 2021, 10, 2410",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Occurrence of rice blast disease caused by Pyricularia oryzae under mid-hills and sub-tropics conditions of Jammu",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of FYM and gypsum on growth and yield attributing traits on radish (Raphanus sativus) using RSC water",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Current Horticulture: Improvement, Production, Plant Health Management and Value-Addition",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "An Effective Use of Methylene Blue Dye for Guiding Resection of Nasal Dermoid Sinus Cyst",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Multi-optimization of µ-EDMed Arrayed Microrods Using Gray Relational Analysis",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of foliar spray of plant growth regulators on growth and yield of sesame (Sesamum indicum L.).",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Forecast of Flow Characteristics in Time-Dependent Artery Having Mild Stenosis",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "P383 Biologics in IBD: are we adhering to guidelines?",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Estimation of pesticide residues in table grapes by using gas and liquid chromatography coupled with mass spectrometry.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Neuroprotective and neuromodulatory properties of Olea purpurea leaf extract in MPTP intoxicated Parkinsonian rat model",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Identification of promising drug candidates against Non-Structural Protein 15 (NSP15) from SARS-CoV-2: an in silico assisted drug-repurposing studies",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Identification of Rice Genotypes for Submergence and Yield Attributing Traits",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Breeding and Biotechnology of Flowers: Set of 2 Vols.(Set Price)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of glycine betaine on germination percentage (%) and seed vigour index of rice (Oryza sativa l.) under saline condition",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Evaluation of clusterbean (Cyamopsis tetragonoloba) intercrop in agri-silviculture system in south-western Punjab",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect Of Previous System Of Study And Marital Status On Attitude Of Student Teachers Towards Continuous Internal Assessment",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Fast-acting small molecules targeting malarial aspartyl proteases, plasmepsins, inhibit malaria infection at multiple life stages.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Haplotype analysis of key genes governing grain yield and quality traits across 3K RG panel reveals scope for the development of tailor-made rice with enhanced genetic gains.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of exogenous melatonin on physiological characters and oestrus in Black Bengal goats.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Kinetics of β-carotene degradation under different storage conditions in transgenic Golden Rice® lines.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Replacement or displacement? Periurbanisation and changing water access in the Kumaon Himalaya, India.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Make in India: an allure for multinational Companies (MNCs) in India",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Predictive model and productions function for area, production and productivity of rapeseed and mustard crop in Bastar plateau agro climatic zone of Chhattisgarh",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Chandranandana and madanadi nighantu: introduction and importance",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "In Vivo Toxicity Study of Ethanolic Extracts of Evolvulus alsinoides & Centella asiatica in Swiss Albino Mice. Open Access Maced J Med Sci. 2019 Apr 15; 7 (7): 1071-1076",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A study on strontium accumulation and its effect on nitrogen metabolism in cyanobacteria",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Integrated management of bacterial leaf blight (Xanthomonas oryzae pv. oryzae in rice under sub-tropics of Jammu.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "The effect of foliar feeding of plant growth regulators on growth fruiting behaviour and quality improvement of phalsa (Grewia subinaequalis DC)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Studies on crop growing environment of mustard (Brassica juncea L.) varieties of eastern plain zone",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Interactive effect of salinity and high temperature stress during germination stage of different wheat (Triticum astivum L.) genotypes",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Draft genome sequence of halotolerant bacterium Chromohalobacter salexigens ANJ207, isolated from salt crystal deposits in pipelines. Microbiol Resour Announc 8: e00049-19",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Interplay of advective and diffusive processes on landscape organization and evolution",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of Ground Plane and Strained Silicon on Nanoscale FET Devices",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Ayurveda Kayachikitsa towards the management of joint pain: a review",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of Post Harvest Treatments and Wrapping Materials 0f Mango Cv. Dashehari During Ambient Condition",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Morphological comparison of two etching techniques for multicrystalline silicon wafers",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Impact of Advertising on Buying Decision of Consumers towards FMCG products in the Rural Market",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Tolerance of brinjal to saline irrigation under drip and flood irrigation systems",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "VTE prophylaxis in ambulatory patients with lower limb immobilization: A retrospective audit: 0986",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of mass density on surface morphology of electrodeposited manganese oxide films",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "P027 Vitamin A modulates mucosal inflammation by augmenting Th1/Th17 differentiation in inflammatory bowel disease",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Assessment of Ground Water Resources for Irrigation in Aurngabad District of South Bihar, India",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Role of Glycine Betaine and Potassium Nitrate in Drought Tolerance using Proline Accumulation in Rice (Oryza sativa L.)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Phenological growth and development of Rabi maize (Zea mays L.) under various moisture regimes",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Optimization of seeding rates and nitrogen scheduling in direct-seeded rice (Oryza sativa) under drought-prone environment in middle Indo-Gangetic plains",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Contract Farming in India prospects and limitations",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Forecast of production parameters of wheat in Chhattisgarh Plains agro-climatic zone using R-based-arima.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Horticulture: potential to food and nutritional security",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of lime and FYM on growth, yield and quality of soybean (Glycine max L. Merrill).",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Factors affecting the extent of knowledge about mango post-harvest management practices",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Factors affecting the extent of adoption about mango post-harvest management practices",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Submergence tolerance in rice genotypes with reference to Peroxidase activity",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "MOLEST ICAR",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "The analysis of climatic variability/weather trends (past and future) in eastern UP",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of energy requirement on growth and yield at Rabi maize (Zea mays L.) on various moisture regimes",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of chemical coating and other treatments on physico-chemical changes during storage of Litchi fruits (Litchi chinensis Sonn.) cv. Deshi",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Isozyme analysis based genetic diversity studies in maize inbreds (Zea mays L.)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Ayurveda Kayachikitsa towards the management of joint pain: a review.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Studies on growth analysis of turmeric (Curcuma longa L.) genotypes at various different stages.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Study of line x tester analysis, combining ability and per se performance in rice (Oryza sativa L.)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Evaluation of metal contamination and risk assessment to human health in a coal mine region of India: a case study of the North Karanpura coalfield.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Survey on Alternative Schools in Kumaon Division of Uttarakhand",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Performance of mango (Mangifera indica) based agri-horticultural systems under rainfed plateau conditions of eastern India.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Luminescence of Eu3+ in GaN (Mg, Eu)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Design, synthesis and evaluation of hybrid of quinazoline–triazine derivatives as FAK inhibitor with antitumor activity",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A fine muddle:(Re) configuring water conflicts?",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Poster",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Poster",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "The effect of foliar feeding of plant growth regulators on growth fruiting behaviour and quality improvement of phalsa (Grewia subinaequalis DC)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "1, 3, 5 s-triazine containing analogues a prime Src family inhibitor: Design synthesis docking, anticarcinoma and angiogenic inhibition efficacy on cancer grafted CAM",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Flowing against the current: the socio-technical mediation of water (in) security in periurban Gurgaon, India.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Enhanced magnetodielectricity in Gd3+ substituted Bi2Fe4O9 ceramics",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effects of foliar application of FeSO4 and ZnSO4 on leaf tissue nutrients of gerbera (Gerbera jamesonii) varieties under protected condition.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Estimation of water consumption and crop water productivity of wheat crop in farmer's field of north Bihar.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Development and evaluation of iso-cytoplasmic rice restorer lines for different agro-morphological traits.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Utility and economical value of treated paddy straw fed to the lactating buffaloes.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effects of foliar application of FeSO4 and ZnSO4 on leaf tissue nutrients of gerbera (Gerbera jamesonii) varieties under protected condition",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "College of Agriculture, Junagadh Agricultural University, Junagadh, Gujarat 362 001 Received: 18 August 2015; Accepted: 31 July 2016",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Improvement of nutritive values, quality and shelf life of oyster mushroom via development of different value added products.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Isolation and identification of effective Rhizobium germplasm for increasing productivity of Kulthi (Dolichos biflorus L.) under climatic conditions of Chhattisgarh",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "To study the clopidogrel pharmacogenetics in north Indian population with acute myocardial infarction",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Determine Physiological Traits Associated with Flowering Stage Drought Tolerance in Lowland Rice (Oryza sativa L.) Genotypes",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Fluconazole Resistance in Candida Parapsilosis in India and Analysis of Sterol Biosynthesis Gene (ERG11)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Comparison between single and double volumetric arc therapy technique in the treatment of cervix and BOT cancer",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Influence of Ferrite Fraction on Tensile Properties and Fatigue Crack Growth Behaviour of Nodular Cast Iron",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "6P Quinazoline clubbed s-triazine derivatives as VEGFR2 kinase inhibitor: Design, synthesis, docking, antiproliferative and antiangiogenic activity on cancer-induced chick embryo",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Excitons at interfaces in thin oxide films",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "HISTOPATHOLOGICAL EFFECTS IN GILLS OF FRESHW AL EFFECTS IN GILLS OF FRESHW AL EFFECTS IN GILLS OF FRESHWATER MUSSELS, LAMELLIDENS MARGINALIS LAMELLIDENS MARGINALIS LAMELLIDENS …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Structural, dielectric and magnetic studies of magnetoelectric trirutile Fe {sub 2} TeO {sub 6}",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Enhanced dielectric, impedance and magnetic characteristics of Co doped multiferroic Bi {sub 2} Fe {sub 4} O {sub 9}",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Fabrication of multilayer nanowires",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of foliar application of Fe and Zn on growth, flowering and yield of gerbera (Gerbera jamesonii) under protected condition.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Interactive comment on “Linear and Non-linear Stability Analysis of the Rate and State Friction Model with Three State Variables” by N. Sinha and",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Attention in Complex Environment of Brain Computer Interface",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of a cognitive involving videogame on MI task",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Role of precipitate in strain induced martensitic transformation during cold deformation of SS 321",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Association of Characters and Selection Parameters for Quality Traits in Maize (Zea mays L.) as Influenced by Late Sown and Drought Conditions",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Comparative analysis of microsatellites in chloroplast genomes of lower and higher plants.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Synergistic interaction of arbuscular mycorrhizal fungi and mycorrhiza helper bacteria improving antioxidant activities in Troyer citrange and Cleopatra mandarin under low …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Genotype by environment interaction for identifying improved rainfed lowland rice genotypes over locations.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Utilizing AHP: Resource Allocation Problem in Cloud",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Study of genotype× environment interactions and genotypic adaptation for physiological, biochemical and agro-morphological characters under drought condition in upland rice …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Impact of drying methods on content and quality of essential oil from leaves of Artemisia nilagirica (Clarke) Pamp.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "PTU-197 To bowel prep or not to bowel prep?: a 5 year retrospective study",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Delineate Catchment Areas of Vindhyachal Region Using Geospatial Techniques",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Formulation and evaluation of antiemetic nasal spray of limonene.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "The morphological study of human deltoid ligament of Ankle joint in situ",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Development of Blast Resistant Lines using marker assisted selection",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Major ion chemistry of the Son River, India: weathering processes, dissolved fluxes and water quality assessment.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Cloud Load Balancing Based on ACO Algorithm",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Enzymatic deinking of photocopier waste papers using crude cellulase and xylanase of Coprinopsis cinerea PPHRI-4 NFCCI-3027.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Toxic effect of Euphorbia hirta plant to fingerlings of Labeo rohita (Hamilton) in different culturing conditions.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of different osmotic pretreatments on sensory quality of osmotically dehydrated guava slices.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Integration of conservation agriculture with best management practices for improving system performance of the rice-wheat rotation in the Eastern Indo-Gangetic Plains of India.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Impact of tillage, water and nutrient management practices on soil organic carbon pools in a seven-year rice-wheat rotation.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "DRIP IR RI GA TION SCHED UL ING IN OKRA [Abelmoschus esculentus (L.) Moench]",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Labda-8(17),12,14-trien-19-oic acid contained in fruits of Cupressus sempervirens suppresses benign prostatic hyperplasia in rat and in vitro human models …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "SAHA DRUG AS A TREATMENT FOR METABOLIC DYSFUNCTION IN X-LINKED ADRENOLEUKODYSTROPHY",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Prediction of textural attributes using color values of banana (Musa sapientum) during ripening.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "THE EMERGING ROLE OF AMP-ACTIVATED PROTEIN KINASE IN TBI AND ITS PHARMACOLOGICAL REGULATION BY S-NITROSOGLUTATHIONE",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of different pruning severity on growth and yield of ber (Zizyphus mauritiana Lamk), cv. Banarsi Karaka.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Production of crude cellulase and xylanase from Trichoderma harzianum PPDDN10 NFCCI-2925 and its application in photocopier waste paper recycling.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "S-Nitrosylation Ameliorates Neuroinflammatory Traumatic Brain Injury by Reducing Peroxynitrite Levels in a Rat Model of Controlled Cortical Impact",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of Organoclay on Compatibilization, Thermal and Mechanical Properties of Polycarbonate/Polystyrene Blends",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "STAT3 regulation by S‐nitrosylation: implication for inflammatory disease (555.8)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Oxidative Stress and Homocysteine in Non-Vitamin-Supplemented Vegetarian Pregnant and Pre-Eclamptic Women-A Pilot Study",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Genetic Architecture, Interrelationship and Path Coefficient Analysis in Chickpea Cultivars (Cicer arietinum L.)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Role of mass media in acceptance of gram production technology",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Quantitative PCR in Epidemiology for Early Detection of Visceral Leishmaniasis Cases",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Role of pentagon spin frustration in magnetoelectric Bi2Fe4-xCoxO9 (0≤ x≤ 0.8)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Tree Directory of Punjab. Punjab Agricultural University, Ludhiana and Punjab State Council for Science & Technolgy, Chandigarh, pp: 184 ISBN No",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Frequency upconversion in Er {sup 3+} doped Y {sub 2} O {sub 3} nanophosphor: Yb {sup 3+} sensitization and tailoring effect of Li {sup+} ion",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Impact of two training packages for caregivers on quality of care of neurosurgery patients—/INS; A randomized controlled trial",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Analysis of correlation and path coefficients among yield and biochemical traits under irrigated and reproductive stage drought stress in Oryza sativa L.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Interannual litter study in teak plantation site of Raigarh Forest, Chhattisgarh, India.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Rho family GTPase inhibition protects immature oligodendrocytes against cytokine toxicity via PPAR-alfa dependent mechanism",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "S-Nitrosoglutathione stimulates mediators of neurorepair following cerebral ischemia reperfusion injury in rats",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Application of salt bath for beta heat treatment of uranium rods for Dhruva fuel fabrication",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "An insight into the geotextile-municipal solid waste interface characteristics",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Loss of diversity of some medicinal plants in Achanakmar Sanctuary, Chhattisgarh, India.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A study of neurocysticercosis public health problem in the pediatrics ward of tertiary care centre in Kumaun region, India.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Dayside Pc5 ULF Activities at High Latitudes (L≈ 14 RE): Their Relation With Interplanetary Conditions and Substorms",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Response of nightside magnetospheric magnetic field to solar wind pressure pulses",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Adaptations of culturally and nutritionally important traditional foods in Eastern Himalaya: a case study with Adi women of Arunachal Pradesh.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Development and fabrication of seamless Aluminium finned clad tubes for metallic uranium fuel rods for research reactor",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Comparative efficacy of'indigenous vaccine'against'caprine Johne's disease'Vis a Vis'a commercial vaccine'in a challenge model.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Endogenous S-Nitrosothiol Induced hypertrophic Astrogliosis has potential to maintain CNS homeostasis under pathological Conditions (72.8)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Eco-friendly management of Scirpophaga incertulas.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Plant parasitic nematodes of soybean-a record from Nagaland.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Analysis of molecular diversity and fingerprinting of commercially grown Indian rice hybrids.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Insights into the lifecycle of earthworms",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Study on delay period of Non Electric Firing and Long Delay Detonators (Case Study)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Radio is the best for tharu farmers in Uttar Pradesh",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "4 Efficacy of bio-fertilizers on growth, flowering, fruiting, yield and physico-chemical characteristics of Guava (Psidumguajava L.)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Larval biology and seed production of Ganga River prawn Macrobrachium gangeticum (Bate)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Fabrication and properties of europium and ytterbium Eu 3+/Yb3+ doped polymethylmethacrylate film",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Optimization of chemical and enzymatic deinking of photocopier waste paper.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Lovastatin exhibits synergy with Vitamin D hormone to confer protection from experimental autoimmune encephalomylitis (148.5)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Interleukin-17 exacerbates tumor necrosis Factor-α induced apoptotic cell death of oligodendrocytes (148.8)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Appeal Civil 920 of 1994",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Impact of Training Programs on Knowledge and Attitude of Trainees in Ranchi District",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Status of Makhana (Euryale ferox Salisb.)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of different herbicides on weeds and lac yield in bhalia plantation",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Deviation on seed germination, growth and biomass performance of Jatropha curcas L. as predisposed by plantation period and water intensity.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Combining ability and heterosis for seed yield, yield components and oil content in yellow Sarson (Brassica campestris var. yellow sarson).",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Triple test-cross analysis for seed yield and its component characters in yellow sarson (Brassica campestris var. yellow sarson).",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Role of ULF Wave Index in Magnetospheric Dynamics and Space Weather Predictions",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect ofdry spell on growth, development and yield ofrice (Oryza sativa)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Shape Transition From Prolate to Oblate In Exotic Cs And La Isotopes Near Proton drip Line J. Ray1, U. Datta Pramanik1, S. Ganguly2, RK Bhowmik3, S. Chakraborty1, A …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Bioefficacy of plant extracts, neem-based biopesticides and insect growth regulators for management of onion thrips.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "EVALUATION OF BOD AND COD IN INFLUENT AND EFFLUENT WATER WITH REFERENCE TO BADWAI STP, BHOPAL, M. P.(INDIA)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Environmental repercussions of cane-sugar industries on the Chhoti Gandak river basin, Ganga Plain, India.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Study of Effect of Progesterone on Epididymis in Albino Rats",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of INM on yield, quality and uptake of N, P and K by ginger.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Drifting ELF/VLF Emissions Observed at Low Latitude Ground Station During Geomagnetic Storm",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Adopting plasma pyrolysis for management of low-level solid radioactive waste in India",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Engineering and manufacture of oblong-shaped metallic melters for enhancing vitrification throughputs",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "1. University Education: A need to reflect MS Kurhade 01 1. Educational marketing: A survival strategy of the universities in the Regime of ‘GATS’",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Water quality of the Chhoti Gandak River using principal component analysis, Ganga Plain, India.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Anticonvulsant activity of ethanolic extract of Solanum melongena Linn. roots.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Mathematical modelling of convection and macrosegregation during casting of metallic alloys",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of heat treatment on the refractive index of polymethylmethacrylate films",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Physiological marker traits associated with submergence tolerance of lowland rice (Oryza Sativa)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Influence of geomagnetic substorm on cosmic noise absorption and atmospheric electricity at a sub-auroral location",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Spatial and temporal structures in Pi3 pulsations using singular spectrum analysis. A case study",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Track 1-fuel fabrication: design, manufacture and automation stress field of blister forming in a metallic fuel and its interaction with clad",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Fishery of freshwater prawn in middle stretch of river Ganga near Varanasi.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Techno–Economic Viability of the Hybrid Solar (PV)-AC Utility Interfaced Power System for Rural India",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of invigoration treatment to the deteriorating mustard seed due to Aspergillus flavus on the growth and biochemical constituents of the seedlings.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Occurrence of preharvest seedborne fungi of crops and their cellulolytic and pectolytic enzyme activity.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Stress field of blister forming in a metallic fuel and its interaction with clad",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Multiple disease and cereal cyst nematode resistance in barley",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Microstructural studies of low temperature superconductor wire at different stages of fabrication",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Assessment of potential of short duration pulses for diversification of rice-wheat system in central plain zone of Uttar Pradesh",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Growth of fishes in ponds supplemented with pig manure in integrated farming system.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of integrated weed management on yield and economics of soybean.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Diagnosis and amelioration of iron deficiency under aerobic rice.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "15-deoxy-delta 12, 14-prostaglandin J2 attenuates endothelial-monocyte interaction: Implication for inflammatory diseases",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Post-trauma treatment with Miglustat is neuroprotective in a rat model of contusion spinal cord injury",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Serum total cholesterol and LDL cholesterol levels in a select Asian Indian urban population with and without metabolic syndrome by ATP III criteria",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Body Mass Index [BMI] values in a select Asian Indian Urban population with and without metabolic syndrome by ATP III criteria",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Feed and fodder management in Arid zone-status & strategies.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Modulation of peroxisome proliferator-activated receptor-A activity by N-acetyl cysteine attenuates lipopolysaccharide induced INH",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Role of AMP-activated protein kinase in psychosine medicated cell death in oligodendrocytes and inflammation in astrocytes",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Feed and Fodder Management in Arid Zone-Status & Strategies",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Simultaneous observation of various types of ELF/VLF emissions during daytime at a low latitude Indian ground station",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Observation of magnetospheric ELF hiss during total Solar Eclipse of 11 August 1999: A case study",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Application of Geoinformatics in Quantifying Water Supply Status and its Futuristic Demand in and around Ranchi City",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Basic Science Investigation-Attenuation of Lipopolysaccharide-Induced Inflammatory Response and Phospholipids Metabolism at the Feto-Maternal Interface by N-Acetyl Cysteine",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Neuroprotection in a rat model of experimental stroke by hydralazine via neutralization of lipid aldehydes",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "AMP-activated protein kinase and inflammation",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "用基因克隆和转基因策略来提高印度芥对非生物胁迫的抗性 (英文)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Adoption of scientific boro rice cultivation in Saharsa district of Bihar.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Peroxisomal Proliferation Prevents Loss of Oligodendrocyte Progenitors and Hypomyelination in Periventricular Leukomalacia‐like Brain",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Correlation Studies for Selection of High Yielding Mungbean Vigna radiata (L.) Wilczek Mutant Families",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Isolation and identification of etiological agent of pulmonary tuberculosis in patients visiting National Tuberculosis Center, Thimi, Bhaktapur",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Role of lactosylceramide in regulation of inflammatory response and astrogliosis: Implications for neuroinflammatory diseases",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Computational models for residual creep life prediction of power plant components",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Role of Geomagnetic Disturbances on VLF Whistler Wave Activity at Low Latitudes (P32)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Evaluation of radiolabelled INH as specific mycobacterial lesion imaging in humans",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "High seropositivity of HCV infection in HIV-positive blood donors: Is HCV a predictor of HIV infection?",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Absorbed photosynthetically active radiation under different moisture regimes in aonla and aonla+ guava cropping system",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Renal protection in CKD is enhanced by structured renal care: Results from CRIOS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Cardiovascular protection in CKD is enhanced by structured renal care: Results from CRIOS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Combination therapy with lovastatin and 5-aminoimidazole-4-carboxamide-1-beta-D-ribofuranoside: Approach for neuroprotection and inhibition of neurodegeneration in multiple …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "5-Aminoimidazole-4-carboxamide ribonucleoside attenuates EAE via modulation of endothelial-monocyte interaction",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Crack Initiation and Propagation Monitoring Using Acoustic Emission Technique (AET) During Ratcheting Tests on Elbow Pipes of PHWRs",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Fly Ash: A Gold Mine of Value Added Products",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Measurements of Particulates (PM10 and PM 2.5) Concentration over Darjeeling (27.01 N, 88.25 E, 7204 Feet), India-a site in Eastern Himalayas",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Anomalous Propagation of VLF Waves at Low Latitudes",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Mechanisation and modification in extrusion process of uranium rods",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Evaluation of Different Crop Sequences under Irrigated Conditions of Central Punjab",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Translational Investigations-Combination of Systemic Hypothermia and N-acetyl-cysteine Attenuates Hypoxic-Ischemic Brain Injury in Neonatal Rats",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "AICAR (5-aminoimidazole-4-carboxamide-1-beta-4-ribofuranoside) inhibits cancer cell proliferation in vitro and in vivo via AMP-activated protein kinase (AMPIK).",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "HMG-CoA reductase inhibitor augments survival and differentiation of oligodendrocyte progenitors in animal model of multiple sclerosis (vol 19, 1407, 2005)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "MICRO HARDNESS BEHAVIOR OF Ti-Al-Mo ALLOYS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Lovastatin augments the survival and differentiation of oligodendrocyte progenitors in animal model of multiple sclerosis",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Comparative study of {sup 99m} Tc-EMB and native EMB and role of {sup 99m} Tc-EMB in resistant mycobacterial imaging",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "FACTORS AFFECTING TRANSPLANT OUTCOMES IN PATIENTS WITH END STAGE RENAL DISEASE CAUSED BY LUPUS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A novel role of lactosylceramide in the regulation of TNF alpha-mediated proliferation of rat primary astrocytes",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Plant Introduction in India during Pre-and Post-CBD Periods-An Analysis",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Indigenous development and fabrication of multifilamentary Nb-Ti superconductor",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Cloning of genes and developing transgenic crops with enhanced tolerance to salinity and drought",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Remodelling of general state vector linear model for sustainable ecodevelopment applicable to a sample valley village of Himalayan region",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Microstructural characterization of multifilamentary Nb-Ti superconducting wire",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Comparative study of 99mTc-EMB and native EMB and role of 99mTc-EMB in resistant mycobacterial imaging",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Development and evaluation of 99mtecnetium-ethionamide for mycobacterial infection imaging",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Single vial preparation of 99mtc ciprofloxacin for the detection of extrapulmonary tuberculosis",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of Phosphorus Fertilization on the Productivity of Berseem (Trifolium Alexandrinum L.) Cultivars under the Punjab Conditions",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Stage- and sex-dependent changes in the lipid profile of Dysdercus koenigii (Heteroptera: Pyrrhocoridae) during development.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "15d PGJ2 inhibits inflammatory response in primary astrocytes via down regulating multiple steps in PI3K-Akt-NF-kappa B-P300 pathway",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Peroxisomal participation in psychosine-mediated lipotoxicity: implications for Krabbe disease",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Inhibition of PI3K-Akt-NF-kappa B pathway by lovastatin limits endothelial-monocyte cell interaction",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Lovastatin induces bone marrow-derived dendritic cell maturation and production of pro-inflammatory cytokines",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Dual role of cAMP in iNOS expression in glial cells and macrophages: differential regulation of P38 activation and iNOS stability",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Administration of N-acetylcysteine after focal cerebral ischemia protects brain in a rat model of experimental stroke",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Inhibition of 5-lipoxygenase protects brain from injury in a rat model of transient focal cerebral ischemia",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "N-acetyl-L-cysteine protects against the inflammatory disease process in experimental autoimmune encephalomyelitis",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Regulation of immune response genes associated with acute experimental autoimmune encephalomyelitis by lovastatin",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "NAC prevents endotoxin induced loss of OPC in fetus and hypomyelination in postnatal rat brain",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Adenosine kinase inhibitor attenuates the expression of iNOS in glial cells",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Relative superiority of the interaction potential models for lattice energy calculation of alkali metal halide crystals",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Peroxisome participation in psychosine-mediated lipotoxicity: Implication for Krabbe disease",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Sulfur amino acid and glutathione metabolism in renal patients",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Rho A negatively regulates cytokine-mediated inducible-Nitric Oxide Synthase expression in brain derived transformed cell lines: Negative regulation of IKK alpha",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Renovascular hypertension—experience of surgical and percutaneous vascular intervention in our institution",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Fungi associated with mammals and birds of Sanjay Gandhi Jaivic Udyan, Patna (Bihar).",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of shading on the Phyllosticta leaf spot, sun burn of leaves and yield of ginger",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of Herbage harvesting on sucker production in Mentha arvensis L",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Influence of Time of Sowing and Last Cut for Green Fodder on the Yield and Quality Of Persian Clover (Trifolium resupinatum L.) under Punjab Conditions",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Galactosylsphingosine (psychosine) inhibits lipid metabolism of peroxisomes in glial cells",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Correlation of very long chain fatty acids accumulation and inflammatory disease progression in childhood X-ALD",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of vetiver vegetative barrier in association with bund on runoff, soil loss and yield of soybean and pigeonpea intercropping.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Vitamin E downregulates the C/EBP induced, oxidative stress in glial cells; implications to Alzheimer's pathology",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Molecular mechanism of Psychosine induced oligodendrocyte cell death",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "S-nitrosoglutathione modulates cerebroprotection and activities of sphingomyelinases and phospholipases in a rat model of experimental stroke",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Protection by N-acetyl cysteine against brain injury in a rat model of stroke",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "TRANSIENT NATURAL CONVECTION FLOW OF WATER NEAR ITS DENSITY MAXIMUM BETWEEN TWO VERTICAL WALLS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Colonization and establishment of Azospirillum in dry seeded rice under different soil moisture levels.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Influence of",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Department of Mathematics Principal Investigator IERP Project GS NEGI",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "11. Sikh Culture & Traditions",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Analysis/Composition-Variations in Essential Oil Constituents at Different Growth Stages of Ruta chalepensis on Cultivation at North Indian Plains",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Überlagerte Konvektionsströmung in einem durch zwei vertikale Wände begrenztem porösen Medium",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Inhibition of peroxisomal functions and production of excessive oxidative stress by psychosine in rat C6 glial cells",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "The role of inflammatory mediators in the pathophysiology of X‐ALD disease",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "The role of neutral sphingomyelinase produced ceramide in lipopolysaccharide-mediated expression of inducible nitric oxide synthase",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Non-enhancing cerebral glial neoplasms: Perfusion sensitive magnetic resonance imaging and correlation with MR spectroscopic imaging",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Oxovanadium (IV) complexes of bioinorganic relevance: Synthesis and characterization of some oxovanadium (IV) complexes involving schiff bases derived from biologically active …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Role of space weather on VLF/ELF studies at low latitudes",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Study of magnetospheric substorm by means of magnetic pulsation, Pi-2",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "HEATING ELEMENTS FOR HIGHER PRODUCTIVITY",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Productive performance of Soviet Chinchilla and Grey Giant under hot humid climate.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Hydrology of Ice-Covered Rivers and Lakes-Aspects of Weathering and Solute Acquisition Processes Controlling Chemistry of Sub-Alpine Proglacial Streams of Garhwal Himalaya, India",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Pharmacology-Regular Articles-N-Terminal Acylation of Somatostatin Analog with Long Chain Fatty Acids Enhances Its Stability and Anti-Proliferative Activity in Human Breast …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "RESEARCH COMMUNICATIONS-Galactosylsphingosine (psychosine)-induced expression of cytokine-mediated inducible nitric oxide synthases via AP-1 and C/EBP: Implications for Krabbe …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Development of chloroplast in dark-grown wheat seedlings irradiated at elevated temperature",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of cold rolling on the transition texture of commercially pure titanium",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Amelioration of experimental allergic encephalomyelitis in Lewis rats by Lovastatin: a novel role for statins.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "15. Sikh Education & Research",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Augmentation of Plant Genetic Resources through Assembly of Indian Released Varieties and Registered Germplasm",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Germplasm Monitoring at National Gene Bank",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Importance of Passport Data in Plant Genetic Resources Management",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Facility for characterizing superconducting cables up to 1.5 kA current under magnetic field up to 7.4 T",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Wastewater treatment: With bagasse fly ash and activated carbon",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of root promoting chemicals on rooting and survival of Euphorbia pulcherrima Willd cv. Eckes Point stem cuttings.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Biodiversity, systematics, morphology, and evolution-Flagellar microstructures of male tiger beetles (Coleoptera: Cicindelidae): Implications for systematics and functional …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Discrimination and mapping of phase distributions by automated crystal orientation",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "26. Sikh Diaspora",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Transient Natural Convection in a Vertical Channel",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "OpERATioNAl Aspects Of SoIar PV Puiwp BasecI DRip SysTEM For Oik. IiarcIs",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Angiotensin I converting enzyme and gelatinase activity in ocular tissues of diabetic rats",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "NATURAL CONVECTION BETWEEN TWO VERTICAL WALLS FILLED WITH A POROUS MATERIAL",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Guru Gobind Singh's Theory Of Karma",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Introduction of clary sage (Salvia sclarea) in Uttar Pradesh for quality essential oil through selection for earliness.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Quality evaluation of sandalwood (Santalam album) oil grown in northern parts of India",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Evaluation of {sup 99m} Tc-hydroxy-ethyl starch (HES) for inflammation scintigraphy",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Kinetic Parameters from TG Analysis of Bis-{2-(o-hydroxyphenyl) Benzoxazolato} Nickel (II) Complex",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Increased endothelin-1 production during cold ischemia in steatotic and nonfunctional human liver allografts may indicate enhanced susceptibility to ischemia-reperfusion injury",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Islet-cell antibodies in different clinical types of diabetes in young subjects from North India",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Freie Konvektion zwischen mit porosem Material gefullten vertikalen, koaxialen Zylindern",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Kharagpur 721 302",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Developmental profile of proteins of salivary glands and haemolymph of Dysdercus koenigii.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Transformations in {alpha}{sub 2}+{gamma} titanium aluminide alloys containing molybdenum. Part 2: Heat treatment",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Cytochrome P-450 2E1 in rat liver peroxisomes: Down regulation by ischemia-reperfusion",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Natürliche Konvektion in vertikalen, konzentrischen Ringspalten unter Einwirkung eines radialen Magnetfeldes",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A method for finding unbiased fuuction of complete sufficient statistic for reliability in some irregular families of distributions",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Transient free convective flow in a vertical channel with constant temperature and constant heat flux on walls/Nichtstationaere freie Konvektionsstroemung in einem …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Giant aneurysm of basilar artery presenting as extrapyramidal syndrome",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of elevated temperature on the accumulation of thylakoid proteins and plastid gene expression during light induced chloroplast development",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Solution to Ecological Problems in Kumaun Himalaya",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Ethics and Religion",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Modulation of antioxidant enzyme system in kidney by ischemia-reperfusion injury",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Impaired oxidation of nervonic acid in Zellweger syndrome and x-linked adrenoleukodystrophy",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Low dose zidovudine (ZDV) reduces medium and long chain fatty acid oxidation in pregnant and neonatal rats",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "On Characterization of Multiparameter Exponential Family and of some Irregular Families of Distributions",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "ON CHARACTERIZATION OF MULTIPARAMETER EXPONENTIAL FAMILY AND OF SOME IRREGULAR FAMILIES OF DISTRIBUTIONS PN JANI",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of Double-Diffusive Convection on Macrosegregation During Solidification of Iron-Carbon Alloy",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Study on the survivability and growth of common carp (Cyprinus carpio) hatchlings reared in pig manured pond.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "India's Tax Authorities Target Expatriates",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "INTRODUCTION OF SCENTED ROSE, ROSA DAMASCENA MILL, IN UP HILLS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Genetic analysis for days to marketable maturity in radish (Raphanus sativus L.).",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Genetics of quantitative traits in carrot (Daucus carota L.).",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Genetics of root yield and leaf traits in radish (Raphanus sativus L.)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Detection of additive, dominance and epistatic variation in quality traits of carrot (Daucus carota L.)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Altered expression of antioxidant enzymes and level of lipid peroxide in rat kidney exposed to ischemia-reperfusion injury",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "ABNORMALITY IN TRANSLATIONAL REGULATION OF CATALASE IN DISORDERS OF PEROXISOMAL BIOGENESIS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "BIOGENESIS OF CATALASE IN CONTROL AND ZELLWEGER-SYNDROME",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "ELSEVIER Reactive Polymers 24 (1995) 279",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Influence of chromium on growth, yield and accumulation of K, Fe and Mn in radish (Raphanus sativus).",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Genetic studies in quantitative characters in carrot",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Genetic variation in quality traits of carrot",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Cesternosides A and B, novel glucosides from the leaves of Cestrum nocturnum.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "6. Sikh History",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Pant lentil 4: a high-yielding, rust-, wilt-and blight-resistant variety for the north-western plains of India [Lens culinaris]",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Development and environmental crisis in Kumaon Hills.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "EPRI Root Cause Advisory Workstation\" ERCAWS\"",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Rotation effect on unsteady MHD free convective flow near an accelerated vertical plate",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Effect of NPK combinations and spacings on yield and quality traits of ginger.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Transient free convection flow past an infinite vertical porous plate in a dissipative fluid",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Design of Safe Slopes After Failure During an Earthquake",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Design of safe slopes after failure during an earthquake",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Landslide mechanism in Central Himalaya (India): causes and controls.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Identifying maintainers and restorers of cytoplasmic genetic male sterile (CMS) lines for hybrid rice breeding.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Role of infested left out potatoes on the overwintering and dissemination of root-knot nematode, Meloidogyne incognita in field",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Cell wall degrading enzymes in Orobanche aegyptiaca and its host Brassica campestris [xylanase]",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Genetic analysis of quantitative traits in carrot (Daucus carota L.).",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Gene effects for root and leaf weight characters in radish (Raphanus sativus L.).",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Electromigration method of studying mixed metal-nitrilotriacetate-leucine complexes",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Riboflavin deficiency in domestic fowl: incidence and pathological observations",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Studies on plant habit and leaf orientation at various growth stages in spring wheat.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Testing and evaluation of fuel filters used on tractors.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Development of commercial plantation agriculture in Nilgiri-Wynad, Tamil Nadu.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "GENERAL AND KINETIC-PROPERTIES OF A CELLULASE FROM ASPERGILLUS-NIGER",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Ulnar Fasciocutaneous Flap for Lower Forearms Defects",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Studies on performance of promising soybean varieties to bacterial leaf spot disease in agroclimatic conditions of Rewa region.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "ASSESSMENT OF VESSEL PATENCY AND MYOCARDIAL ISCHEMIA AFTER PTCA BY QUANTITATION OF STANDARD SPECT POLAR MAPS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "INSITU GENETIC COMPLEMENTATION ANALYSIS OF DISORDERS WITH GENERALIZED PEROXISOMAL DYSFUNCTION",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "In-Situ Processing of Epitaxial and Textured High Tc Superconducting Hoba2Cu3O7. X Thin Films By Pulsed Laser Evaporation Technique",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "In‐Situ Fabrication of YBa2Cu3O7‐x Superconducting Thin Films Directly on Silicon Substrates with Tc0> 77K",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Adaptive Filters For Digital AGC As Applied To Abnormal Holter ECG",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "EFFECT OF FATTY-ACIDS AND THEIR DERIVATIVES ON THE MITOCHONDRIAL STRUCTURE",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Genetic variability and genotype × environment interaction in pea (Pisum sativum).",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "LUPUS ANTICOAGULANT IN A CHILD WITH A BLEEDING DISORDER",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Diosgenin accumulation pattern in Costus speciosus with advancement in crop age under varying levels of nitrogen",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Unsteady hydromagnetic flow formation of an elastico-viscous fluid in Couette motion",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Statistical abstract of Punjab, 1985",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "BIOGRAPHICAL APPROACH TO LITERATURE",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Unsteady MHD Couette flow of an elastico-viscous fluid",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Evolution of the cultural landscape of Ballia District in the Middle Ganga Plain",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Fluid inclusion geothermometry of quartz-wolframite veins at Degana wolframite deposit, Rajasthan, India",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Anatomy and functional organization of rural dwellings in Kumaon Himalaya: an ecological perception.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Space-size analysis of villages in Ballia district of Middle Ganga Valley.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Staphylococcus aureus can substitute double antibody in radio-immunoassay of LHRH",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Meatoplasty.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Comments on the papereffects of mass transfer on the hydromagnetic free convective flow in the stokes problem'",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A procedure for detection of loose smut infection in wheat seedlings. Note.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Correlation and path coefficient analysis in carrot (Daucus carota L.)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Scope of researches and commercialized growing of ornamental annuals in Garhwal.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Studies on Biomass, Productivity and Growth Analysis of Healthy and Cowpea Mosaic Virus Infected Cowpea Plants.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Influence of bulk density and initial soil water content on capillary rise in sandy loam [experiments]",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Influence of bulk density and initial soil water content on capillary rise in sandy loam",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Morphophysiological studies of'H-777'-a new variety of cotton.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Rapid diagnosis and specific recognition of gonococcal urethritis in the male by a slide immunoprecipitation test on urethral discharge.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "INDUCTION OF PROTECTIVE IMMUNITY AGAINST N-GONORRHEA IN EXPERIMENTAL-ANIMALS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "SD KAPOOR",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Ovarian/sup 32/P uptake in the homoplastic hypophysectomized catfish, Heteropneustes fossilis as an end point for gonadotropin bioassay",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Mango cultivation in Bihar",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Mango: a leading commercial fruit of Bihar",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "EVALUATION OF AIRFIELD PAVEMENTS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Irrigation in sugarcane in Uttar Pradesh.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Electrical and Thermal Resistivities of Cu, Ag and Au",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "study of the existing kitchen utensils in the villages of Sahnewal Khurd and Gobindgarh, Ludhiana (Punjab)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A study on the existing kitchen utensils in the villages of Sahnewal Khurd and Gobind-garh, Ludhiana (India).",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A STUDY OF THE EFFECTS OF WARNING REGARDING THE LIE SCALE IN PERSONALITY QUESTIONNAIRE",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "繰返し水平荷重を受ける模型群グイ",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Propagation of VLF & ELF Waves during Sudden Ionospheric Disturbances",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Static and Repeated Loads on Lightweight RC Deep Beams",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Economic studies on productivity of irrigated crops and sources of irrigation in Uttar Pradesh",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Histaminergic kininergic and hydroxytryptaminergic neurons in the intramural ganglia of the gastric and bladder muscles of the frog",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "ACHIEVEMENT MOTIVE, IN HIGH SCHOOL BOYS-MEHTA, P",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Fault-tolerance of Distributed Multithreaded Applications in Shared-Nothing Systems",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Study of Factors Associated with the Professional Competency of Agricultural Extension Officers of the Punjab",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Calculation of heat-exchanger area using low temperature separation process during development of gas-condensate fields under elastic gas drive",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A STUDY OF THE EXISTING KITCHEN UTENSILS IN THE VILLAGES OF",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Generative AI for Cyberdefense",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Farmers Participatory Seed Production Programme of IARI Varieties/Hybrids: A Success Story",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Non-conventional Low Power Circuit Design Techniques",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A study on free convective flow through porous medium",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "VELOCITY DISTRIBUTION AND SOLUTE DISPERSION IN UNSTEADY FLOW THROUGH CHANNEL WITH PERMEABLE WALLS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "195 Role of DRDO in Covid-19 Containment",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Opinion of Students and Technical Staff about Agricultural Biotechnology in Jharkhand",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Dual Compensation of Mango (Mangifera Indica L) Plantations-Carbon Emission Abatement and Ecosystem Services",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "ASSESSING THE EFFECT OF THE DIRECTION OF TRANSPLANTING AND YIELD OF RICE (ORYZA SATIVA L.) UNDER DIFFERENT CROP GROWING ENVIRONMENTS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "STUDIES ON PHYSICO-CHEMICAL AND NUTRACEUTICAL CHARACTERISTICS OF CHIA (SALVIA HISPANICA L.) SEED AND OIL",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Rajiv Gandhi University of Health Sciences, Bangalore s19",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Efficacy of growth factor (ginger & honey) and cryoprotective agent (glycerol) on viable cell count of frozen yoghurt",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "WASTEWATER SOURCES",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "IMPLEMENTATION OF BLOCK CHAIN TECHNOLOGY IN AGRICULTURE: CHALLENGE AND FUTURE PROSPECTS IN INDIA",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "2. Role of Indian Agricultural Heritage in Conservation",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Genebanks: Concepts, Status and Approaches",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Application of Molecular Techniques in Plant Genetic",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Management of plant genetic resources: An indian",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Important plantation crops, medicinal crops, and mushrooms",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "JOURNAL OF THE PUNJAB ACADEMY OF FORENSIC MEDICINE & TOXICOLOGY",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Projection Modelling Based Geospatial Analysis of Land use Land Cover Change at Hasdeo River Watershed of Chhattisgarh, India",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Horticulture and Agroforestry",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Differential Equation-Based Analytical Modeling of the Characteristics Parameters of the Junctionless MOSFET-Based Label-Free Biosensors",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Ashwagandha: Most of desired COVID-19 immunobooster medicinal plant",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "BIOLOGICAL APPLICATIONS OF LASER PRODUCED PLASMA SPECTROSCOPY: AREVIEW",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "PRODUCTION OF MEDIUM CHAIN LENGTH POLYHYDROXYALKANOATES FROM PALMITIC ACID USING",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "BY Cu (Bip);\" IN ALKALINE MEDIUM",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Extraction and Characterization of Palmitic Acid from Palm oil",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "THE EF FECT OF FO LIAR FEED ING OF PLANT GROWTH REG U LA TORS ON PHYSICO-CHEM I CAL AT TRIB UTES OF PHALSA (GREWIA SUBINAEQUALIS DC)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Comparison of extraction technique on recovery of phenolic compounds obtained from papaya leaves (Carica papaya L. leaves)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Strengthening the agricultural entrepreneurship: Insights on transformative influence",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "EF FECTS OF PLANT GROWTH REG U LA TORS ON CAL LUS IN DUC TION IN CHICK PEA (Cicer arietinum L.)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "SCINTILLATORS AND DETECTORS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "finding in resource constrained industrial settings”",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Propagational Features of Magnetospheric VLF Emmissions Observed at Lucknow, India",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "MANUPULATING SOIL MICROORGANISMS FOR SUSTAINABLE AGRICULTURE",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Toxic Effects of Dimethoate and Carbaryl Pesticides on Protein Metabolism of the Freshwater Snail Lymnaea",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "WA TER RE QUIRE MENT AND IR RI GA TION SCHED UL ING THROUGH DRIP SYS-TEMS IN CAB BAGE (Bras sica oleracea var. capitata)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Fabrication Techniques for Quantum Dots",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Field Efficacy of Biorational Insecticides Based Modules for the Management of Helicoverpa armigera (Hübner) in Chickpea",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "FABRICATION OF MULTIFILAMENTARY NIOBIUM-TITANIUM SUPERCONDUCTING WIRE AND CABLE: TECHNOLOGICAL CAPABILITIES AVAILABLE AT ATOMIC FUELS DIVISION, BARC",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "RELIABILITY OF MEDIUMI RANGE WEATHER roccasr IN EASTERN PLANE ZONE OF UTTAR PRADESH",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "from Leaves of Eupatorium adenophorum (L.) Spreng.",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Statiscal analysis of whistler recorded by automatic whistler detector at Varanasi",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "TAXONOMICAL IDENTIFICATION OF MANGO (MANGIFERA INDICA L.) VARIETIES USING LEAF MORPHOLOGICAL CHARACTERISTICS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Study of Ground Plane FD SOl Structures at 25 nrn",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "28. Miscellaneous Works",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "DIVERSITY, DISTRIBUTION, AND STATUS OF ORCHIDS IN UPPER B DIVERSITY, DISTRIBUTION, AND STATUS OF ORCHIDS IN UPPER BEAS CATCHMENT AND PARBATI VAL CATCHMENT AND PARBATI VALLEY OF …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Power System Stability Using FACTS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "EFFECT OF DIFFERENT PLANTING D EFFECT OF DIFFERENT PLANTING DATES ON PRODUCTIVITY TES ON PRODUCTIVITY POTENTIAL OF NEW GENOTYPES OF SO POTENTIAL OF NEW GENOTYPES OF SOYBEAN …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "sustainable rural development: a case study from the Garhwal Himalaya",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Seam Wise Variation in RMR and Safe Design of Support for Gare Palma IV/8 Mine, ACL, Raigarh-A CMRI Geo-mechanical Approach",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "USE OF PEROXIDASE ISOZYME PAT TERNS FOR CHAR AC TER IZA TION OF MAIZE INBREDS (ZEA MAYS L.)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Role of Ayurveda on PCOS (Polycystic Ovary Syndrome): A Critical",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "STEM CELL-DERIVED MODELS IN TOXICOLOGY",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "STEM CELL THERAPY IN DIABETES",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "PROGRESS AND PROSPECTS OF NANOTECHNOLOGY IN STEM CELLS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "EPIGENETICS IN PLURIPOTENT STEM CELLS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "25. Sikhism & Other Religions",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "REGULATORY NETWORKS IN MESENCHYMAL STEM CELLS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Performance Measures of Blood Flow Obeying Herschel-Bulkley Fluid Equation through an Artery with Radially Non-Symmetric Mild Stenosis",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "STUDY ON VARI ABIL ITY, HERITABILITY AND GE NETIC AD VANCE IN OKRA [Abelmoschus esculantus (L.) Monch]",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Convalescing Soil Functionality of Degraded Lands: An Experience from Semi-Arid India",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Identification of Congenial Climatic Condition for Optimum Yield of Chickpea Under Prevailing Weather Condition in Eastern Uttar Pradesh",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Recent Performance of Agro meteorological Services for Uttar Pradesh",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Arachidonic acid cascade inhibitors modulate phorbol ester-induced oxidative stress in female ICR mouse skin: differential roles of 5-lipoxygenase and cyclooxygenase-2 in …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "l6. Influence of growth regulating substances on rooting of cuttings of",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Heavy metal concentration of Chandigarh urban soils due to urbanization in a changing environment: An ecological assessment",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "ERGONOMIC AND ECONOMIC EVALUATION OF TWO MODELS OF SHRUB CUTTERS FOR HARVESTING OF LANTANA IN KANDI AREAS OF PUNJAB",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Peasant movement in Punjab since 1991",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Studies on Role of Knowledge and Attitude for the Transfer of Zero Tillage Technology under the Punjab Conditions",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Communication Systems",
+    "Computer Science",
+    "Electronics",
+    "Engineering",
+    "Hardware",
+    "Information Technology",
+    "IoT",
+    "Mathematics",
+    "Networking",
+    "Operating Systems",
+    "Optimization",
+    "Security",
+    "Software Engineering"
+  ]
+}

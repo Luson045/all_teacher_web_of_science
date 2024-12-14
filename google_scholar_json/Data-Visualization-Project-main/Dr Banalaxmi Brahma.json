@@ -1,0 +1,124 @@
+{
+  "personalInfo": {
+    "name": "Banalaxmi Brahma",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=HD958GcAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 152,
+      "h_index": 4,
+      "i10_index": 1
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 11.69,
+    "averagePerYear": 152.0,
+    "timesCited": 152,
+    "dedupedTimesCited": 152,
+    "activeYears": 0
+  },
+  "researchFields": [
+    {
+      "name": "Machine Learning",
+      "url": "/research_field/machine_learning"
+    },
+    {
+      "name": "Deep Neural Networks",
+      "url": "/research_field/deep_neural_networks"
+    },
+    {
+      "name": "Time Series Applications",
+      "url": "/research_field/time_series_applications"
+    },
+    {
+      "name": "Forecasting",
+      "url": "/research_field/forecasting"
+    },
+    {
+      "name": "Renewable Energy",
+      "url": "/research_field/renewable_energy"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Solar Irradiance Forecasting Based on Deep Learning Methodologies and Multi-Site Data",
+      "year": "",
+      "citations": 117
+    },
+    {
+      "title": "Training RNN and it’s Variants Using Sliding Window Technique",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Attention mechanism for developing wind speed and solar irradiance forecasting models",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Visualizing solar irradiance data in ArcGIS and forecasting based on a novel deep neural network mechanism",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "A residual ensemble learning approach for solar irradiance forecasting",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Time Series Forecasting: A Comparison of Deep Neural Network Techniques",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "An online approach for cooperative cache updating and forwarding in mobile edge network",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Generating Data for Real World Time Series Application with GRU-Based Conditional GAN",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Automatic Modulation Classification for CR Using Deep Learning",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Service caching and user association in cache enabled multi-UAV assisted MEN for latency-sensitive applications",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "AI-Based Model for Detection and Classification of Alzheimer Disease",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Attention LSTM for Time Series Forecasting of Financial Time Series Data",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Investigation of dataset characteristics for design of RNN Models in time series applications",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Communication Systems",
+    "Computer Science",
+    "Engineering",
+    "Image Processing",
+    "Information Technology",
+    "Networking",
+    "Software Engineering"
+  ]
+}

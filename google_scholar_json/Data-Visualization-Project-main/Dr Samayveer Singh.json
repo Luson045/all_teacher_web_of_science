@@ -1,0 +1,752 @@
+{
+  "personalInfo": {
+    "name": "Dr Samayveer Singh, PhD, SMIEEE",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=DONY6GUAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 2213,
+      "h_index": 26,
+      "i10_index": 69
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 15.92,
+    "averagePerYear": 2213.0,
+    "timesCited": 2213,
+    "dedupedTimesCited": 2213,
+    "activeYears": 0
+  },
+  "researchFields": [
+    {
+      "name": "Wireless Sensor Network",
+      "url": "/research_field/wireless_sensor_network"
+    },
+    {
+      "name": "Information Security",
+      "url": "/research_field/information_security"
+    },
+    {
+      "name": "Data Hiding in Text and Image Steganography",
+      "url": "/research_field/data_hiding_in_text_and_image_steganography"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Energy efficient heterogeneous DEEC protocol for enhancing lifetime in WSNs",
+      "year": "",
+      "citations": 152
+    },
+    {
+      "title": "Heterogeneous HEED protocol for wireless sensor networks",
+      "year": "",
+      "citations": 132
+    },
+    {
+      "title": "Energy efficient clustering protocol using fuzzy logic for heterogeneous WSNs",
+      "year": "",
+      "citations": 88
+    },
+    {
+      "title": "An Animal Detection and Collision Avoidance System Using Deep Learning",
+      "year": "",
+      "citations": 60
+    },
+    {
+      "title": "NEECP: Novel energy-efficient clustering protocol for prolonging lifetime of WSNs",
+      "year": "",
+      "citations": 59
+    },
+    {
+      "title": "An efficient cluster head election based on optimized genetic algorithm for movable sinks in IoT enabled HWSNs",
+      "year": "",
+      "citations": 57
+    },
+    {
+      "title": "Optimized routing technique for IoT enabled software-defined heterogeneous WSNs using genetic mutation based PSO",
+      "year": "",
+      "citations": 55
+    },
+    {
+      "title": "Energy efficient multilevel network model for heterogeneous WSNs",
+      "year": "",
+      "citations": 51
+    },
+    {
+      "title": "A comprehensive study of reversible data hiding (RDH) schemes based on pixel value ordering (PVO)",
+      "year": "",
+      "citations": 50
+    },
+    {
+      "title": "Proficient QoS-based target coverage problem in wireless sensor networks",
+      "year": "",
+      "citations": 50
+    },
+    {
+      "title": "A Green Data Collection & Transmission Method for IoT-Based WSN in Disaster Management",
+      "year": "",
+      "citations": 47
+    },
+    {
+      "title": "Recovery based high capacity reversible data hiding scheme using even-odd embedding",
+      "year": "",
+      "citations": 47
+    },
+    {
+      "title": "An Optimized Genetic Algorithm for Cluster Head Election Based on Movable Sinks and Adjustable Sensing Ranges in IoT-Based HWSNs",
+      "year": "",
+      "citations": 43
+    },
+    {
+      "title": "An Energy-Efficient Modified Metaheuristic Inspired Algorithm for Disaster Management System Using WSNs",
+      "year": "",
+      "citations": 37
+    },
+    {
+      "title": "Adaptive PVD and LSB based high capacity data hiding scheme",
+      "year": "",
+      "citations": 37
+    },
+    {
+      "title": "An Improved Histogram-Shifting-Imitated reversible data hiding based on HVS characteristics",
+      "year": "",
+      "citations": 37
+    },
+    {
+      "title": "Multilevel heterogeneous network model for wireless sensor networks",
+      "year": "",
+      "citations": 36
+    },
+    {
+      "title": "A GA-Based Sustainable and Secure Green Data Communication Method Using IoT-Enabled WSN in Healthcare",
+      "year": "",
+      "citations": 34
+    },
+    {
+      "title": "A high capacity email based text steganography scheme using huffman compression",
+      "year": "",
+      "citations": 34
+    },
+    {
+      "title": "A secure energy-efficient routing protocol for disease data transmission using IoMT",
+      "year": "",
+      "citations": 30
+    },
+    {
+      "title": "An energy aware clustering and data gathering technique based on nature inspired optimization in WSNs",
+      "year": "",
+      "citations": 30
+    },
+    {
+      "title": "An efficient text steganography scheme using Unicode Space Characters",
+      "year": "",
+      "citations": 30
+    },
+    {
+      "title": "A Secure IoT-Based Mutual Authentication for Healthcare Applications in Wireless Sensor Networks Using ECC",
+      "year": "",
+      "citations": 29
+    },
+    {
+      "title": "An Email based high capacity text steganography scheme using combinatorial compression",
+      "year": "",
+      "citations": 29
+    },
+    {
+      "title": "hetSEP: Heterogeneous SEP protocol for increasing lifetime in WSNs",
+      "year": "",
+      "citations": 27
+    },
+    {
+      "title": "A space based reversible high capacity text steganography scheme using font type and style",
+      "year": "",
+      "citations": 27
+    },
+    {
+      "title": "AI-Based Sustainable and Intelligent Offloading Framework for IIoT in Collaborative Cloud-Fog Environments",
+      "year": "",
+      "citations": 26
+    },
+    {
+      "title": "A reversible data hiding scheme using pixel location.",
+      "year": "",
+      "citations": 25
+    },
+    {
+      "title": "Energy efficient rendezvous points based routing technique using multiple mobile sink in heterogeneous wireless sensor networks",
+      "year": "",
+      "citations": 22
+    },
+    {
+      "title": "An optimal high capacity reversible data hiding scheme using move to front coding for LZW codes",
+      "year": "",
+      "citations": 22
+    },
+    {
+      "title": "Evaluating authentication schemes for real-time data in wireless sensor network",
+      "year": "",
+      "citations": 21
+    },
+    {
+      "title": "Energy-Efficient Routing Protocols for Cluster-Based Heterogeneous Wireless Sensor Network (HetWSN)—Strategies and Challenges: A Review",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "A reversible high capacity data hiding scheme using combinatorial strategy",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "High‐quality reversible data hiding scheme using sorting and enhanced pairwise PEE",
+      "year": "",
+      "citations": 19
+    },
+    {
+      "title": "Extreme Event Forecasting Using Machine Learning Models",
+      "year": "",
+      "citations": 19
+    },
+    {
+      "title": "RDA-BWO: hybrid energy efficient data transfer and mobile sink location prediction in heterogeneous WSN",
+      "year": "",
+      "citations": 18
+    },
+    {
+      "title": "SMAC-AS: MAC based secure authentication scheme for wireless sensor network",
+      "year": "",
+      "citations": 18
+    },
+    {
+      "title": "A survey of recent advances in image steganography",
+      "year": "",
+      "citations": 17
+    },
+    {
+      "title": "3-Level heterogeneity model for wireless sensor networks",
+      "year": "",
+      "citations": 17
+    },
+    {
+      "title": "GWO-EFUCA: Grey Wolf Optimisation and Fuzzy Logic based Unequal Clustering and Routing protocol for sustainable WSN-based Internet of Things",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "A robust digital ECG signal watermarking and compression using biorthogonal wavelet transform",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "A sustainable data gathering technique based on nature inspired optimization in WSNs",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "Human visual system based enhanced AMBTC for color image compression using interpolation",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "hetDEEC: Heterogeneous DEEC protocol for prolonging lifetime in wireless sensor networks",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "hetADEEPS: ADEEPS for heterogeneous wireless sensor networks",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "Reversible data hiding scheme for LZW codes using even-odd embedding strategy",
+      "year": "",
+      "citations": 15
+    },
+    {
+      "title": "Optimal sensor deployment for WSNs in grid environment",
+      "year": "",
+      "citations": 15
+    },
+    {
+      "title": "Comparative Study of Disease Detection in Plants using Machine Learning and Deep Learning",
+      "year": "",
+      "citations": 14
+    },
+    {
+      "title": "A high capacity reversible data hiding technique based on pixel value ordering using interlock partitioning",
+      "year": "",
+      "citations": 14
+    },
+    {
+      "title": "Outcome Prediction of Patients for Different Stages of Sepsis Using Machine Learning Models",
+      "year": "",
+      "citations": 14
+    },
+    {
+      "title": "Network resource management mechanisms in SDN enabled WSNs: A comprehensive review",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "Reversible data hiding with high visual quality using pairwise PVO and PEE",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "Experimental performance analysis of cloud resource allocation framework using spider monkey optimization algorithm",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "RCBE-AS: Rabin cryptosystem–based efficient authentication scheme for wireless sensor networks",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "An energy efficient clustering protocol with fuzzy logic for WSNs",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "Heterogeneous protocols for increasing lifetime of wireless sensor networks",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "A proficient data gathering technique for unmanned aerial vehicle‐enabled heterogeneous wireless sensor networks",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "A New Image Steganography Technique Based on Pixel Intensity and Similarity in Secret Message",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "A Proficient Node Deployment Mechanism Using Adjustable Sensing Range in Wireless Sensor Networks",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "A genetic-algorithm-based dynamic transmission of data for communicable disease in IoMT environment",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "A secure and efficient computation based multifactor authentication scheme for Intelligent IoT-enabled WSNs",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "A distributed energy-efficient target tracking protocol for three level heterogeneous sensor networks",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "Energy-efficient data gathering algorithms for improving lifetime of WSNs with heterogeneity and adjustable sensing range",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "GM-WOA: a hybrid energy efficient cluster routing technique for SDN-enabled WSNs",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "MPPT-EPO optimized solar energy harvesting for maximizing the WSN lifetime",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Information Theory-based Techniques to Detect DDoS in SDN: A Survey",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "SCSZB: Sensor Congregate Stable Zonal-Based Routing Protocol Designed for Optimal WSN",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "A Clustering-Based Optimized Stable Election Protocol in Wireless Sensor Networks",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Performance investigation of heterogeneous algorithms in WSNs",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "A novel energy efficient routing technique for SDN-enabled underwater WSNs using free-space optical communication",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Energy efficient hotspot problem mitigation techniques using multiple mobile sink in heterogeneous wireless sensor network",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Distributed algorithms for maximizing lifetime of WSNs with heterogeneity and adjustable sensing range for different deployment strategies",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "3-Tier heterogeneous network model for increasing lifetime in three dimensional WSNs",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "An interpolation-based reversible data hiding scheme for internet of things applications",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "A novel cluster head selection algorithm based IoT enabled heterogeneous WSNs distributed architecture for smart city",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Encoder-Decoder Architecture for Image Steganography using Skip Connections.",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Low bandwidth data hiding for multimedia systems based on bit redundancy",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "PVO based reversible data hiding technique for roughly textured images",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Performance investigation of energy efficient HetSEP for prolonging lifetime in WSNs",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Performance evaluation of distributed protocols using different levels of heterogeneity models in wireless sensor networks",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Multi-class classification of breast cancer abnormality using transfer learning",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "An IIoT based secure and sustainable smart supply chain system using sensor networks",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "A Review on Indian Summer Monsoon Rainfall Prediction Using Machine Learning Techniques",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "An effective analysis and performance investigation of energy heterogeneity in wireless sensor networks",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Reversible data hiding scheme for LZW codes using LSB flipping strategy",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Heterogeneous Energy Efficient Protocol for Enhancing the Lifetime in WSNs",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "A heterogeneous network model for prolonging lifetime in 3-D WSNs",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Energy-efficient target monitoring algorithm for wireless sensor networks",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "AI-driven task scheduling strategy with blockchain integration for edge computing",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "A robust and secure user authentication scheme based on multifactor and multi‐gateway in IoT enabled sensor networks",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Energy‐optimized cluster head selection based on enhanced remora optimization algorithm in underwater wireless sensor network",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "DACHE: a data aggregation-based effective and optimized cluster head election routing protocol for HWSNs",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "An Efficient and Secure Authentication Scheme using Markov Chain for Wireless Sensor Networks",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Energy Efficient Scheduling Protocols for Heterogeneous WSNs",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Distributed algorithms for maximizing the lifetime of WSNs with heterogeneity for adjustable sensing ranges",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Distributed Energy-Efficient Algorithm for Wireless Sensor Networks.",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "A heterogeneous power efficient load balancing target-monitoring protocol for sensor networks",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Energy-Optimization Route and Cluster Head Selection Using M-PSO and GA in Wireless Sensor Networks",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Innovative image interpolation based reversible data hiding for secure communication",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Multifactor Authentication Schemes for Multiserver Based Wireless Application: A Review",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "A reversible data hiding technique using lower magnitude error channel pair selection",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Special issue on emerging technologies for information hiding and forensics in multimedia systems",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Particle swarm optimization and genetic mutation based routing technique for IoT-based homogeneous software-defined WSNs",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "OSEP: an optimized stable election protocol in heterogeneous wireless sensor networks",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Learning automata based heuristics for target Q-coverage",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Optimum sink location for sensor deployment in wireless sensor networks",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "A stage-4 heterogeneous network model in WSNs",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Optimum deployment of sensors in WSNs",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Load Balancing in SDN-Enabled WSNs Toward 6G IoE: Partial Cluster Migration Approach",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Multi speaker text-to-speech synthesis using generalized end-to-end loss function",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Anonymity preserving authentication and key agreement scheme for wireless sensor networks",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "HSB based reversible data hiding using sorting and pairwise expansion",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Modified energy-proficient partial coverage methodology for optimizing coverage in WSN",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "5G Traffic Forecasting using Federated Learning",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "OCHEP: An Optimized Cluster Head Election Protocol for Heterogeneous WSNs",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Detecting low-resolution deepfakes: an exploration of machine learning techniques",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "An Analysis Study of Security Threats, Vulnerabilities Challenges of Cyber-Physical Systems",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "High Payload Lossless Steganography Using Image Interpolation",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "ECICM: An Efficient Clustering and Information Collection Method in Heterogeneous Wireless Sensor Networks",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "A Threshold‐Based Optimization Energy‐Efficient Routing Technique in Heterogeneous Wireless Sensor Networks",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "A Clustering Based Optimized PEGASIS in Wireless Sensor Networks",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "An Efficient Biometric based three-factor authentication scheme for Wireless Sensor Network",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "MS-EAR: A mobile sink based energy aware routing technique for SDN enabled WSNs",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Analysis and Performance Evaluation of Routing Protocols using Sink Mobility in IoT-enabled Wireless Sensor Networks",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "IoT based sensor network clustering for intelligent transportation system using meta‐heuristic algorithm",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "IoT-Based Smart Indoor Navigation System with Voice Assistance for Museums",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Robust Semi-supervised Medical Image Classification: Leveraging Reliable Pseudo-labels",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Design of 3-D Pipe Routing for Internet of Things Networks Using Genetic Algorithm",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Performance Analysis of User Authentication Schemes in Wireless Sensor Networks",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Review on GIF-Based Steganography Techniques",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Discover Internet of Things",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Review on Various Deepfakes’ Detection Methods",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Steganography Methods for GIF Images: A Review",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Reversible Data Hiding with Absolute Quality Preserving Feature in Animated GIF",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "DEERS: Design Energy-Efficient Routing Scheme for Harsh Environment Monitoring in Heterogeneous WSNs",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Gray-Version Invariant Reversible Data Hiding Scheme Based on 2D Histogram Modification for Color Images",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Abstracting & Indexing Paper Infomation",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Performance Investigation of Routing Protocols of Mobile Ad-Hoc Networks Using CBR and TCP Traffic",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Performance Evaluation of Mobile Ad-Hoc Network (MANET) Routing Protocols by Varying Mobility",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Communication Systems",
+    "Computer Science",
+    "Engineering",
+    "Hardware",
+    "Image Processing",
+    "Information Technology",
+    "IoT",
+    "Mathematics",
+    "Networking",
+    "Operating Systems",
+    "Optimization",
+    "Security",
+    "Software Engineering"
+  ]
+}

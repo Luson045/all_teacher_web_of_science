@@ -1,0 +1,132 @@
+{
+  "personalInfo": {
+    "name": "Tanmay Kumar Behera",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=zttdtJUAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 343,
+      "h_index": 9,
+      "i10_index": 9
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 24.5,
+    "averagePerYear": 343.0,
+    "timesCited": 343,
+    "dedupedTimesCited": 343,
+    "activeYears": 0
+  },
+  "researchFields": [
+    {
+      "name": "Computer Vision",
+      "url": "/research_field/computer_vision"
+    },
+    {
+      "name": "Remote Sensing",
+      "url": "/research_field/remote_sensing"
+    },
+    {
+      "name": "Drone Vision",
+      "url": "/research_field/drone_vision"
+    },
+    {
+      "name": "Database and Information Security",
+      "url": "/research_field/database_and_information_security"
+    },
+    {
+      "name": "Deep Learning",
+      "url": "/research_field/deep_learning"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Credit card fraud detection: a hybrid approach using fuzzy clustering & neural network",
+      "year": "",
+      "citations": 148
+    },
+    {
+      "title": "The NITRDrone dataset to address the challenges for road extraction from aerial images",
+      "year": "",
+      "citations": 33
+    },
+    {
+      "title": "Brain MR image classification using superpixel-based deep transfer learning",
+      "year": "",
+      "citations": 29
+    },
+    {
+      "title": "Vegetation extraction from UAV-based aerial images through deep learning",
+      "year": "",
+      "citations": 24
+    },
+    {
+      "title": "Superpixel-based multiscale CNN approach toward multiclass object segmentation from UAV-captured aerial images",
+      "year": "",
+      "citations": 23
+    },
+    {
+      "title": "Credit card fraud detection using a neuro-fuzzy expert system",
+      "year": "",
+      "citations": 23
+    },
+    {
+      "title": "A lightweight deep learning architecture for vegetation segmentation using UAV-captured aerial images",
+      "year": "",
+      "citations": 18
+    },
+    {
+      "title": "Futuristic person re-identification over internet of biometrics things (IoBT): Technical potential versus practical reality",
+      "year": "",
+      "citations": 15
+    },
+    {
+      "title": "A lightweight multiscale-multiobject deep segmentation architecture for UAV-based consumer applications",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "Satellite IoT based road extraction from VHR images through superpixel-CNN architecture",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Aerial Data Aiding Smart Societal Reformation: Current Applications and Path Ahead",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Use of OPTICS and Supervised Learning Methods for Database Intrusion Detection",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Detection of mobile phone fraud using possibilistic fuzzy c-means clustering and hidden markov model",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "A survey on localization in wireless sensor network by angle of arrival",
+      "year": "",
+      "citations": 1
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Communication Systems",
+    "Computer Science",
+    "Engineering",
+    "Image Processing",
+    "Information Technology",
+    "IoT",
+    "Networking",
+    "Operating Systems",
+    "Security",
+    "Software Engineering"
+  ]
+}

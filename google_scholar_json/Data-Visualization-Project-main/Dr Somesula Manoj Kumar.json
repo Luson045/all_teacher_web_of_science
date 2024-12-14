@@ -1,0 +1,140 @@
+{
+  "personalInfo": {
+    "name": "Somesula Manoj Kumar, PhD",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=IR-RwgoAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 118,
+      "h_index": 6,
+      "i10_index": 5
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 7.38,
+    "averagePerYear": 118.0,
+    "timesCited": 118,
+    "dedupedTimesCited": 118,
+    "activeYears": 0
+  },
+  "researchFields": [
+    {
+      "name": "Mobile Edge Computing",
+      "url": "/research_field/mobile_edge_computing"
+    },
+    {
+      "name": "Reinforcement Learning",
+      "url": "/research_field/reinforcement_learning"
+    },
+    {
+      "name": "Vehicular Networks",
+      "url": "/research_field/vehicular_networks"
+    },
+    {
+      "name": "UAV Networks",
+      "url": "/research_field/uav_networks"
+    },
+    {
+      "name": "Machine Learning",
+      "url": "/research_field/machine_learning"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Contact duration-aware cooperative cache placement using genetic algorithm for mobile edge networks",
+      "year": "",
+      "citations": 27
+    },
+    {
+      "title": "Cooperative cache update using multi-agent recurrent deep reinforcement learning for mobile edge networks",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "Cooperative service placement and request routing in mobile edge networks for latency-sensitive applications",
+      "year": "",
+      "citations": 15
+    },
+    {
+      "title": "Greedy cooperative cache placement for mobile edge networks with user preferences prediction and adaptive clustering",
+      "year": "",
+      "citations": 15
+    },
+    {
+      "title": "Deadline-aware caching using echo state network integrated fuzzy logic for mobile edge networks",
+      "year": "",
+      "citations": 14
+    },
+    {
+      "title": "Deep reinforcement learning mechanism for deadline-aware cache placement in device-to-device mobile edge networks",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Semantic Web-based Recommendation: Experimental Results and Test Cases",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "MITS: Mobility-aware intelligent task scheduling in vehicular fog networks",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Deadline-aware cache placement scheme using fuzzy reinforcement learning in device-to-device mobile edge networks",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "An online approach for cooperative cache updating and forwarding in mobile edge network",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "SMITS: Social and Mobility aware Intelligent Task Scheduling in Vehicular Fog Computing—A Federated DRL Approach",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Case Study: Outlier Detection on Sequential Data",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Age and energy aware data collection scheme for urban flood monitoring in uav-assisted Wireless Sensor Networks",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Service caching and user association in cache enabled multi-UAV assisted MEN for latency-sensitive applications",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "DMITS: Dependency and Mobility-Aware Intelligent Task Scheduling in Socially-Enabled VFC Based on Federated DRL Approach",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Design of Efficient Caching Algorithms for Mobile Edge Networks",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Communication Systems",
+    "Computer Science",
+    "Engineering",
+    "Information Technology",
+    "IoT",
+    "Networking",
+    "Optimization",
+    "Software Engineering"
+  ]
+}

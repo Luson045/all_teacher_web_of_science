@@ -1,0 +1,425 @@
+{
+  "personalInfo": {
+    "name": "Dr Aruna Malik",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=3D73AlMAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 1157,
+      "h_index": 18,
+      "i10_index": 28
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 15.85,
+    "averagePerYear": 1157.0,
+    "timesCited": 1157,
+    "dedupedTimesCited": 1157,
+    "activeYears": 0
+  },
+  "researchFields": [
+    {
+      "name": "Steganography",
+      "url": "/research_field/steganography"
+    },
+    {
+      "name": "VPN",
+      "url": "/research_field/vpn"
+    },
+    {
+      "name": "Wirelss Networks",
+      "url": "/research_field/wirelss_networks"
+    },
+    {
+      "name": "IoT",
+      "url": "/research_field/iot"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Energy efficient heterogeneous DEEC protocol for enhancing lifetime in WSNs",
+      "year": "",
+      "citations": 152
+    },
+    {
+      "title": "A high capacity text steganography scheme based on LZW compression and color coding",
+      "year": "",
+      "citations": 97
+    },
+    {
+      "title": "NEECP: Novel energy‐efficient clustering protocol for prolonging lifetime of WSNs",
+      "year": "",
+      "citations": 59
+    },
+    {
+      "title": "Optimized routing technique for IoT enabled software-defined heterogeneous WSNs using genetic mutation based PSO",
+      "year": "",
+      "citations": 55
+    },
+    {
+      "title": "A reversible data hiding scheme for interpolated images based on pixel intensity range",
+      "year": "",
+      "citations": 51
+    },
+    {
+      "title": "A green data collection & transmission method for IoT-based WSN in disaster management",
+      "year": "",
+      "citations": 47
+    },
+    {
+      "title": "Recovery based high capacity reversible data hiding scheme using even-odd embedding",
+      "year": "",
+      "citations": 47
+    },
+    {
+      "title": "An image interpolation based reversible data hiding scheme using pixel value adjusting feature",
+      "year": "",
+      "citations": 47
+    },
+    {
+      "title": "Image interpolation based high capacity reversible data hiding scheme",
+      "year": "",
+      "citations": 46
+    },
+    {
+      "title": "An AMBTC compression based data hiding scheme using pixel value adjusting strategy",
+      "year": "",
+      "citations": 44
+    },
+    {
+      "title": "An energy-efficient modified metaheuristic inspired algorithm for disaster management system using WSNs",
+      "year": "",
+      "citations": 37
+    },
+    {
+      "title": "A high payload data hiding scheme based on modified AMBTC technique",
+      "year": "",
+      "citations": 36
+    },
+    {
+      "title": "A GA-based sustainable and secure green data communication method using IoT-enabled WSN in healthcare",
+      "year": "",
+      "citations": 34
+    },
+    {
+      "title": "A high capacity email based text steganography scheme using Huffman compression",
+      "year": "",
+      "citations": 34
+    },
+    {
+      "title": "A secure energy-efficient routing protocol for disease data transmission using IoMT",
+      "year": "",
+      "citations": 30
+    },
+    {
+      "title": "hetSEP: Heterogeneous SEP protocol for increasing lifetime in WSNs",
+      "year": "",
+      "citations": 27
+    },
+    {
+      "title": "A space based reversible high capacity text steganography scheme using font type and style",
+      "year": "",
+      "citations": 27
+    },
+    {
+      "title": "High‐quality reversible data hiding scheme using sorting and enhanced pairwise PEE",
+      "year": "",
+      "citations": 19
+    },
+    {
+      "title": "hetDEEC: Heterogeneous DEEC protocol for prolonging lifetime in wireless sensor networks",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "Reversible data hiding scheme for LZW codes using even-odd embedding strategy",
+      "year": "",
+      "citations": 15
+    },
+    {
+      "title": "Reversible data hiding with high visual quality using pairwise PVO and PEE",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "A high capacity text steganography scheme based on huffman compression and color coding",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "Impact of Firewall and VPN for securing WLAN",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "A proficient data gathering technique for unmanned aerial vehicle‐enabled heterogeneous wireless sensor networks",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "A new image steganography technique based on pixel intensity and similarity in secret message",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "A modified pixel-value differencing image steganographic scheme with least significant bit substitution method",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "Blockchain-based digital chain of custody multimedia evidence preservation framework for internet-of-things",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "A genetic-algorithm-based dynamic transmission of data for communicable disease in IoMT environment",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "A high capacity data hiding scheme using modified AMBTC compression technique.",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "An interpolation-based reversible data hiding scheme for internet of things applications",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "A novel cluster head selection algorithm based IoT enabled heterogeneous WSNs distributed architecture for smart city",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Low bandwidth data hiding for multimedia systems based on bit redundancy",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Spectroscopy: Types",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Performance Analysis of Virtual Private Network for Securing Voice and Video Traffic",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "A hybridized modified densenet deep architecture with CLAHE algorithm for humpback whale identification and recognition",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Deep learning end to end speech synthesis: A review",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Reversible data hiding scheme for LZW codes using LSB flipping strategy",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "heterogeneous energy efficient protocol for enhancing the lifetime in WSNs",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "An Analysis Of Anomaly Detection Techniques for IoT Devices: A Review",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Multimedia information hiding method for AMBTC compressed images using LSB substitution technique",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "DACHE: a data aggregation-based effective and optimized cluster head election routing protocol for HWSNs",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Energy efficient scheduling protocols for heterogeneous WSNs",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Experimental studies on the grinding of Ti-6Al-4 V using micro and nano size solid lubricants",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Innovative image interpolation based reversible data hiding for secure communication",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "A reversible data hiding technique using lower magnitude error channel pair selection",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Object detection and movement prediction for autonomous vehicle: a review",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "OSEP: an optimized stable election protocol in heterogeneous wireless sensor networks",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "A survey on blockchain based IoT forensic evidence preservation: research trends and current challenges",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Multi speaker text-to-speech synthesis using generalized end-to-end loss function",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "A review on deep learning-based polyp segmentation for efficient colorectal cancer screening",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Multi-hop routing protocol in SDN-based wireless sensor network: a comprehensive survey",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "High-fidelity reversible data hiding using novel comprehensive rhombus predictor",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Genetic algorithm application on 3D pipe routing: a review",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "OCHEP: an optimized cluster head election protocol for heterogeneous WSNs",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Detecting low-resolution deepfakes: an exploration of machine learning techniques",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "An Analysis Study of Security Threats, Vulnerabilities Challenges of Cyber-Physical Systems",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "A review on fake news detection techniques",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Review on Cognitive Computing Techniques in Healthcare",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "High Payload Lossless Steganography Using Image Interpolation",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "A Comparative Review on Image Interpolation-Based Reversible Data Hiding",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "ECICM: An Efficient Clustering and Information Collection Method in Heterogeneous Wireless Sensor Networks",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "IoT based sensor network clustering for intelligent transportation system using meta‐heuristic algorithm",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "8 Multi-Hop Routing",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Design of 3-D Pipe Routing for Internet of Things Networks Using Genetic Algorithm",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Discover Internet of Things",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Prescribing Practices of QT Interval Prolonging Drugs in Critically Ill Older Adults in South India",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Image Interpolation-Based Steganographic Techniques Under Spatial Domain: A Survey",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "DEERS: Design Energy-Efficient Routing Scheme for Harsh Environment Monitoring in Heterogeneous WSNs",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Robust RDH Technique Using Sorting and IPVO-Based Pairwise PEE for Secure Communication",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Gray-Version Invariant Reversible Data Hiding Scheme Based on 2D Histogram Modification for Color Images",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Efficient Pixel-Value Differencing Based Hybrid Steganographic Method Using Modulus Function",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "DESIGN AND ANALYSIS OF TEXT AND IMAGE BASED STEGANOGRAPHIC TECHNIQUES",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Author's Name Page No. Author's Name Page No.",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Communication Systems",
+    "Computer Science",
+    "Engineering",
+    "Hardware",
+    "Image Processing",
+    "Information Technology",
+    "IoT",
+    "Networking",
+    "Operating Systems",
+    "Optimization",
+    "Security",
+    "Software Engineering"
+  ]
+}

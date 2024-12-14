@@ -1,0 +1,672 @@
+{
+  "personalInfo": {
+    "name": "Rajneesh Rani",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=VUihxm8AAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 1159,
+      "h_index": 19,
+      "i10_index": 39
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 9.42,
+    "averagePerYear": 1159.0,
+    "timesCited": 1159,
+    "dedupedTimesCited": 1159,
+    "activeYears": 0
+  },
+  "researchFields": [
+    {
+      "name": "Digital Image Processing",
+      "url": "/research_field/digital_image_processing"
+    },
+    {
+      "name": "Optical Character Recognition",
+      "url": "/research_field/optical_character_recognition"
+    },
+    {
+      "name": "Script Identification",
+      "url": "/research_field/script_identification"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Handwritten Gurmukhi character recognition using statistical and background directional distribution",
+      "year": "",
+      "citations": 87
+    },
+    {
+      "title": "A comprehensive survey and deep learning-based approach for human recognition using ear biometric",
+      "year": "",
+      "citations": 62
+    },
+    {
+      "title": "Handwritten Devanagari character recognition using gradient features",
+      "year": "",
+      "citations": 62
+    },
+    {
+      "title": "A comprehensive study of reversible data hiding (RDH) schemes based on pixel value ordering (PVO)",
+      "year": "",
+      "citations": 50
+    },
+    {
+      "title": "Script identification of pre-segmented multi-font characters and digits",
+      "year": "",
+      "citations": 43
+    },
+    {
+      "title": "Comparative Recognition of Handwritten Gurmukhi Numerals Using Different Feature Sets and Classifiers",
+      "year": "",
+      "citations": 41
+    },
+    {
+      "title": "Handwritten Hindi text segmentation techniques for lines and characters",
+      "year": "",
+      "citations": 36
+    },
+    {
+      "title": "Text detection and localization in scene images: a broad review",
+      "year": "",
+      "citations": 35
+    },
+    {
+      "title": "Diagonal features and SVM classifier for handwritten Gurumukhi character recognition",
+      "year": "",
+      "citations": 30
+    },
+    {
+      "title": "Plant-seedling classification using transfer learning-based deep convolutional neural networks",
+      "year": "",
+      "citations": 28
+    },
+    {
+      "title": "SVM classifier for recognition of handwritten devanagari numeral",
+      "year": "",
+      "citations": 25
+    },
+    {
+      "title": "Performance comparison of devanagari handwritten numerals recognition",
+      "year": "",
+      "citations": 25
+    },
+    {
+      "title": "Handwritten gurumukhi character recognition using zoning density and background directional distribution features",
+      "year": "",
+      "citations": 25
+    },
+    {
+      "title": "CED-Net: context-aware ear detection network for unconstrained images",
+      "year": "",
+      "citations": 23
+    },
+    {
+      "title": "Breast cancer classification using snapshot ensemble deep learning model and t-distributed stochastic neighbor embedding",
+      "year": "",
+      "citations": 22
+    },
+    {
+      "title": "Handwritten Gurmukhi numeral recognition using zone-based hybrid feature extraction techniques",
+      "year": "",
+      "citations": 22
+    },
+    {
+      "title": "Hybrid architecture using CNN and LSTM for image captioning in Hindi language",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "LiteCovidNet: A lightweight deep neural network model for detection of COVID‐19 using X‐ray images",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "High‐quality reversible data hiding scheme using sorting and enhanced pairwise PEE",
+      "year": "",
+      "citations": 19
+    },
+    {
+      "title": "Semantic segmentation using deep convolutional neural network: A review",
+      "year": "",
+      "citations": 19
+    },
+    {
+      "title": "Word level script identification using convolutional neural network enhancement for scenic images",
+      "year": "",
+      "citations": 18
+    },
+    {
+      "title": "Feature extraction of Gurmukhi script and numerals: a review of offline techniques",
+      "year": "",
+      "citations": 18
+    },
+    {
+      "title": "A survey of recent advances in image steganography",
+      "year": "",
+      "citations": 17
+    },
+    {
+      "title": "Detection and classification of citrus leaf disease using hybrid features",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "Modified Gabor feature extraction method for word level script identification-experimentation with Gurumukhi and English scripts",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "Identification of tomato leaf diseases using deep Convolutional Neural Networks",
+      "year": "",
+      "citations": 15
+    },
+    {
+      "title": "A high capacity reversible data hiding technique based on pixel value ordering using interlock partitioning",
+      "year": "",
+      "citations": 14
+    },
+    {
+      "title": "Brain tumor classification for MR imaging using support vector machine",
+      "year": "",
+      "citations": 14
+    },
+    {
+      "title": "Deep leaming approaches for brain tumor segmentation: a review",
+      "year": "",
+      "citations": 14
+    },
+    {
+      "title": "Iot based home security system using raspberry pi with email and voice alert",
+      "year": "",
+      "citations": 14
+    },
+    {
+      "title": "Recognition of Devanagari handwritten numerals using gradient features and SVM",
+      "year": "",
+      "citations": 14
+    },
+    {
+      "title": "Combination of different feature sets and SVM classifier for handwritten Gurumukhi numeral recognition",
+      "year": "",
+      "citations": 14
+    },
+    {
+      "title": "Performance analysis of feature extractors and classifiers for script recognition of English and Gurmukhi words",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "Multi-level taxonomy review for sign language recognition: Emphasis on indian sign language",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "Behavioral modeling using deep neural network framework for ASD diagnosis and prognosis",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "Zone-based feature extraction techniques and SVM for handwritten gurmukhi character recognition",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "CRACK DETECTION IN CONCRETE USING TRANSFER LEARNING",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "ROI and Non-ROI based medical image compression techniques: a survey and comparative review",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Identification of printed Punjabi words and English numerals using Gabor features",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Agricultural crops disease identification and classification through leaf images using machine learning and deep learning technique: a review",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Gabor features based script identification of lines within a bilingual/trilingual document",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Encoder-Decoder Architecture for Image Steganography using Skip Connections.",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "PVO based reversible data hiding technique for roughly textured images",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Text extraction from indian and non-indian natural scene images: A review",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "CG-ERNet: a lightweight Curvature Gabor filtering based ear recognition network for data scarce scenario",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Pattern generation and symmetric key block ciphering using cellular automata",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Handwritten Gurmukhi character recognition using K-NN and SVM classifier",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "A survey: Recognition of scripts in bi-lingual/multi-lingual indian documents",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "A review on deepfake media detection",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "State-of-the-art techniques for passive image forgery detection: a brief review",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "A new technique for line segmentation of handwritten Hindi text",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Comparative analysis of Gabor and discriminating feature extraction techniques for script identification",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Script identification for printed and handwritten Indian documents: An empirical study of different feature classifier combinations",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Home automation and security system using internet of things",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Deep learning-based approach for segmentation of glioma sub-regions in MRI",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "A decade on script identification from natural images/videos: a review",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "RenuDhir,“",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "An ensemble approach to forecast COVID-19 incidences using linear and non-linear statistical models",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Adaptive neuro-fuzzy-based attention deficit/hyperactivity disorder diagnostic system",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Hybrid Feature Extraction and Machine Learning Approach for Fruits and Vegetable Classification",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Significant secret image sharing scheme based on boolean operation",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Handwritten Segmentation in Bangla script: A Review of Offline Techniques",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "DELIGHT-Net: DEep and LIGHTweight network to segment Indian text at word level from wild scenic images",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Image forgery detection using multi-layer convolutional neural network",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "A Brief Review on Existing Techniques for Detecting Digital Image Forgery",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Cancelable iris biometric: A review",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Facial expression recognition: A review",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Fingerprint presentation attack detection using transfer learning approach",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Enhanced digital video watermarking technique using 2-level DWT",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "EarLocalizer: A Deep-Learning-Based Ear Localization Model for Side Face Images in the Wild",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Strong threshold secret image sharing based on boolean operation",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Performance analysis of different classifiers for recognition of handwritten Gurmukhi characters using hybrid features",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Rare presentation of chorioadenoma destruens as acute haemoperitoneum mimicking ruptured ectopic pregnancy",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Development of ‘environmental friendly aminated nanocrystalline cellulose’for decontamination of arsenic species from water bodies: bioremediation",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Novel approach: Recognition of Devanagari handwritten numerals",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Enhancing facial expression recognition through generative adversarial networks-based augmentation",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Random projection-based cancelable iris biometrics for human identification using deep learning",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Iris biometric presentation attack: Types and detection techniques—A review",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Iris recognition using transfer learning of inception v3",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "A Review of Prediction of Software Defect by Using Machine Learning Algorithms",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Recognition of facial expressions using a deep neural network",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Inverse Dispersion Modelling for Identification of Multiple-Point Source Emissions in Atmosphere",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Digital image mosaicing using optimized KD-tree search",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Segmentation of handwritten Devanagri Script",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "A Deep Learning-Based Efficient Image Captioning Approach for Hindi Language",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "EIQA: ear image quality assessment using deep convolutional neural network",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "An Optimized Approach for Intra-Class Fruit Classification Using Deep Convolutional Neural Network",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Text-Dependent and Text-Independent Writer Identification Approaches: Challenges and Future Directions",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Automated melanoma skin cancer detection from digital images",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Comparative study on ASD identification using machine and deep learning",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Design and Implementation of Embedded Control Warning System for Vehicle Reversing",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Skill Gradient Descent Algorithm Based Convolutional Neural Network for Plant Growth and Crop Yield Prediction using Satellite Images",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Deep learning-based modified-EAST scene text detector: insights from a novel multiscript dataset",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "VResNet: A Deep Learning Architecture for Image Inpainting of Irregular Damaged Images",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Comprehensive Survey on Image Captioning for Indian Languages: Techniques, Datasets, and Challenges",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Virtual Attempt On Human Body Utilizing Single Picture For Clothes",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Review on Writer Identification and Verification Methods",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Trends and Future Directions for Tuberculosis Detection Research: A Study from 2018 to 2022",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Advances in Diabetic Retinopathy Classification using Deep Learning: The Last 5 Years Review",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Comprehensive Review on State-of-the-Art Techniques of Image Inpainting",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Quantitative analysis of perception ability in autism spectrum disorder",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "An Ensembled Intense Approach for Image Inpainting",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Hand Gesture Recognition on Skeletal Data Using Multi-head Neural Network",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Review of Recent Issues and Challenges of Fault Management Techniques in Underwater Wireless Sensor Network",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "UESegNet: Context Aware Unconstrained ROI Segmentation Networks for Ear Biometric",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Connected component analysis with rnn for performing secured data management with hidden data in finger prints",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Chemotherapy followed by radiotherapy versus radiotherapy alone in locally advanced cervical cancer",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Improved (k, n) Visual Secret Sharing Based on Random Grids",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Brain tumor classification for mr imaging using support vector machine",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Identification of olfactory receptors using a parametric model",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Embedded System in Big Data Wireless Sensor Network",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "MULTILEVEL SCRIPT IDENTIFICATION FOR PRINTED DOCUMENTS",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Molecular cloning of endoglucanase gene of Trichoderma Reesei 5A into Saccharomyces cerevisiae",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Handwritten Devanagari Numeral Recognition Using Zonal Based Feature Extraction Method and SVM Classifier",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Reflection and transmission of plane SH-wave at an interface between two different self-reinforced elastic half-spaces",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Handwritten Gurumukhi character recognition using zoning density and background directional distribution feature",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Electronics, Information and Communication Engineering© 2011 by IJCA Journal ICEICE-Number 1 Year of Publication: 2011",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Scheme for Script Identification of Printed Punjabi Words and English Numerals",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Variations in associated bacterial flora during amoebiasis",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "ИсслЕДОВАНИЕ тЕРМОЁ лЕктРИЧЕскОгО ЁФФЕк тА И ЁФФЕктА хОллА В гИДРИРОВАННы х НИкЕлЕВых плЕНкАх",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Leveraging Neural Networks and Advanced LBP Features by Performance Driven Breast Cancer Detection",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A survey of recent advances in image steganography",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Identification of Printed English Numerals and Punjabi Words using Morphological Features and SVM Classifier",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Communication Systems",
+    "Computer Science",
+    "Data Science",
+    "Electronics",
+    "Engineering",
+    "Hardware",
+    "Image Processing",
+    "Information Technology",
+    "IoT",
+    "Networking",
+    "Operating Systems",
+    "Security",
+    "Software Engineering"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "personalInfo": {
+    "name": "Dr Jagdeep Kaur",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=lwNErmkAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 87,
+      "h_index": 6,
+      "i10_index": 3
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 3.22,
+    "averagePerYear": 87.0,
+    "timesCited": 87,
+    "dedupedTimesCited": 87,
+    "activeYears": 0
+  },
+  "researchFields": [],
+  "publications": [
+    {
+      "title": "Multi objective optimization model using preemptive goal programming for software component selection",
+      "year": "",
+      "citations": 19
+    },
+    {
+      "title": "Clustering based architecture for software component selection",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "A study of component based software system metrics",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Dynamic inheritance coupling metric-design and analysis for assessing reusability",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "A Comparative Study of Big Data Processing: Hadoop vs. Spark",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "A survey on selection techniques of component based software",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "A software component selection technique based on fuzzy clustering",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Four tier architecture of component selection process using clustering",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Extending IoTs into the cloud-based platform for examining Amazon web services",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Validation of software component selection algorithms based on clustering",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Disaster management using internet of things",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Soil Classification Using Machine Learning, Deep Learning, and Computer Vision: A Review",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "A Review of Prediction of Software Defect by Using Machine Learning Algorithms",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Performance analysis of queries with hive optimized data models",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "A Deep Learning-Based Efficient Image Captioning Approach for Hindi Language",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "A Review on Quality Attributes Based Software Metrics.",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "An Intelligent Approach for Retinal Vessels Extraction Based on Transfer Learning",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Transforming ENT Healthcare: Advancements and Implications of Artificial Intelligence",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Systematic Review of Retinal Blood Vessels Segmentation Based on AI-driven Technique",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Review of Deep Learning Algorithms for Early Detection of Oral Mouth Cancer",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Enhancing Security and Performance of Software Defect Prediction Models: A Literature Review",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Comparative Study of User and Item k-NN for Rating Prediction",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "The Verification of Fuzzy Clustering Algorithm according to Requirements for Component Selection Process",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Comprehensive Survey on Image Captioning for Indian Languages: Techniques, Datasets, and Challenges",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Systematic Review of Retinal Blood Vessels Segmentation Based on AI‑driven Technique",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Component Based Software’s: Issues Related to Test the Compatibility of the Components",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Issues and Concerns In Software Component Selection",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Computer Science",
+    "Data Science",
+    "Engineering",
+    "Image Processing",
+    "Information Technology",
+    "IoT",
+    "Mathematics",
+    "Networking",
+    "Optimization",
+    "Security",
+    "Software Engineering"
+  ]
+}

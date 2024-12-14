@@ -1,0 +1,512 @@
+{
+  "personalInfo": {
+    "name": "A L Sangal",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=S2tBrxcAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 2418,
+      "h_index": 21,
+      "i10_index": 36
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 25.72,
+    "averagePerYear": 2418.0,
+    "timesCited": 2418,
+    "dedupedTimesCited": 2418,
+    "activeYears": 0
+  },
+  "researchFields": [],
+  "publications": [
+    {
+      "title": "Tunicate Swarm Algorithm: A new bio-inspired based metaheuristic paradigm for global optimization",
+      "year": "",
+      "citations": 1113
+    },
+    {
+      "title": "MLDroid—framework for Android malware detection using machine learning techniques",
+      "year": "",
+      "citations": 188
+    },
+    {
+      "title": "Performance evaluation of two reactive routing protocols of MANET using group mobility model",
+      "year": "",
+      "citations": 105
+    },
+    {
+      "title": "Characterizing flash events and distributed denial‐of‐service attacks: an empirical investigation",
+      "year": "",
+      "citations": 79
+    },
+    {
+      "title": "FSDroid:-A feature selection technique to detect malware from Android using Machine Learning Techniques: FSDroid",
+      "year": "",
+      "citations": 66
+    },
+    {
+      "title": "Simulation modeling of cloud computing for smart grid using CloudSim",
+      "year": "",
+      "citations": 52
+    },
+    {
+      "title": "Quantitative measurement and comparison of effects of various search engine optimization parameters on Alexa Traffic Rank",
+      "year": "",
+      "citations": 39
+    },
+    {
+      "title": "SemiDroid: a behavioral malware detector based on unsupervised machine learning techniques using feature selection approaches",
+      "year": "",
+      "citations": 36
+    },
+    {
+      "title": "Destination address entropy based detection and traceback approach against distributed denial of service attacks",
+      "year": "",
+      "citations": 33
+    },
+    {
+      "title": "Community detection in social networks based on fire propagation",
+      "year": "",
+      "citations": 31
+    },
+    {
+      "title": "Building a hierarchical structure model of enablers that affect the software process improvement in software SMEs—A mixed method approach",
+      "year": "",
+      "citations": 30
+    },
+    {
+      "title": "SOMDROID: Android malware detection by artificial neural network trained using unsupervised learning",
+      "year": "",
+      "citations": 29
+    },
+    {
+      "title": "Traceback techniques against DDOS attacks: a comprehensive review",
+      "year": "",
+      "citations": 28
+    },
+    {
+      "title": "HMOSHSSA: a hybrid meta-heuristic approach for solving constrained optimization problems",
+      "year": "",
+      "citations": 26
+    },
+    {
+      "title": "Deepdroid: feature selection approach to detect android malware using deep learning",
+      "year": "",
+      "citations": 26
+    },
+    {
+      "title": "Cloud services selection: A systematic review and future research directions",
+      "year": "",
+      "citations": 25
+    },
+    {
+      "title": "Modeling and simulation of adaptive neuro-fuzzy based intelligent system for predictive stabilization in structured overlay networks",
+      "year": "",
+      "citations": 24
+    },
+    {
+      "title": "Data quality issues in software fault prediction: a systematic literature review",
+      "year": "",
+      "citations": 23
+    },
+    {
+      "title": "Performance metrics for defense framework against distributed denial of service attacks",
+      "year": "",
+      "citations": 23
+    },
+    {
+      "title": "Considerations and open issues in delay tolerant network'S (DTNs) security",
+      "year": "",
+      "citations": 23
+    },
+    {
+      "title": "Performance comparison of RAPID, epidemic and prophet routing protocols for delay tolerant networks",
+      "year": "",
+      "citations": 21
+    },
+    {
+      "title": "HybriDroid: an empirical analysis on effective malware detection model developed using ensemble methods",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "Security attacks & prerequisite for wireless sensor networks",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "Authentication protocol for wireless sensor networks",
+      "year": "",
+      "citations": 18
+    },
+    {
+      "title": "Framework for empirical examination and modeling structural dependencies among inhibitors that impact SPI implementation initiatives in software SMEs",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "Modeling and simulation of DDoS attack using Omnet++",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "PARUDroid: validation of android malware detection dataset",
+      "year": "",
+      "citations": 15
+    },
+    {
+      "title": "Feature-based semi-supervised learning to detect malware from android",
+      "year": "",
+      "citations": 15
+    },
+    {
+      "title": "A brief review on multi-objective software refactoring and a new method for its recommendation",
+      "year": "",
+      "citations": 14
+    },
+    {
+      "title": "Building and testing a fuzzy linguistic assessment framework for defect prediction in asd environment using process-based software metrics",
+      "year": "",
+      "citations": 14
+    },
+    {
+      "title": "Investigating the factors which impact SPI implementation initiatives in software SMEs—A systematic map and review",
+      "year": "",
+      "citations": 14
+    },
+    {
+      "title": "Perbdroid: effective malware detection model developed using machine learning classification techniques",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "Dldroid: feature selection based malware detection framework for android apps developed during covid-19",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "Opinion mining and classification of music lyrics using supervised learning algorithms",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "Community detection metrics and algorithms in social networks",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Performance analysis of DSR, AODV routing protocols based on wormhole attack in mobile ad-hoc network",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Drowsy alarm system based on face landmarks detection using mediapipe facemesh",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "An anomaly based distributed detection system for DDoS attacks in Tier-2 ISP networks",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Secure Overlay Services (SOS): a critical analysis",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Lengthening of average path length in social networks due to the effect of community structure",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "A review on software refactoring opportunity identification and sequencing in object-oriented software",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Smart grid cloud for Indian power sector",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "A study on modeling techniques in software fault prediction",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Comparative analysis of cloudlet completion time in time and space shared allocation policies during attack on smart grid cloud",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Plant disease detection using deep learning (convolutional neural networks)",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Traffic signs classification using convolutional neural networks: a review",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Soft computing approaches to investigate software fault proneness in agile software development environment",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Economic Viability of Smart Grid Cloud in India",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "A persistent structured hierarchical overlay network to counter intentional churn attack",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Analysis of different churn models in chord based overlay networks",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Need of removing delivered message replica from delay tolerant network-a problem definition",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Blockchain-based chit fund system: a financial inclusion tool",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Performance analysis of predictive stabilization for churn handling in structured overlay networks",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Analyzing buffer occupancy of the nodes under acknowledged delay tolerant network’s routing protocols",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Artificial Intelligence in Software Engineering: Perspectives and Challenges",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Examining the Predictive Capability of Advanced Software Fault Prediction Models–An Experimental Investigation Using Combination Metrics",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Efficient security mechanism to counter the malicious attack in wireless sensor networks",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Analysis of security issues in cloud based smart grid",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Machine Learning Approaches for Analysing Static features in Android Malware Detection",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Data integrity authentication techniques in cloud computing: a survey",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Churn handling strategies for structured overlay networks: A survey",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Extension of Delay Tolerant Network’s Routing Protocols for Preventing Excessive Utilization of Resources",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Analysis and removal of vulnerabilities in masquerading attack in wireless sensor networks",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Numerical solution of singular integral equations using cubic spline interpolations",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Alleviating class imbalance issue in software fault prediction using DBSCAN-based induced graph under-sampling method",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Hybrid Model for Heart Disease Prediction Using Random Forest and Logistic Regression",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Accident Risk Rating of Streets Using Ensemble Techniques of Machine Learning",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Overlay based defensive architecture to survive DDoS: A comparative study",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Analysis of cloudlet completion time during attack on smart grid cloud",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Mac based multicast source authentication: A survey",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Queuing Algorithms Performance against Buffer Size and Attack Intensities",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Gray zone effect in MANETs on proactive and reactive routing protocols",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Comparison of Queuing Algorithms against DDoS Attack",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "DBOS_US: a density-based graph under-sampling method to handle class imbalance and class overlap issues in software fault prediction",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Gravitational community detection by predicting diameter",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Deep Learning Approach to Classify Road Traffic Sign Images",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Extensive Software Fault Prediction: An Ensemble based comparison",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Development of an efficient algorithm to enumerate the number of constitutional isomers of alkyne series",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "MedHAI: Improved Framework for medical diagnosis using human experts",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Enhancing IoT Security: Federated Learning with Autoencoder Model for IoT Attacks Detection",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Review Of The Recent Methods For Classification Of Colorectal Polyps Using Computer Aided Diagnosis",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "SelTCS: a framework for selecting trustworthy cloud services",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Comparison of Multi-Criteria Decision-Making Techniques for Cloud Services Selection",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Relationship Between Community Structure and Clustering Coefficient",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Artificial Neural Network Based Model for Detecting Attacks in Smart Grid Cloud",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Traffic Pattern based Performance Comparison of Two Proactive MANET Routing Protocols using Manhattan Grid Mobility Model",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Investigating Performance of Extended Epidemic Routing Protocol of DTN under Routing Attack",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Mahesh Kumar Chouhan",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Queuing algorithms performance against buffer size and attack intensities in DDOS attacks",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Gunjesh Kant Singh Harminder Singh Bindra",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Quadratures for Cauchy principal value integrals using cubic spline interpolations",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Communications (ICSCCC)",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Anna Mariya Thomson M, 854 Anoop K, 610 Ansamma John, 429",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Session 1 001-S076 Real-Time Network Intrusion Detection System Based on Deep Learning 1 Yuansheng Dong, Rong Wang, Juan He 002-S010 A Novel Approach for Detecting Logic …",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Communication Systems",
+    "Computer Science",
+    "Engineering",
+    "Information Technology",
+    "IoT",
+    "Mathematics",
+    "Networking",
+    "Operating Systems",
+    "Optimization",
+    "Security",
+    "Software Engineering"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "personalInfo": {
+    "name": "Lalatendu Behera",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=g6YyO3gAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 53,
+      "h_index": 4,
+      "i10_index": 2
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 5.89,
+    "averagePerYear": 53.0,
+    "timesCited": 53,
+    "dedupedTimesCited": 53,
+    "activeYears": 0
+  },
+  "researchFields": [
+    {
+      "name": "Real-time Scheduling Theory",
+      "url": "/research_field/real-time_scheduling_theory"
+    },
+    {
+      "name": "Mixed-criticality Systems",
+      "url": "/research_field/mixed-criticality_systems"
+    },
+    {
+      "name": "Safety-critical Systems Design",
+      "url": "/research_field/safety-critical_systems_design"
+    }
+  ],
+  "publications": [
+    {
+      "title": "An energy-efficient time-triggered scheduling algorithm for mixed-criticality systems",
+      "year": "",
+      "citations": 22
+    },
+    {
+      "title": "Time-triggered scheduling for multiprocessor mixed-criticality systems",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "A fault-tolerant time-triggered scheduling algorithm of mixed-criticality systems",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Time-triggered scheduling of mixed-criticality systems",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Predictive Modeling of Cardiovascular Disease using Machine Learning Techniques",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Prediction of Failure in Scania Truck Due to Air Pressure System Failure",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "An Efficient Fog Computing Platform Through Genetic Algorithm-Based Scheduling",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "MCDPS: An Improved Global Scheduling Algorithm for Multiprocessor Mixed-Criticality Systems",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Time-triggered scheduling algorithms for mixed-criticality systems",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Computer Science",
+    "Engineering",
+    "Information Technology",
+    "Optimization"
+  ]
+}

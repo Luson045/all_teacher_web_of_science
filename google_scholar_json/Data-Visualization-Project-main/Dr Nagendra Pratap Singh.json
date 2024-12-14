@@ -1,0 +1,375 @@
+{
+  "personalInfo": {
+    "name": "Dr Nagendra Pratap Singh",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=Yd-UKrsAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 662,
+      "h_index": 14,
+      "i10_index": 15
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 10.03,
+    "averagePerYear": 662.0,
+    "timesCited": 662,
+    "dedupedTimesCited": 662,
+    "activeYears": 0
+  },
+  "researchFields": [
+    {
+      "name": "Medical Image Processing and Computer Vision",
+      "url": "/research_field/medical_image_processing_and_computer_vision"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Retinal blood vessels segmentation by using Gumbel probability distribution function based matched filter",
+      "year": "",
+      "citations": 158
+    },
+    {
+      "title": "Frechet PDF based matched filter approach for retinal blood vessels segmentation",
+      "year": "",
+      "citations": 52
+    },
+    {
+      "title": "Local entropy thresholding based fast retinal vessels segmentation by modifying matched filter",
+      "year": "",
+      "citations": 48
+    },
+    {
+      "title": "Machine learning-based classification of good and rotten apple",
+      "year": "",
+      "citations": 45
+    },
+    {
+      "title": "On scheduling transaction in grid computing using cuckoo search-ant colony optimization considering load",
+      "year": "",
+      "citations": 39
+    },
+    {
+      "title": "Mushroom classification using feature-based machine learning approach",
+      "year": "",
+      "citations": 34
+    },
+    {
+      "title": "Extraction of retinal blood vessels by using an extended matched filter based on second derivative of Gaussian",
+      "year": "",
+      "citations": 27
+    },
+    {
+      "title": "Retinal disease prediction through blood vessel segmentation and classification using ensemble-based deep learning approaches",
+      "year": "",
+      "citations": 24
+    },
+    {
+      "title": "Analysis of retinal blood vessel segmentation techniques: a systematic survey",
+      "year": "",
+      "citations": 20
+    },
+    {
+      "title": "Segmentation of retinal blood vessels by using a matched filter based on second derivative of Gaussian",
+      "year": "",
+      "citations": 19
+    },
+    {
+      "title": "Classification of normal and abnormal retinal images by using feature-based machine learning approach",
+      "year": "",
+      "citations": 17
+    },
+    {
+      "title": "Image enhancement: a review",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "Melanoma skin cancer detection using various classifiers",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "Weibull probability distribution function-based matched filter approach for retinal blood vessels segmentation",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "Efficient Segmentation and Registration of Retinal Image Using Gumble Probability Distribution and BRISK Feature.",
+      "year": "",
+      "citations": 12
+    },
+    {
+      "title": "Novel ALBP and OLBP features for gender prediction from offline handwriting",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Feature based leaf identification",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Brain Tumor Classification Using Deep Learning Techniques",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Genetic variability and analysis of yield components in linseed germplasm.",
+      "year": "",
+      "citations": 8
+    },
+    {
+      "title": "Analytical review of test redundancy detection techniques",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "The review: Lifecycle of object-oriented software testing",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "STRAMPN: Histopathological image dataset for ovarian cancer detection incorporating AI-based methods",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Segmentation of retinal blood vessel using generalized extreme value probability distribution function (pdf)-based matched filter approach",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "An efficient registration-based approach for retinal blood vessel segmentation using generalized pareto and fatigue pdf",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Deep Learning-Based Networks to Detect Leaf Disease in Maize and Corn",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Efficient kernel based matched filter approach for segmentation of retinal blood vessels",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "An ID-based signature scheme from bilinear pairing based on EX-K-Plus problem",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "Automated tongue contour extraction from ultrasound sequences using signal enhancing neural network and energy minimized spline",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Retinal blood vessel segmentation using a generalized gamma probability distribution function (pdf) of matched filtered",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Segmentation of retinal blood vessel using an algorithm-based gamma distribution of matched filter",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Deep learning driven automated malaria parasite detection in thin blood smears",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Retinal blood vessels segmentation using Wald PDF and MSMO operator",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Retinal blood vessels segmentation using fréchet PDF and MSMO method",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Dependability analysis for on-demand computing based transaction processing system",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Analysis of Software Complexity Measures for Regression Testing",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "An ensemble learning approach for large scale birds species classification",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Identification of retinal diseases based on retinal blood vessel segmentation using Dagum PDF and feature-based machine learning",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Bell-Pepper Leaf Bacterial Spot Detection Using AlexNet and VGG-16",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Retinal image enhancement using hybrid approach",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Brain tumor detection using texture based LBP feature on MRI images using feature selection technique",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Skin Cancer Detection Using Deep Learning Approach",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Segmentation of retinal blood vessel structure using Birnbaum-Saunders (fatigue life) probability distribution function",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "An Intelligent Approach for Retinal Vessels Extraction Based on Transfer Learning",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Design and Investigation of Junction-less TFET (JL-TFET) for the Realization of Logic Gates",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Survey of AI-driven techniques for ovarian cancer detection: state-of-the-art methods and open challenges",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Non-Invasive Blood Group Prediction Using Optimized EfficientNet Architecture: A Systematic Approach",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Oral Cancer Detection at an Earlier",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Skin cancer detection by using squeeze and excitation method",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Oral Cancer Detection at an Earlier Stage",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Survey on Optical Coherence Tomography",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Ovarian cancer identification using transfer learning",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Analysis on Machine Learning Strategies for Carcinoma Detection Biomarker",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Patching based Deep Learning approach for Retinal blood vessels segmentation",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Augmentation of medical image dataset using GAN",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "COVID Prediction Using Different Modality of Medical Imaging",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Left Ventricle Volume Analysis in Cardiac MRI Images Using Convolutional Neural Networks",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Attention-Based Deep Learning Approach for Semantic Analysis of Chest X-Ray Images Modality",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Semantic Analysis of Chest X-Ray using an Attention-based CNN",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Gender Recognition by Voice Using Machine Learning",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Comparatively Study of Machine Learning Approaches to Predict Service of Disease Haemophilia A",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Feature based leaf identification",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Efﬁcient Approaches for Retinal Image Blood Vessels Segmentation and Registration",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "An Approach to Filter the Test Data for Killing Multiple Mutants in Different Locations",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Non-Invasive Blood Group Prediction Using Optimized EfficientNet Architecture: A Systematic Approach",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Efficient Segmentation and Registration of Retinal Image Using Gumble Probability Distribution and BRISK Feature Efficient Segmentation and Registration of Retinal Image Using …",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Dependability Analysis for On-Demand Computing Based Transaction Processing System",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Communication Systems",
+    "Computer Science",
+    "Engineering",
+    "Image Processing",
+    "Information Technology",
+    "Mathematics",
+    "Networking",
+    "Optimization",
+    "Software Engineering"
+  ]
+}

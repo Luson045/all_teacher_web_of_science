@@ -1,0 +1,119 @@
+{
+  "personalInfo": {
+    "name": "Sumit Kumar",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=FwQGA4cAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 159,
+      "h_index": 6,
+      "i10_index": 4
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 12.23,
+    "averagePerYear": 159.0,
+    "timesCited": 159,
+    "dedupedTimesCited": 159,
+    "activeYears": 0
+  },
+  "researchFields": [
+    {
+      "name": "Wireless Sensor Network",
+      "url": "/research_field/wireless_sensor_network"
+    },
+    {
+      "name": "Edge Computing",
+      "url": "/research_field/edge_computing"
+    },
+    {
+      "name": "Internet of Things",
+      "url": "/research_field/internet_of_things"
+    },
+    {
+      "name": "Game Theory",
+      "url": "/research_field/game_theory"
+    }
+  ],
+  "publications": [
+    {
+      "title": "A survey on scheduling algorithms for wireless sensor networks",
+      "year": "",
+      "citations": 79
+    },
+    {
+      "title": "A game-theoretic approach for increasing resource utilization in edge computing enabled internet of things",
+      "year": "",
+      "citations": 18
+    },
+    {
+      "title": "A game-theoretic approach for cost-effective multicast routing in the internet of things",
+      "year": "",
+      "citations": 18
+    },
+    {
+      "title": "The design of a secure key management system in vehicular ad hoc networks",
+      "year": "",
+      "citations": 14
+    },
+    {
+      "title": "Energy efficient scheduling algorithm with interference reduction for wireless sensor networks",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "A Distributed Load Balancing Technique for Multitenant Edge Servers With Bottleneck Resources",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "A cost-effective and QoS-aware user allocation approach for edge computing enabled IoT",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Caching Techniques in Edge Computing and Challenges",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "QoS driven cost-efficient resource allocation in edge computing: A distributed game theoretic approach",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Resource allocation in edge computing: A game-theoretic perspective",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Multicasting: A Game-Theoretic Method for Constructing an Efficient Multicast Tree",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Event Based Energy Efficient Routing Protocol for Wireless Sensor Networks (WSNs)",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "A Technique for Faster Convergence of Game-Theoretic Approaches for Edge Computing Resource Allocation",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Communication Systems",
+    "Computer Science",
+    "Engineering",
+    "Information Technology",
+    "IoT",
+    "Networking",
+    "Operating Systems"
+  ]
+}

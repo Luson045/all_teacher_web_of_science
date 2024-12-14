@@ -1,0 +1,277 @@
+{
+  "personalInfo": {
+    "name": "Dr. Prashant Kumar",
+    "institution": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "department": "Computer Science and Engineering",
+    "role": "Professor",
+    "startDate": "",
+    "endDate": "present",
+    "url": "https://scholar.google.com/citations?view_op=medium_photo&user=iTfItCMAAAAJ",
+    "careerSpan": ""
+  },
+  "metrics": {
+    "citations": {
+      "total": 503,
+      "h_index": 11,
+      "i10_index": 15
+    },
+    "yearWiseCitations": {},
+    "averagePerItem": 11.43,
+    "averagePerYear": 503.0,
+    "timesCited": 503,
+    "dedupedTimesCited": 503,
+    "activeYears": 0
+  },
+  "researchFields": [
+    {
+      "name": "Internet of Things",
+      "url": "/research_field/internet_of_things"
+    },
+    {
+      "name": "Opportunistic Networks",
+      "url": "/research_field/opportunistic_networks"
+    },
+    {
+      "name": "Mobile Adhoc Networks",
+      "url": "/research_field/mobile_adhoc_networks"
+    },
+    {
+      "name": "Wireless Networks Security",
+      "url": "/research_field/wireless_networks_security"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Forest fire detection system using IoT and artificial neural network",
+      "year": "",
+      "citations": 96
+    },
+    {
+      "title": "An intelligent transportation systems architecture using wireless sensor networks",
+      "year": "",
+      "citations": 72
+    },
+    {
+      "title": "Near field communication",
+      "year": "",
+      "citations": 44
+    },
+    {
+      "title": "Proactive approach for cooperative caching in mobile adhoc networks",
+      "year": "",
+      "citations": 35
+    },
+    {
+      "title": "Effective cache based policies in wireless sensor networks: A survey",
+      "year": "",
+      "citations": 33
+    },
+    {
+      "title": "A survey on data dissemination techniques used in VANETs",
+      "year": "",
+      "citations": 30
+    },
+    {
+      "title": "Issues and challenges related to privacy and security in healthcare using iot, fog, and cloud computing",
+      "year": "",
+      "citations": 21
+    },
+    {
+      "title": "A comprehensive study on issues and challenges related to privacy and security in IoT",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "An optimized approach for secure data transmission using spread spectrum audio steganography, chaos theory, and social impact theory optimizer",
+      "year": "",
+      "citations": 16
+    },
+    {
+      "title": "Security Threats to Cloud Computing",
+      "year": "",
+      "citations": 15
+    },
+    {
+      "title": "Flood early detection system using internet of things and artificial neural networks",
+      "year": "",
+      "citations": 13
+    },
+    {
+      "title": "Security framework for opportunistic networks",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "Authentication with Privacy Preservation in Opportunistic Networks",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "Energy efficient dynamic group caching in mobile ad hoc networks for improving data accessibility",
+      "year": "",
+      "citations": 11
+    },
+    {
+      "title": "Clustering based opportunistic traffic offloading technique for device-to-device communication",
+      "year": "",
+      "citations": 10
+    },
+    {
+      "title": "Replica allocation techniques based on clusters for MANETs",
+      "year": "",
+      "citations": 9
+    },
+    {
+      "title": "Security and privacy of sensitive data in cloud computing using RSA",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "A review of cooperative cache management techniques in MANETs",
+      "year": "",
+      "citations": 7
+    },
+    {
+      "title": "Node activity based routing in opportunistic networks",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Cbrm–cluster based replica management in mobile adhoc networks",
+      "year": "",
+      "citations": 6
+    },
+    {
+      "title": "Cooperative Caching Strategies for MANETs and IMANETs",
+      "year": "",
+      "citations": 5
+    },
+    {
+      "title": "SF-APP: A secure framework for authentication and privacy preservation in opportunistic networks",
+      "year": "",
+      "citations": 4
+    },
+    {
+      "title": "Mobility models and simulation tools for opportunistic networks",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Cooperative cache replacement policy for MANETs",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "Edgc: efficient dynamic group caching technique for mobile ad hoc networks",
+      "year": "",
+      "citations": 3
+    },
+    {
+      "title": "A Vision-Based Pothole Detection Using CNN Model",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Challenges and applications of Li-Fi in D2D communication",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "NextContact: Neighbor Discovery Mechanism for Opportunistic Networks",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Enhancing data availability in manets with cooperative caching",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Effective Cache based Policies in Wireless Sensor Networks",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Proactive Approach for Cooperative Caching in Mobile Adhoc Networks",
+      "year": "",
+      "citations": 2
+    },
+    {
+      "title": "Blockchain based Federated Deep Learning Framework for Malware Attacks Detection in IoT Devices",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Analytical study for Price Prediction of Bitcoin using Machine Learning and Deep Learning",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Blockchain-based Claim Verification and Approval System for Disbursing Fertilizer Subsidy",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "Node movement based neighbor discovery in opportunistic networks",
+      "year": "",
+      "citations": 1
+    },
+    {
+      "title": "A Resilient Intrusion Detection System for IoT Environment Based on a Modified Stacking Ensemble Classifier",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Benevolence Behavior Based Message Forwarding Scheme for Consumer-Centric IoT Opportunistic Networks",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Optimizing Resource Management in Serverless Computing: A Dynamic Adaptive Scaling Approach",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A secured GA-WPC framework for scheduling the independent tasks in cloud environment",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "A Lightweight Trust Based Secure Authentication Mechanism for IoT Devices",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Performance Evaluation of Ensemble Classifiers for Anomaly Detection in IoT Environment",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Road Safety Modeling: Safe Road for All",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "Smart water quality analysis system using datapine",
+      "year": "",
+      "citations": 0
+    },
+    {
+      "title": "SONIC: Stability of Nodes in Cooperative Caching for Wireless Network",
+      "year": "",
+      "citations": 0
+    }
+  ],
+  "categories": [
+    "Artificial Intelligence",
+    "Communication Systems",
+    "Computer Science",
+    "Engineering",
+    "Information Technology",
+    "IoT",
+    "Networking",
+    "Operating Systems",
+    "Security",
+    "Software Engineering"
+  ]
+}
