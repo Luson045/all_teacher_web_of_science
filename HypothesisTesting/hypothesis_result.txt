@@ -1,0 +1,23 @@
+T-test Results for Total Citations by Discipline:
+Networking: T-statistic = 0.6828, P-value = 0.5030
+OS: T-statistic = 2.5116, P-value = 0.0212
+Optics: T-statistic = 0.6606, P-value = 0.5168
+Optimization: T-statistic = 1.7247, P-value = 0.1008
+Research and Experimental Medicine: T-statistic = -0.3594, P-value = 0.7233
+Science and Technology: T-statistic = 0.5917, P-value = 0.5610
+Security: T-statistic = 2.8297, P-value = 0.0107
+Software Engineering: T-statistic = 0.5726, P-value = 0.5737
+Telecommunication: T-statistic = -0.5285, P-value = 0.6032
+Transportion: T-statistic = -0.2321, P-value = 0.8190
+
+T-test Results for H-index by Discipline:
+Networking: T-statistic = 0.9976, P-value = 0.3310
+OS: T-statistic = 2.4341, P-value = 0.0250
+Optics: T-statistic = 1.0249, P-value = 0.3183
+Optimization: T-statistic = 1.5640, P-value = 0.1343
+Research and Experimental Medicine: T-statistic = -0.5751, P-value = 0.5720
+Science and Technology: T-statistic = -0.1426, P-value = 0.8881
+Security: T-statistic = 3.1935, P-value = 0.0048
+Software Engineering: T-statistic = 0.6138, P-value = 0.5467
+Telecommunication: T-statistic = -0.5847, P-value = 0.5656
+Transportion: T-statistic = 0.0000, P-value = 1.0000
