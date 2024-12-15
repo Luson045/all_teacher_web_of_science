@@ -1,0 +1,12 @@
+normalized_summary = cluster_summary / cluster_summary.max()
+
+plt.figure(figsize=(10, 6))
+normalized_summary.T.plot(kind='bar', colormap='rainbow', figsize=(10, 6), alpha = 0.7)
+plt.title('Cluster Summary: Relative Mean of Features', weight = 'bold')
+plt.ylabel('Relative Mean (Normalized)')
+plt.xlabel('Features')
+plt.xticks(rotation=45)
+plt.legend(title='Cluster')
+plt.tight_layout()
+plt.savefig('/Users/harshvirmangla/Downloads/UMAPBar.png', dpi = 1000, bbox_inches = 'tight')
+plt.show()
